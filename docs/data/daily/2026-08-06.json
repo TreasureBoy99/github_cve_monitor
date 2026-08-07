@@ -1,0 +1,146 @@
+{
+  "date": "2026-08-06",
+  "count": 19,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-70553",
+      "repo_info": "[woshidashabi1126/CVE-2026-70553-PoC](https://github.com/woshidashabi1126/CVE-2026-70553-PoC)",
+      "description": "no description",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T14:10:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-69098",
+      "repo_info": "[0xdak/CVE-2026-69098_exploit](https://github.com/0xdak/CVE-2026-69098_exploit)",
+      "description": "no description",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T10:49:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-67598",
+      "repo_info": "[IlhomjonR/CVE-2026-67598](https://github.com/IlhomjonR/CVE-2026-67598)",
+      "description": "CVE-2026-67598 — Emlog Pro: disabled TLS certificate validation in AI assistant (MITM → API-key theft). CWE-295, CVSS 9.1. Reported by @IlhomjonR.",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T10:35:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-65058",
+      "repo_info": "[iktok90-design/trezor-cve-2026-65058](https://github.com/iktok90-design/trezor-cve-2026-65058)",
+      "description": "Security research: Trezor Safe calldata confirmation-binding bypass vulnerability analysis. Educational proof-of-concept for hardware wallet transaction display verification.",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T04:57:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-64633",
+      "repo_info": "[tfawnies/CVE-2026-64633](https://github.com/tfawnies/CVE-2026-64633)",
+      "description": "no description",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T07:33:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-59774",
+      "repo_info": "[FlowerWitch/CVE-2026-59774_docker](https://github.com/FlowerWitch/CVE-2026-59774_docker)",
+      "description": "CVE-2026-59774",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T05:43:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-58048",
+      "repo_info": "[tc4dy/CVE-2026-58048-PoC-Exploit](https://github.com/tc4dy/CVE-2026-58048-PoC-Exploit)",
+      "description": "👾 CVE-2026-58048 – cPanel Root SQL Execution Toolkit (CVSS 9.4) - Full Red/Blue Team Toolkit suite for unpatched cPanel &amp; WHM 11.x. 2 tools: Safe Checker (audit/reporting), Weaponized (reverse shell, persistence, UDF RCE, deployment, file read/write, database operations, mass scan). w/Python. 🦾 Use Ethically, Stay Legal &lt;3",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T09:33:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-57827",
+      "repo_info": "[jjkk123123/CVE-2026-57827](https://github.com/jjkk123123/CVE-2026-57827)",
+      "description": "Joomla RSFiles 未授权文件上传CVE-2026-57827检测&amp;利用脚本",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T22:50:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-56164",
+      "repo_info": "[sam00/POC-CVE-2026-56164-exploit](https://github.com/sam00/POC-CVE-2026-56164-exploit)",
+      "description": "CVE-2026-56164 is a critical missing-authentication vulnerability affecting on-premises Microsoft SharePoint Server. It allows unauthenticated, remote attackers to elevate privileges over a network.",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T13:30:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-52886",
+      "repo_info": "[v3s9er/CVE-2026-52886](https://github.com/v3s9er/CVE-2026-52886)",
+      "description": "Notepad++ CVE-2026-52886 — session.xml backupFilePath starts_with() path traversal (GHSA-rqfm-pw34-r7j6)",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T07:24:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-38053",
+      "repo_info": "[Crypte1/CVE-2026-38053---Remove-PPL](https://github.com/Crypte1/CVE-2026-38053---Remove-PPL)",
+      "description": "BYOVD Remove PPL for 24H2 and 25H2",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T20:34:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-34990",
+      "repo_info": "[HORKimhab/CVE-2026-34990](https://github.com/HORKimhab/CVE-2026-34990)",
+      "description": "CVE-2026-34990 - Draft or Todo",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T04:46:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-34980",
+      "repo_info": "[HORKimhab/CVE-2026-34980](https://github.com/HORKimhab/CVE-2026-34980)",
+      "description": "CVE-2026-34980 - Draft or Todo",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T04:45:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-25243",
+      "repo_info": "[captain-woof/CVE-2026-25243](https://github.com/captain-woof/CVE-2026-25243)",
+      "description": "Stable POC for CVE-2026-25243 (Redis RESTORE double-free -&gt; remote code execution)",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T06:28:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-18649",
+      "repo_info": "[0xSemizzz/CVE-2026-18649](https://github.com/0xSemizzz/CVE-2026-18649)",
+      "description": "Proof of concept for CVE-2026-18649, a remote denial of service vulnerability in GStreamer&#x27;s H.264 RTP depayloader (rtph264depay).",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T17:14:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-18556",
+      "repo_info": "[CreamyG31337/ncentral-compromise-ioc-triage](https://github.com/CreamyG31337/ncentral-compromise-ioc-triage)",
+      "description": "Read-only N-able N-central CVE-2026-18556/CVE-2026-18577 post-exploitation IoC hunter for Windows endpoints",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T00:01:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-17543",
+      "repo_info": "[Hunt-Benito/e-is-for-exploit-cve-2026-17543-php-pgsql-sql-injection-backslash-breakout](https://github.com/Hunt-Benito/e-is-for-exploit-cve-2026-17543-php-pgsql-sql-injection-backslash-breakout)",
+      "description": "no description",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T17:05:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-0300",
+      "repo_info": "[sam00/POC-CVE-2026-0300-exploit](https://github.com/sam00/POC-CVE-2026-0300-exploit)",
+      "description": "Palo Alto - CVE-2026-0300 exploit",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T12:37:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-0163",
+      "repo_info": "[sentinel-aidefense/CVE-2026-0163-EXP](https://github.com/sentinel-aidefense/CVE-2026-0163-EXP)",
+      "description": "CVE-2026-0163 Exploit",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T11:40:01Z"
+    }
+  ],
+  "generated_at": "2026-08-07T03:55:16.338318",
+  "metadata": {
+    "total_cves": 19,
+    "date_range": "2026-08-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

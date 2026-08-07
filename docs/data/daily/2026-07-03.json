@@ -1,6 +1,6 @@
 {
   "date": "2026-07-03",
-  "count": 11,
+  "count": 12,
   "cves": [
     {
       "cve_id": "CVE-2026-8451",
@@ -22,6 +22,13 @@
       "description": "Crawl4AI is an open-source LLM friendly web crawler &amp; scraper. Prior to 0.8.7, the _safe_eval_expression() function in the computed fields feature uses an AST validator that only blocks attributes starting with underscore.",
       "date": "2026-07-03",
       "raw_date": "2026-07-03T02:17:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-53362",
+      "repo_info": "[suominen/ipv6_frag_escape](https://github.com/suominen/ipv6_frag_escape)",
+      "description": "Tracking IPV6_FRAG_ESCAPE (CVE-2026-53362, CVE-2026-53366), the IPv6 fragmentation container escape",
+      "date": "2026-07-03",
+      "raw_date": "2026-07-03T11:30:56Z"
     },
     {
       "cve_id": "CVE-2026-49468",
@@ -80,9 +87,9 @@
       "raw_date": "2026-07-03T08:35:14Z"
     }
   ],
-  "generated_at": "2026-08-07T02:41:25.719432",
+  "generated_at": "2026-08-07T03:55:16.328540",
   "metadata": {
-    "total_cves": 11,
+    "total_cves": 12,
     "date_range": "2026-07-03",
     "source": "README.md",
     "script_version": "2.0"

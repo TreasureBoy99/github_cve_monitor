@@ -1,13 +1,104 @@
 {
   "date": "2026-07-30",
-  "count": 3,
+  "count": 19,
   "cves": [
+    {
+      "cve_id": "CVE-2026-66421",
+      "repo_info": "[theopaid/CVE-2026-66421-OpenClaw-Dashboard-Stored-XSS-via-lastMessage-Session-Field](https://github.com/theopaid/CVE-2026-66421-OpenClaw-Dashboard-Stored-XSS-via-lastMessage-Session-Field)",
+      "description": "Security Advisory: Stored Cross-Site Scripting Via Agent Messages Leading To Session Token Theft (openclaw-dashboard)",
+      "date": "2026-07-30",
+      "raw_date": "2026-07-30T05:16:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-66418",
+      "repo_info": "[theopaid/CVE-2026-66418-OpenClaw-Dashboard-v3.0.0-Stored-XSS-via-Failed-Login-Username-Field](https://github.com/theopaid/CVE-2026-66418-OpenClaw-Dashboard-v3.0.0-Stored-XSS-via-Failed-Login-Username-Field)",
+      "description": "Security Advisory: Unauthenticated Stored Cross-Site Scripting Leading To Administrator Account Takeover (openclaw-dashboard)",
+      "date": "2026-07-30",
+      "raw_date": "2026-07-30T05:10:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-66066",
+      "repo_info": "[rails/rails-forensics-CVE-2026-66066](https://github.com/rails/rails-forensics-CVE-2026-66066)",
+      "description": "no description",
+      "date": "2026-07-30",
+      "raw_date": "2026-07-30T21:06:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-65883",
+      "repo_info": "[shinthink/CVE-2026-65883](https://github.com/shinthink/CVE-2026-65883)",
+      "description": "Aimy Captcha-Less Form Guard Joomla Component PHP Object Injection RCE. clfgd XOR keystream recovery + unserialize(). CVSS 10.0 - CWE-502 - aimy_captcha-less_form_guard &lt; 20.1",
+      "date": "2026-07-30",
+      "raw_date": "2026-07-30T22:07:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-63077",
+      "repo_info": "[unveiledhistory49/teamcity-cve-2026-63077-remediation](https://github.com/unveiledhistory49/teamcity-cve-2026-63077-remediation)",
+      "description": "JetBrains TeamCity On-Premises CVE-2026-63077 Emergency Hardening &amp; Patch Runbook Package",
+      "date": "2026-07-30",
+      "raw_date": "2026-07-30T20:12:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[Industri4l-H3ll-Xpl0it3rs/CVE-2026-63030-WP2Shell](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-63030-WP2Shell)",
+      "description": "CVE-2026-63030 Exploit - by gr1tx",
+      "date": "2026-07-30",
+      "raw_date": "2026-07-30T22:23:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-61511",
+      "repo_info": "[shootcannon/CVE-2026-61511](https://github.com/shootcannon/CVE-2026-61511)",
+      "description": "no description",
+      "date": "2026-07-30",
+      "raw_date": "2026-07-30T04:51:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-61424",
+      "repo_info": "[shinthink/CVE-2026-61424](https://github.com/shinthink/CVE-2026-61424)",
+      "description": "DJ-Classifieds Joomla Component Unauthenticated File Upload RCE. 3-string filter bypass via PHP short tags. CVSS 10.0 - CWE-434 - com_djclassifieds &lt; 3.11.2",
+      "date": "2026-07-30",
+      "raw_date": "2026-07-30T20:37:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-60004",
+      "repo_info": "[EQSTLab/CVE-2026-60004](https://github.com/EQSTLab/CVE-2026-60004)",
+      "description": "Gitea diffpatch RCE",
+      "date": "2026-07-30",
+      "raw_date": "2026-07-30T08:19:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-60004",
+      "repo_info": "[0xBlackash/CVE-2026-60004](https://github.com/0xBlackash/CVE-2026-60004)",
+      "description": "CVE-2026-60004",
+      "date": "2026-07-30",
+      "raw_date": "2026-07-30T22:24:16Z"
+    },
     {
       "cve_id": "CVE-2026-59726",
       "repo_info": "[HORKimhab/CVE-2026-59726](https://github.com/HORKimhab/CVE-2026-59726)",
       "description": "CVE-2026-59726 - Draft or Todo",
       "date": "2026-07-30",
       "raw_date": "2026-07-30T01:23:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-57827",
+      "repo_info": "[Candisexterior171/CVE-2026-57827](https://github.com/Candisexterior171/CVE-2026-57827)",
+      "description": "Demonstrate the unauthenticated remote code execution vulnerability in the RSFiles! Joomla component through an arbitrary file upload.",
+      "date": "2026-07-30",
+      "raw_date": "2026-07-30T20:49:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-49865",
+      "repo_info": "[cyeezy08/Kimai-CVE-2026-49865-POC](https://github.com/cyeezy08/Kimai-CVE-2026-49865-POC)",
+      "description": "PoC exploits for CVE-2026-52824 (GHSA-jr9p-4h4j-6c58) — Kimai time-tracking default APP_SECRET authentication bypass affecting versions ≤ 2.57.0",
+      "date": "2026-07-30",
+      "raw_date": "2026-07-30T05:40:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-46331",
+      "repo_info": "[nawalacheker1/CVE-2026-46331](https://github.com/nawalacheker1/CVE-2026-46331)",
+      "description": "no description",
+      "date": "2026-07-30",
+      "raw_date": "2026-07-30T07:57:24Z"
     },
     {
       "cve_id": "CVE-2026-43499",
@@ -17,6 +108,27 @@
       "raw_date": "2026-07-30T04:01:11Z"
     },
     {
+      "cve_id": "CVE-2026-33937",
+      "repo_info": "[garlic-wizard/CVE-2026-33937-for-DarkZeroReturns](https://github.com/garlic-wizard/CVE-2026-33937-for-DarkZeroReturns)",
+      "description": "this is a poc for CVE-2026-33937",
+      "date": "2026-07-30",
+      "raw_date": "2026-07-30T20:23:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-16723",
+      "repo_info": "[1xPwn/CVE-2026-16723](https://github.com/1xPwn/CVE-2026-16723)",
+      "description": "A critical vulnerability affecting Fastjson versions 1.2.68 – 1.2.83.",
+      "date": "2026-07-30",
+      "raw_date": "2026-07-30T12:17:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-16723",
+      "repo_info": "[EQSTLab/CVE-2026-16723](https://github.com/EQSTLab/CVE-2026-16723)",
+      "description": "Fastjson RCE",
+      "date": "2026-07-30",
+      "raw_date": "2026-07-30T07:40:31Z"
+    },
+    {
       "cve_id": "CVE-2026-10702",
       "repo_info": "[HORKimhab/CVE-2026-10702](https://github.com/HORKimhab/CVE-2026-10702)",
       "description": "CVE-2026-10702",
@@ -24,9 +136,9 @@
       "raw_date": "2026-07-30T01:38:15Z"
     }
   ],
-  "generated_at": "2026-08-07T02:41:25.728424",
+  "generated_at": "2026-08-07T03:55:16.335961",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 19,
     "date_range": "2026-07-30",
     "source": "README.md",
     "script_version": "2.0"

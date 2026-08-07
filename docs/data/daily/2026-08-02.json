@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-02",
+  "count": 21,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-9811",
+      "repo_info": "[aj2108/CVE-2026-9811](https://github.com/aj2108/CVE-2026-9811)",
+      "description": "CVE-2026-9811 is a Stored Cross-Site Scripting (Stored XSS) vulnerability affecting Mautic 7 (versions 7.0.0 through 7.1.1).",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T11:38:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-9809",
+      "repo_info": "[aj2108/CVE-2026-9809](https://github.com/aj2108/CVE-2026-9809)",
+      "description": "CVE-2026-9809 is a Stored Cross-Site Scripting (Stored XSS) vulnerability affecting Mautic 7 (versions 7.0.0 through 7.1.1).",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T12:21:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-9806",
+      "repo_info": "[aj2108/CVE-2026-9806](https://github.com/aj2108/CVE-2026-9806)",
+      "description": "CVE-2026-9806 is a Stored Cross-Site Scripting (Stored XSS) vulnerability affecting CTI Transmute versions prior to the patched release.",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T19:43:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[johnlodan/wp2shell-rce](https://github.com/johnlodan/wp2shell-rce)",
+      "description": "WordPress CVE-2026-63030 and CVE-2026-60137 security tool for detecting exposure to the WP2Shell pre-authentication RCE chain.",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T16:33:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-59941",
+      "repo_info": "[far00t01/CVE-2026-59941](https://github.com/far00t01/CVE-2026-59941)",
+      "description": "Dompdf: Denial of Service (DoS) via Resource Exhaustion using Oversized Image Bitmaps",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T08:54:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-58424",
+      "repo_info": "[BridgerAlderson/CVE-2026-58424](https://github.com/BridgerAlderson/CVE-2026-58424)",
+      "description": "A flaw in Gitea Open Source Git Server’s approval‑gate logic allows a pull request that originates from a permanent fork to merge without satisfying the repository’s configured approval gates.",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T09:18:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-57827",
+      "repo_info": "[Mohammad-008/rsfiles-CVE-2026-57827](https://github.com/Mohammad-008/rsfiles-CVE-2026-57827)",
+      "description": "Unauthenticated File Upload → RCE PoC for CVE-2026-57827 (RSFiles! Joomla &lt; 1.17.12). Authorized security research use only.",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T08:21:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-49049",
+      "repo_info": "[Jenderal92/CVE-2026-49049](https://github.com/Jenderal92/CVE-2026-49049)",
+      "description": "Mass vulnerability scanner for CVE-2026-49049 – Unauthenticated Remote Code Execution in Joomla Helix3 plugin. Multi‑threaded, detects both executed and raw PHP payloads.",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T02:42:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[alex193a/Root-My-Pixel](https://github.com/alex193a/Root-My-Pixel)",
+      "description": "Jailbreak supported Google Pixel phones with CVE-2026-43499",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T17:34:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[boxiaolanya2008/CVE-2026-43499-Neo11Plus](https://github.com/boxiaolanya2008/CVE-2026-43499-Neo11Plus)",
+      "description": "no description",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T08:10:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[veygax/HORiZonstack](https://github.com/veygax/HORiZonstack)",
+      "description": "CVE-2026-43499 for the Meta Quest",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T00:53:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-43284",
+      "repo_info": "[RevyHub/CVE-2026-43284---DirtyFrag-Analysis-THM-](https://github.com/RevyHub/CVE-2026-43284---DirtyFrag-Analysis-THM-)",
+      "description": "TryHackMe Dirty Frag (CVE-2026-43284) — Linux LPE writeup",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T20:57:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-41651",
+      "repo_info": "[gbuyssens/CVE-2026-41651](https://github.com/gbuyssens/CVE-2026-41651)",
+      "description": "Local privilege escalation via TOCTOU race condition in PackageKit&#x27;s.",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T10:57:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-39987",
+      "repo_info": "[jasonbernier/CVE-2026-39987](https://github.com/jasonbernier/CVE-2026-39987)",
+      "description": "Simple POC for CVE-2026-39987",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T14:22:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-39987",
+      "repo_info": "[vanhari/CVE-2026-39987](https://github.com/vanhari/CVE-2026-39987)",
+      "description": "CVE-2026-39987 poc",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T17:34:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-39987",
+      "repo_info": "[gbuyssens/CVE-2026-39987](https://github.com/gbuyssens/CVE-2026-39987)",
+      "description": "Marimo exploit prior to 0.23.0. Pre-Auth RCE vulnerability via websocket endpoint : /terminal/ws.",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T10:05:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-3854",
+      "repo_info": "[royaleybovich/CVE-2026-3854-lab](https://github.com/royaleybovich/CVE-2026-3854-lab)",
+      "description": "no description",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T15:30:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-32746",
+      "repo_info": "[MonkeySeC-sys/Kangaroo](https://github.com/MonkeySeC-sys/Kangaroo)",
+      "description": "Kangaroo is a exploit built on CVE-2026-32746.  i made this for security researchers, IT professionals, DevOps. so they can understand it better. DO NOT USE THIS FOR ILLEGAL USE, IF YOU DO... YOU MAY BE SUBJECT TO ARREST, AND FINES.",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T22:44:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[TrevoCastles/CVE-2026-31431-copy-fail](https://github.com/TrevoCastles/CVE-2026-31431-copy-fail)",
+      "description": "no description",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T23:15:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-27912",
+      "repo_info": "[Semperis-Community/ResetNightmare](https://github.com/Semperis-Community/ResetNightmare)",
+      "description": "POC tool for ResetNightmare (CVE-2026-27912)",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T12:36:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-13714",
+      "repo_info": "[Nxploited/CVE-2026-13714](https://github.com/Nxploited/CVE-2026-13714)",
+      "description": "Realtyna Organic IDX plugin + WPL Real Estate &lt; 5.3.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T17:21:27Z"
+    }
+  ],
+  "generated_at": "2026-08-07T03:55:16.336665",
+  "metadata": {
+    "total_cves": 21,
+    "date_range": "2026-08-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

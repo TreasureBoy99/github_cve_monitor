@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-07",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-70559",
+      "repo_info": "[codeb0ssx/CVE-2026-70559-PoC](https://github.com/codeb0ssx/CVE-2026-70559-PoC)",
+      "description": "CVE-2026-70559",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T02:56:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-64561",
+      "repo_info": "[HORKimhab/CVE-2026-64561](https://github.com/HORKimhab/CVE-2026-64561)",
+      "description": "CVE-2026-64561",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T01:28:41Z"
+    }
+  ],
+  "generated_at": "2026-08-07T03:55:16.338514",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-08-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

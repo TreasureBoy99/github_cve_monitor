@@ -1,7 +1,14 @@
 {
   "date": "2026-03-03",
-  "count": 1,
+  "count": 2,
   "cves": [
+    {
+      "cve_id": "CVE-2026-32941",
+      "repo_info": "[skoveit/CVE-2026-32941](https://github.com/skoveit/CVE-2026-32941)",
+      "description": "CVE-2026-32941 PoC - Sliver Remote OOM",
+      "date": "2026-03-03",
+      "raw_date": "2026-03-03T23:57:19Z"
+    },
     {
       "cve_id": "CVE-2026-2441",
       "repo_info": "[fartlover37/CVE-2026-2441-PoC](https://github.com/fartlover37/CVE-2026-2441-PoC)",
@@ -10,9 +17,9 @@
       "raw_date": "2026-03-03T14:19:18Z"
     }
   ],
-  "generated_at": "2026-08-07T02:41:25.705111",
+  "generated_at": "2026-08-07T03:55:16.318583",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-03-03",
     "source": "README.md",
     "script_version": "2.0"

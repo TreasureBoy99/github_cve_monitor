@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-07-30 04:10:16
+- **生成时间**: 2026-08-07 03:54:36
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -361,9 +361,21 @@
 | 🚫 未识别 | [mwnickerson/certighost-bof](https://github.com/mwnickerson/certighost-bof) | Beacon Object File for CVE 2026-54121 | 2026-07-28T16:10:33Z|
 | 🚫 未识别 | [supercomputingmadeeasy-bot/7z-wrapper](https://github.com/supercomputingmadeeasy-bot/7z-wrapper) | `7z-safe` is a security-hardened drop-in replacement for the `7z` command on Linux.   It wraps the standard 7-Zip binary with multiple layers of defence that directly address every known CVE in the 2025–2026 7-Zip release series, while adding protection against zip bombs, path traversal attacks, and malicious archive formats. | 2026-07-28T15:26:33Z|
 | 🚫 未识别 | [tecnico4righettisollevamenti/SIL-CVE-2026](https://github.com/tecnico4righettisollevamenti/SIL-CVE-2026) | no description | 2026-07-28T09:36:45Z|
+| 🚫 未识别 | [seanjamesqtbb9847/cve-tools-editorial-hub](https://github.com/seanjamesqtbb9847/cve-tools-editorial-hub) | CVE Tools is a 2026 productivity toolkit for video editors, combining browser-based and local-server utilities for subtitles, lyrics, media preparation, audio stem extraction, color comparison, and final-art coordination. | 2026-08-01T23:16:02Z|
+| 🚫 未识别 | [xiaoqiMikko/tomcat-check](https://github.com/xiaoqiMikko/tomcat-check) | 查出 Spring Boot 内嵌 Tomcat 的真实版本(pom 里没有),并对每条 2026 年 CVE 同时给出 ASF 官方评级与 GitHub 评级、触发条件、以及这条会不会进 Dependabot 告警 | 2026-08-06T05:48:01Z|
+| 🚫 未识别 | [TreasureBoy99/cve-2026-poc-collection](https://github.com/TreasureBoy99/cve-2026-poc-collection) | Restored from anonymous99-Rise | 2026-08-06T01:26:25Z|
+| 🚫 未识别 | [xiaoqiMikko/bc-check](https://github.com/xiaoqiMikko/bc-check) | Offline scanner telling you which of the 2026 Bouncy Castle CVEs actually apply to you - across BC, BC-LTS and BC-FJA (FIPS), which do not share a version scheme. | 2026-08-05T14:02:43Z|
+| 🚫 未识别 | [HackSpeak/linux-lpe-2026](https://github.com/HackSpeak/linux-lpe-2026) | 2026 Linux kernel LPE roundup - technical analysis + complete CVE index (Copy Fail, Dirty Frag, RefluXFS, ptrace, tc_action, etc.) | 2026-08-05T11:06:15Z|
+| 🚫 未识别 | [Belal-Elnozahy/ieee-aast-ctf-2026-CVE-III](https://github.com/Belal-Elnozahy/ieee-aast-ctf-2026-CVE-III) | IEEE AAST CTF 2026 CVE III - full challenge set and documentation | 2026-08-01T14:30:10Z|
+| 🚫 未识别 | [sylhetyhackvenger/SMTPXploit](https://github.com/sylhetyhackvenger/SMTPXploit) | Advanced SMTP penetration testing framework featuring AI-driven anomaly detection, 2026 CVE database, multi-threaded brute force, email harvesting, TLS certificate analysis, SPF/DKIM/DMARC validation, and interactive TUI. Gray hat tool for professional security assessments and bug bounty hunting. | 2026-08-01T10:35:58Z|
+| 🚫 未识别 | [Kinnu-Github69/SentinelMind](https://github.com/Kinnu-Github69/SentinelMind) | Network intrusion detection with LLM-generated incident explanations. Mines attack patterns from network traffic, then explains detections in natural language grounded in MITRE ATT&amp;CK and CVE data. Includes a prompt-injection test suite against its own reporting pipeline. In development, Aug–Dec 2026. | 2026-08-01T10:35:48Z|
+| 🚫 未识别 | [samael0x4/CVE-2026](https://github.com/samael0x4/CVE-2026) | no description | 2026-01-15T20:48:07Z|
+| 🚫 未识别 | [Harshsanghvi108/CVE-2026-PENDING-AAVISHKAR-1](https://github.com/Harshsanghvi108/CVE-2026-PENDING-AAVISHKAR-1) | Aavishkar Institute Management System - Broken Access Control - Full Admin Panel Without Authentication | 2026-07-31T13:19:40Z|
+| 🚫 未识别 | [Harshsanghvi108/CVE-2026-PENDING-EMS](https://github.com/Harshsanghvi108/CVE-2026-PENDING-EMS) | CodeAstro Expense Management System 1.0 - Multiple Vulnerabilities (SQL Injection, Stored XSS) | 2026-07-31T12:16:28Z|
+| 🚫 未识别 | [poxsky/CVE-2026-XXXXX-Integer-Wraparound-in-Linux-Kernel-drm-xe-VM-Query-Pat](https://github.com/poxsky/CVE-2026-XXXXX-Integer-Wraparound-in-Linux-Kernel-drm-xe-VM-Query-Pat) | Integer Wraparound in Linux Kernel drm/xe VM Query Pat | 2026-07-30T18:18:13Z|
 
 
 ---
 
-**报告生成时间**: 2026-07-30 04:10:41  
-**总记录数**: 350
+**报告生成时间**: 2026-08-07 03:55:15  
+**总记录数**: 362

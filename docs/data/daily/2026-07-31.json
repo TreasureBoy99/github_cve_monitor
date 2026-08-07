@@ -1,0 +1,146 @@
+{
+  "date": "2026-07-31",
+  "count": 19,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-8347",
+      "repo_info": "[aj2108/CVE-2026-8347](https://github.com/aj2108/CVE-2026-8347)",
+      "description": "CVE-2026-8347 is an Insecure Direct Object Reference (IDOR) combined with a wrong authorization level vulnerability in Concrete CMS versions 9.5.0 and earlier. The flaw exists in the Express association Reorder dialog, allowing a user with only view permissions on an Express entry to modify the ordering of associations for another entity.",
+      "date": "2026-07-31",
+      "raw_date": "2026-07-31T08:34:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-8337",
+      "repo_info": "[aj2108/CVE-2026-8337](https://github.com/aj2108/CVE-2026-8337)",
+      "description": "CVE-2026-8337 is an Insecure Direct Object Reference (IDOR) vulnerability in Concrete CMS that affects the Survey feature. Unlike CVE-2026-8347 (which involved Express associations), this vulnerability allows an unauthenticated attacker to participate in a restricted/private survey under specific site configurations.",
+      "date": "2026-07-31",
+      "raw_date": "2026-07-31T19:59:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-67599",
+      "repo_info": "[LazyTitan33/CVE-2026-67599_ClearOS_RCE](https://github.com/LazyTitan33/CVE-2026-67599_ClearOS_RCE)",
+      "description": "Authenticated Blind OS Command Injection in ClearOS",
+      "date": "2026-07-31",
+      "raw_date": "2026-07-31T07:27:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-66066",
+      "repo_info": "[0xsha/KindaRails2Shell](https://github.com/0xsha/KindaRails2Shell)",
+      "description": "CVE-2026-66066 + File Read, RCE, Scanner, Lab",
+      "date": "2026-07-31",
+      "raw_date": "2026-07-31T16:51:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-64531",
+      "repo_info": "[mahfuzreham/OVSwrap-CVE-2026-64531-Mitigation-Tool](https://github.com/mahfuzreham/OVSwrap-CVE-2026-64531-Mitigation-Tool)",
+      "description": "no description",
+      "date": "2026-07-31",
+      "raw_date": "2026-07-31T15:21:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-63563",
+      "repo_info": "[redr0nin/CVE-2026-63563](https://github.com/redr0nin/CVE-2026-63563)",
+      "description": "Unauthenticated Address Book Modification on Sharp MX/BP Multifunction Printers",
+      "date": "2026-07-31",
+      "raw_date": "2026-07-31T14:41:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-54121",
+      "repo_info": "[KrakenEU/CVE-2026-54121-CertiGhost](https://github.com/KrakenEU/CVE-2026-54121-CertiGhost)",
+      "description": "CVE-2026-54121(CertiGhost) without MachineAccountQuota POC",
+      "date": "2026-07-31",
+      "raw_date": "2026-07-31T08:04:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-54121",
+      "repo_info": "[nafiez/Metasploit-CVE-2026-54121-Certighost](https://github.com/nafiez/Metasploit-CVE-2026-54121-Certighost)",
+      "description": "A Metasploit auxiliary module that escalates from any low-privileged domain user to full domain compromise by abusing the AD CS enrollment &quot;chase&quot; fallback.  The CA can be coerced into authenticating back to attacker-controlled infrastructure and then issuing a certificate that impersonates a Domain Controller.",
+      "date": "2026-07-31",
+      "raw_date": "2026-07-31T07:17:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-47668",
+      "repo_info": "[s-vx/CVE-2026-47668](https://github.com/s-vx/CVE-2026-47668)",
+      "description": "Unauthenticated RCE in DBGate &lt;= 7.1.8",
+      "date": "2026-07-31",
+      "raw_date": "2026-07-31T14:57:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[LuZe0y/pd2425-cve-2026-43499-config](https://github.com/LuZe0y/pd2425-cve-2026-43499-config)",
+      "description": "no description",
+      "date": "2026-07-31",
+      "raw_date": "2026-07-31T07:53:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[NothingFumo/ghostlock-aresin](https://github.com/NothingFumo/ghostlock-aresin)",
+      "description": "GhostLock (CVE-2026-43499) exploit for POCO F3 GT (aresin) — MediaTek Dimensity 1200, Linux 4.14.186 ARM64 kernel privilege escalation via futex PI chain manipulation",
+      "date": "2026-07-31",
+      "raw_date": "2026-07-31T18:56:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[datfooldive/ghostlock-emerald](https://github.com/datfooldive/ghostlock-emerald)",
+      "description": "GhostLock (CVE-2026-43499) kernel exploit for Poco M6 Pro (emerald) with locked bootloader",
+      "date": "2026-07-31",
+      "raw_date": "2026-07-31T15:33:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-43284",
+      "repo_info": "[nabhan-mohy/Dirty-Frag-Research-CVE-2026-43284-](https://github.com/nabhan-mohy/Dirty-Frag-Research-CVE-2026-43284-)",
+      "description": "Comprehensive technical research on CVE-2026-43284 (Dirty Frag), including Linux kernel internals, root cause analysis, patch analysis, detection engineering, threat hunting, incident response, and Kubernetes security implications.",
+      "date": "2026-07-31",
+      "raw_date": "2026-07-31T05:39:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-32286",
+      "repo_info": "[slashid/baton-retool](https://github.com/slashid/baton-retool)",
+      "description": "SlashID fork of conductorone/baton-retool — pgx/v5 port (CVE-2026-32286, CVE-2026-41889); retire when upstream ships pgx/v5",
+      "date": "2026-07-31",
+      "raw_date": "2026-07-31T11:50:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[TeamN4C/SG-2026-0013](https://github.com/TeamN4C/SG-2026-0013)",
+      "description": "CVE-2026-31431 Copy Fail PoC and exploit",
+      "date": "2026-07-31",
+      "raw_date": "2026-07-31T10:10:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-21858",
+      "repo_info": "[Giangdurian/CVE-2026-21858-and-CVE-2025-68613](https://github.com/Giangdurian/CVE-2026-21858-and-CVE-2025-68613)",
+      "description": "no description",
+      "date": "2026-07-31",
+      "raw_date": "2026-07-31T14:12:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-17351",
+      "repo_info": "[Hunt-Benito/pgadmin-ai-assistant-sql-injection-cve-2026-17351-lexer-differential-bypass](https://github.com/Hunt-Benito/pgadmin-ai-assistant-sql-injection-cve-2026-17351-lexer-differential-bypass)",
+      "description": "no description",
+      "date": "2026-07-31",
+      "raw_date": "2026-07-31T17:17:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-16723",
+      "repo_info": "[fazilbaig1/CVE-2026-16723](https://github.com/fazilbaig1/CVE-2026-16723)",
+      "description": "This is N-day patch we releasing by testing our model capabilities",
+      "date": "2026-07-31",
+      "raw_date": "2026-07-31T07:57:12Z"
+    },
+    {
+      "cve_id": "CVE-2021-22681",
+      "repo_info": "[pcrosby-1990/cip-security-poc](https://github.com/pcrosby-1990/cip-security-poc)",
+      "description": "▎ Open, runnable proof of concept + IEC 62443-4-2 (SL 2) mapping + a phased rollout for CVE-2021-22681 — the unpatchable Rockwell Logix hardcoded-key flaw behind the 2026 water-sector attacks. Reproduces the fix principle with open tooling; sized for small water utilities.",
+      "date": "2026-07-31",
+      "raw_date": "2026-07-31T19:05:11Z"
+    }
+  ],
+  "generated_at": "2026-08-07T03:55:16.336187",
+  "metadata": {
+    "total_cves": 19,
+    "date_range": "2026-07-31",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-05-08",
-  "count": 2,
+  "count": 3,
   "cves": [
     {
       "cve_id": "CVE-2026-54424",
@@ -10,6 +10,13 @@
       "raw_date": "2026-05-08T18:21:33Z"
     },
     {
+      "cve_id": "CVE-2026-43284",
+      "repo_info": "[suominen/CVE-2026-43284](https://github.com/suominen/CVE-2026-43284)",
+      "description": "Tracking Dirty Frag (CVE-2026-43284, CVE-2026-43500), the xfrm-ESP and RxRPC page-cache write LPE chain",
+      "date": "2026-05-08",
+      "raw_date": "2026-05-08T18:24:12Z"
+    },
+    {
       "cve_id": "CVE-2026-31431",
       "repo_info": "[krisiasty/vcheck](https://github.com/krisiasty/vcheck)",
       "description": "Vulnerability detection and mitigation tool for Copy Fail and Dirty Frag bugs (CVE-2026-31431, CVE-2026-43284, CVE-2026-43500)",
@@ -17,9 +24,9 @@
       "raw_date": "2026-05-08T17:54:04Z"
     }
   ],
-  "generated_at": "2026-08-07T02:41:25.709558",
+  "generated_at": "2026-08-07T03:55:16.321263",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 3,
     "date_range": "2026-05-08",
     "source": "README.md",
     "script_version": "2.0"

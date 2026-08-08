@@ -1,18 +1,74 @@
 {
   "date": "2026-05-22",
-  "count": 1,
+  "count": 9,
   "cves": [
+    {
+      "cve_id": "CVE-2026-9082",
+      "repo_info": "[ridhinva/drupal-jsonapi-sqli-scanner](https://github.com/ridhinva/drupal-jsonapi-sqli-scanner)",
+      "description": "Scanner: CVE-2026-9082 Drupal PostgreSQL SQLi via JSON:API — Python scanner for unauthenticated SQLi leading to RCE (CISA KEV)",
+      "date": "2026-05-22",
+      "raw_date": "2026-05-22T19:49:06Z"
+    },
     {
       "cve_id": "CVE-2026-5281",
       "repo_info": "[jaf0rk/CVE-2026-5281](https://github.com/jaf0rk/CVE-2026-5281)",
       "description": "no description",
       "date": "2026-05-22",
       "raw_date": "2026-05-22T08:50:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-42208",
+      "repo_info": "[ridhinva/litellm-sqli-scanner](https://github.com/ridhinva/litellm-sqli-scanner)",
+      "description": "Scanner: CVE-2026-42208 LiteLLM SQL Injection — Python scanner for BerriAI LiteLLM proxy instances",
+      "date": "2026-05-22",
+      "raw_date": "2026-05-22T23:22:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-41091",
+      "repo_info": "[ridhinva/defender-privilege-escalation-scanner](https://github.com/ridhinva/defender-privilege-escalation-scanner)",
+      "description": "Scanner: CVE-2026-41091/45498 Microsoft Defender LPE/DoS — Python scanner for Windows Defender privilege escalation (CISA KEV)",
+      "date": "2026-05-22",
+      "raw_date": "2026-05-22T23:42:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-3854",
+      "repo_info": "[ridhinva/ghe-push-option-rce-scanner](https://github.com/ridhinva/ghe-push-option-rce-scanner)",
+      "description": "Scanner: CVE-2026-3854 GitHub Enterprise Server Pre-auth RCE via Push Option Injection — Python checker (CISA KEV)",
+      "date": "2026-05-22",
+      "raw_date": "2026-05-22T20:44:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-31802",
+      "repo_info": "[ridhinva/npm-tar-path-traversal-scanner](https://github.com/ridhinva/npm-tar-path-traversal-scanner)",
+      "description": "Scanner: CVE-2026-31802 npm tar path traversal — Python checker for arbitrary file write via npm pack",
+      "date": "2026-05-22",
+      "raw_date": "2026-05-22T23:46:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[ridhinva/linux-kernel-algif-aead-checker](https://github.com/ridhinva/linux-kernel-algif-aead-checker)",
+      "description": "Scanner: CVE-2026-31431 Linux kernel algif_aead Copy Fail vulnerability checker — Python PoC for heap overflow path",
+      "date": "2026-05-22",
+      "raw_date": "2026-05-22T23:15:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-1731",
+      "repo_info": "[ridhinva/beyondtrust-rce-scanner](https://github.com/ridhinva/beyondtrust-rce-scanner)",
+      "description": "Scanner: CVE-2026-1731 BeyondTrust Remote Support Pre-auth RCE — Python checker for actively exploited vulnerability (CISA KEV)",
+      "date": "2026-05-22",
+      "raw_date": "2026-05-22T20:44:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-0300",
+      "repo_info": "[ridhinva/panos-captive-portal-rce](https://github.com/ridhinva/panos-captive-portal-rce)",
+      "description": "Scanner: CVE-2026-0300 PAN-OS User-ID Captive Portal Buffer Overflow RCE — Python CLI for detecting actively exploited BOF vulnerability in Palo Alto firewalls (CISA KEV 2026-05-13)",
+      "date": "2026-05-22",
+      "raw_date": "2026-05-22T20:44:11Z"
     }
   ],
-  "generated_at": "2026-08-08T01:40:23.422684",
+  "generated_at": "2026-08-08T02:57:50.407635",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 9,
     "date_range": "2026-05-22",
     "source": "README.md",
     "script_version": "2.0"

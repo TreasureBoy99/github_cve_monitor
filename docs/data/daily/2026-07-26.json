@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "count": 24,
+  "count": 25,
   "cves": [
     {
       "cve_id": "CVE-2026-67185",
@@ -129,6 +129,13 @@
       "raw_date": "2026-07-26T11:19:17Z"
     },
     {
+      "cve_id": "CVE-2026-50522",
+      "repo_info": "[WismanSec/sharepoint-2026-poc](https://github.com/WismanSec/sharepoint-2026-poc)",
+      "description": "PoC, IOCs, and detection logic for the SharePoint /_trust WS-Federation BinaryFormatter deserialization chain. Lab reconstruction covering unauthenticated RCE, in-process machine key theft, and the artifacts each variant leaves behind. SharePoint 2016, 2019, and Subscription Edition. CVE-2026-50522, CVE-2026-45659, CVE-2026-56164, CVE-2026-58644.",
+      "date": "2026-07-26",
+      "raw_date": "2026-07-26T16:27:52Z"
+    },
+    {
       "cve_id": "CVE-2026-43499",
       "repo_info": "[fusiondrive/CVE-2026-43499-S24U](https://github.com/fusiondrive/CVE-2026-43499-S24U)",
       "description": "CVE-2026-43499 research port for Galaxy S24 Ultra SM-S928U1 DZF2 (in progress)",
@@ -171,9 +178,9 @@
       "raw_date": "2026-07-26T09:29:00Z"
     }
   ],
-  "generated_at": "2026-08-08T01:40:23.435500",
+  "generated_at": "2026-08-08T02:57:50.419253",
   "metadata": {
-    "total_cves": 24,
+    "total_cves": 25,
     "date_range": "2026-07-26",
     "source": "README.md",
     "script_version": "2.0"

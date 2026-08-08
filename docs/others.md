@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-08-07 03:54:36
+- **生成时间**: 2026-08-08 02:57:22
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -373,9 +373,11 @@
 | 🚫 未识别 | [Harshsanghvi108/CVE-2026-PENDING-AAVISHKAR-1](https://github.com/Harshsanghvi108/CVE-2026-PENDING-AAVISHKAR-1) | Aavishkar Institute Management System - Broken Access Control - Full Admin Panel Without Authentication | 2026-07-31T13:19:40Z|
 | 🚫 未识别 | [Harshsanghvi108/CVE-2026-PENDING-EMS](https://github.com/Harshsanghvi108/CVE-2026-PENDING-EMS) | CodeAstro Expense Management System 1.0 - Multiple Vulnerabilities (SQL Injection, Stored XSS) | 2026-07-31T12:16:28Z|
 | 🚫 未识别 | [poxsky/CVE-2026-XXXXX-Integer-Wraparound-in-Linux-Kernel-drm-xe-VM-Query-Pat](https://github.com/poxsky/CVE-2026-XXXXX-Integer-Wraparound-in-Linux-Kernel-drm-xe-VM-Query-Pat) | Integer Wraparound in Linux Kernel drm/xe VM Query Pat | 2026-07-30T18:18:13Z|
+| 🚫 未识别 | [ridhinva/trending-cve-scanners](https://github.com/ridhinva/trending-cve-scanners) | Toolkit: May 2026 trending CVE scanners — PAN-OS, WordPress, BeyondTrust, GHE, ingress-nginx in Python | 2026-05-22T19:34:26Z|
+| 🚫 未识别 | [xiaoqiMikko/log4j-check](https://github.com/xiaoqiMikko/log4j-check) | log4j 2025/2026 年 7 条「配置静默失效」CVE 自查:按 CVE×模块 判定 4 个模块,结构化解析 log4j2 配置做 applicability 降噪,并算出该升到哪个版本才一次到位(6 条写 2.25.4,但有一条要 2.25.5,而它 Dependabot 报不出来) | 2026-08-07T19:09:13Z|
 
 
 ---
 
-**报告生成时间**: 2026-08-07 03:55:15  
-**总记录数**: 362
+**报告生成时间**: 2026-08-08 02:57:49  
+**总记录数**: 364

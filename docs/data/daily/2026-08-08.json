@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-08",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-71557",
+      "repo_info": "[Saku0512/CVE-2026-71557-poc](https://github.com/Saku0512/CVE-2026-71557-poc)",
+      "description": "no description",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T01:52:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[imbas007/CVE-2026-64638-POC](https://github.com/imbas007/CVE-2026-64638-POC)",
+      "description": "CVE-2026-64638: WordPress Pre-auth XSS → RCE (XSS2Shell) PoC",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T01:20:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-64561",
+      "repo_info": "[HackSpeak/CVE-2026-64561](https://github.com/HackSpeak/CVE-2026-64561)",
+      "description": "Zapscape (CVE-2026-64561) KVM/x86 shadow MMU UAF guest-to-host escape PoC mirror — V4bel/@v4bel, MIT; for authorized security testing",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T02:13:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-63077",
+      "repo_info": "[BoredHackerBlog/teamcity-CVE-2026-63077-pcap](https://github.com/BoredHackerBlog/teamcity-CVE-2026-63077-pcap)",
+      "description": "teamcity teamcity-CVE-2026-63077 exploitation pcap",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T00:10:31Z"
+    }
+  ],
+  "generated_at": "2026-08-08T02:57:50.423139",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2026-08-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

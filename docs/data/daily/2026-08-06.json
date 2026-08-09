@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "count": 19,
+  "count": 23,
   "cves": [
     {
       "cve_id": "CVE-2026-70553",
@@ -22,6 +22,27 @@
       "description": "CVE-2026-67598 — Emlog Pro: disabled TLS certificate validation in AI assistant (MITM → API-key theft). CWE-295, CVSS 9.1. Reported by @IlhomjonR.",
       "date": "2026-08-06",
       "raw_date": "2026-08-06T10:35:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-66493",
+      "repo_info": "[toanln-cov/CVE-2026-66493](https://github.com/toanln-cov/CVE-2026-66493)",
+      "description": "The Joomla extension PhocaCommander is vulnerable to Path Traversal in delete, copy, move actions",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T02:27:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-66492",
+      "repo_info": "[toanln-cov/CVE-2026-66492](https://github.com/toanln-cov/CVE-2026-66492)",
+      "description": "The Joomla extension PhocaCommander is vulnerable to Path Traversal in the file upload action",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T03:49:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-66491",
+      "repo_info": "[toanln-cov/CVE-2026-66491](https://github.com/toanln-cov/CVE-2026-66491)",
+      "description": "The Joomla extension PhocaCommander is vulnerable to Path Traversal in the getSource function",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T04:01:24Z"
     },
     {
       "cve_id": "CVE-2026-65058",
@@ -71,6 +92,13 @@
       "description": "Notepad++ CVE-2026-52886 — session.xml backupFilePath starts_with() path traversal (GHSA-rqfm-pw34-r7j6)",
       "date": "2026-08-06",
       "raw_date": "2026-08-06T07:24:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-49268",
+      "repo_info": "[xiaoqiMikko/shiro-check](https://github.com/xiaoqiMikko/shiro-check)",
+      "description": "扫出你实际装的 Apache Shiro 模块与版本,逐条判定官方 26 条 CVE 里哪些真的落在你身上。按「CVE × 模块」判定,零依赖单 jar。 CVE-2026-49268",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T16:50:12Z"
     },
     {
       "cve_id": "CVE-2026-38053",
@@ -136,9 +164,9 @@
       "raw_date": "2026-08-06T11:40:01Z"
     }
   ],
-  "generated_at": "2026-08-09T01:46:07.616647",
+  "generated_at": "2026-08-09T03:04:46.058820",
   "metadata": {
-    "total_cves": 19,
+    "total_cves": 23,
     "date_range": "2026-08-06",
     "source": "README.md",
     "script_version": "2.0"

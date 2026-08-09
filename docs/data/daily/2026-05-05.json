@@ -1,7 +1,14 @@
 {
   "date": "2026-05-05",
-  "count": 1,
+  "count": 2,
   "cves": [
+    {
+      "cve_id": "CVE-2026-41940",
+      "repo_info": "[ZildanZ/CVE-2026-41940](https://github.com/ZildanZ/CVE-2026-41940)",
+      "description": "no description",
+      "date": "2026-05-05",
+      "raw_date": "2026-05-05T05:58:09Z"
+    },
     {
       "cve_id": "CVE-2026-31431",
       "repo_info": "[Liverwortenuresis371/copyfail-rs](https://github.com/Liverwortenuresis371/copyfail-rs)",
@@ -10,9 +17,9 @@
       "raw_date": "2026-05-05T04:58:21Z"
     }
   ],
-  "generated_at": "2026-08-09T01:46:07.604176",
+  "generated_at": "2026-08-09T03:04:46.041230",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-05-05",
     "source": "README.md",
     "script_version": "2.0"

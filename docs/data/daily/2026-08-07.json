@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "count": 31,
+  "count": 32,
   "cves": [
     {
       "cve_id": "CVE-2026-71554",
@@ -171,6 +171,13 @@
       "raw_date": "2026-08-07T20:02:00Z"
     },
     {
+      "cve_id": "CVE-2026-54515",
+      "repo_info": "[xiaoqiMikko/jackson-check](https://github.com/xiaoqiMikko/jackson-check)",
+      "description": "jackson-databind 2026 年 11 条安全公告自查:扫源码注解降噪,告诉你真中几条;逐条求交集给出真正到位的版本(2.18.9/2.21.5/3.1.5,不是 advisory 上最常见的 2.21.4) CVE-2026-54515 / CVE-2026-54512",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T06:05:53Z"
+    },
+    {
       "cve_id": "CVE-2026-45185",
       "repo_info": "[0init/CVE-2026-45185](https://github.com/0init/CVE-2026-45185)",
       "description": "no description",
@@ -220,9 +227,9 @@
       "raw_date": "2026-08-07T13:20:19Z"
     }
   ],
-  "generated_at": "2026-08-09T01:46:07.616843",
+  "generated_at": "2026-08-09T03:04:46.059060",
   "metadata": {
-    "total_cves": 31,
+    "total_cves": 32,
     "date_range": "2026-08-07",
     "source": "README.md",
     "script_version": "2.0"

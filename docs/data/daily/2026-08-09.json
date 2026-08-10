@@ -1,18 +1,130 @@
 {
   "date": "2026-08-09",
-  "count": 1,
+  "count": 17,
   "cves": [
+    {
+      "cve_id": "CVE-2026-9645",
+      "repo_info": "[0xmhany/CVE-2026-9645-ScadaBR-Analysis](https://github.com/0xmhany/CVE-2026-9645-ScadaBR-Analysis)",
+      "description": "Technical vulnerability analysis and CVE briefing for CVE-2026-9645 affecting ScadaBR.",
+      "date": "2026-08-09",
+      "raw_date": "2026-08-09T07:18:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-69084",
+      "repo_info": "[Boreas37/CVE-2026-69084-PoC](https://github.com/Boreas37/CVE-2026-69084-PoC)",
+      "description": "CVE-2026-69084/69085 — SiYuan arbitrary SQL execution via searchEmbedBlock + searchDocs SQLi (CVSS 9.9). Verified on v3.7.2, rejected on v3.7.3.",
+      "date": "2026-08-09",
+      "raw_date": "2026-08-09T20:02:45Z"
+    },
     {
       "cve_id": "CVE-2026-64638",
       "repo_info": "[jendmaoul/XSS2Shell-CVE-2026-64638](https://github.com/jendmaoul/XSS2Shell-CVE-2026-64638)",
       "description": "CVE-2026-64638 — WordPress Pre-Auth Reflected XSS → RCE via DOM Clobbering + Application Password Theft + REST API Plugin Activation. Dual-mode PoC (XSS chain &amp; direct).",
       "date": "2026-08-09",
       "raw_date": "2026-08-09T00:17:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[0xlipon/xss2shell](https://github.com/0xlipon/xss2shell)",
+      "description": "🔥 XSS2Shell — CVE-2026-64638 Scanner &amp; PoC Toolkit",
+      "date": "2026-08-09",
+      "raw_date": "2026-08-09T14:50:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[eh-amish/CVE-2026-64638-XSS-to-Shell-PoC](https://github.com/eh-amish/CVE-2026-64638-XSS-to-Shell-PoC)",
+      "description": "no description",
+      "date": "2026-08-09",
+      "raw_date": "2026-08-09T14:38:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-57827",
+      "repo_info": "[Ahmall-sec/CVE_2026_57827](https://github.com/Ahmall-sec/CVE_2026_57827)",
+      "description": "Demonstrate the unauthenticated remote code execution vulnerability in the RSFiles! Joomla component through an arbitrary file upload.",
+      "date": "2026-08-09",
+      "raw_date": "2026-08-09T12:02:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[OhLookItsTheIRS/Root-My-Galaxy-tests](https://github.com/OhLookItsTheIRS/Root-My-Galaxy-tests)",
+      "description": "KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499 (Note: Fork)",
+      "date": "2026-08-09",
+      "raw_date": "2026-08-09T19:27:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[ruik-tech/Root-My-Galaxy](https://github.com/ruik-tech/Root-My-Galaxy)",
+      "description": "KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499",
+      "date": "2026-08-09",
+      "raw_date": "2026-08-09T02:39:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-4282",
+      "repo_info": "[hexissam/CVE-2026-4282-Scanner](https://github.com/hexissam/CVE-2026-4282-Scanner)",
+      "description": "Non-intrusive version-based vulnerability scanner for CVE-2026-4282 (Keycloak SingleUseObjectProvider isolation flaw enabling authorization code forgery &amp; privilege escalation)",
+      "date": "2026-08-09",
+      "raw_date": "2026-08-09T13:13:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-41091",
+      "repo_info": "[s4m98/RedSun-](https://github.com/s4m98/RedSun-)",
+      "description": "Windwos Zero Day Local PrivESc Exploit (CVE-2026-41091)",
+      "date": "2026-08-09",
+      "raw_date": "2026-08-09T11:23:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-34910",
+      "repo_info": "[Boreas37/CVE-2026-34910-PoC](https://github.com/Boreas37/CVE-2026-34910-PoC)",
+      "description": "CVE-2026-34910/34909 — UniFi OS unauth RCE + file read via ..%2f auth bypass (CVSS 10.0, KEV, Mirai ITW)",
+      "date": "2026-08-09",
+      "raw_date": "2026-08-09T16:58:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-26119",
+      "repo_info": "[r3vpwnx/CVE-2026-26119](https://github.com/r3vpwnx/CVE-2026-26119)",
+      "description": "WAC RCE - CVE-2026-26119 Windows Admin Center authenticated RCE via WinREST/PowerShell invokeCommand.",
+      "date": "2026-08-09",
+      "raw_date": "2026-08-09T20:21:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-26119",
+      "repo_info": "[Cyb3rWitch3r/CVE-2026-26119](https://github.com/Cyb3rWitch3r/CVE-2026-26119)",
+      "description": "WAC RCE - CVE-2026-26119 Windows Admin Center authenticated RCE via WinREST/PowerShell invokeCommand.",
+      "date": "2026-08-09",
+      "raw_date": "2026-08-09T19:50:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-22747",
+      "repo_info": "[gsadagopan/cve-2026-22747-sandbox](https://github.com/gsadagopan/cve-2026-22747-sandbox)",
+      "description": "no description",
+      "date": "2026-08-09",
+      "raw_date": "2026-08-09T17:08:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-19195",
+      "repo_info": "[patrickt2017/CVE-2026-19195-PoC](https://github.com/patrickt2017/CVE-2026-19195-PoC)",
+      "description": "CVE-2026-19195 Proof of Concept",
+      "date": "2026-08-09",
+      "raw_date": "2026-08-09T03:31:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-19193",
+      "repo_info": "[patrickt2017/CVE-2026-19193-PoC](https://github.com/patrickt2017/CVE-2026-19193-PoC)",
+      "description": "CVE-2026-19193 Proof of Concept",
+      "date": "2026-08-09",
+      "raw_date": "2026-08-09T03:09:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-15038",
+      "repo_info": "[Polosss/By-Poloss..-..CVE-2026-15038-POC](https://github.com/Polosss/By-Poloss..-..CVE-2026-15038-POC)",
+      "description": "POC 4 CVE-2026-15038",
+      "date": "2026-08-09",
+      "raw_date": "2026-08-09T15:19:47Z"
     }
   ],
-  "generated_at": "2026-08-10T03:25:41.832647",
+  "generated_at": "2026-08-10T03:27:36.656490",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 17,
     "date_range": "2026-08-09",
     "source": "README.md",
     "script_version": "2.0"

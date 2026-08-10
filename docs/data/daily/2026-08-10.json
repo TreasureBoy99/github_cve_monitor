@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-10",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-53787",
+      "repo_info": "[ChrisSEC2014/amasty-chekout-POC-rce](https://github.com/ChrisSEC2014/amasty-chekout-POC-rce)",
+      "description": "my poc for CVE-2026-53787",
+      "date": "2026-08-10",
+      "raw_date": "2026-08-10T01:00:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-39987",
+      "repo_info": "[MADA0L/CVE-2026-39987-Poc](https://github.com/MADA0L/CVE-2026-39987-Poc)",
+      "description": "Proof of Concept (PoC) WebSocket client for CVE-2026-39987 (Marimo Pre-Auth RCE), intended for authorized security testing.",
+      "date": "2026-08-10",
+      "raw_date": "2026-08-10T02:08:03Z"
+    }
+  ],
+  "generated_at": "2026-08-10T03:27:36.656692",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-08-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

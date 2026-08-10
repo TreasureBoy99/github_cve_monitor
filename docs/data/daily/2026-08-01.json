@@ -1,0 +1,181 @@
+{
+  "date": "2026-08-01",
+  "count": 24,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-9833",
+      "repo_info": "[aj2108/CVE-2026-9833](https://github.com/aj2108/CVE-2026-9833)",
+      "description": "no description",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T19:28:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-8239",
+      "repo_info": "[aj2108/CVE-2026-8239](https://github.com/aj2108/CVE-2026-8239)",
+      "description": "CVE-2026-8239 is an Insecure Direct Object Reference (IDOR) vulnerability affecting Concrete CMS 9.5.0 and earlier.",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T07:13:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-8237",
+      "repo_info": "[aj2108/CVE-2026-8237](https://github.com/aj2108/CVE-2026-8237)",
+      "description": "CVE-2026-8237 is an Insecure Direct Object Reference (IDOR) vulnerability caused by missing authorization checks in Concrete CMS 9.5.0 and earlier.",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T11:50:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-67595",
+      "repo_info": "[IlhomjonR/CVE-2026-67595](https://github.com/IlhomjonR/CVE-2026-67595)",
+      "description": "CVE-2026-67595 — Embedded malicious JavaScript (spyware) in VaahCMS 2.0.0–2.3.4 official releases. CVSS 8.1. Advisory + detection.",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T19:13:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-67206",
+      "repo_info": "[anirbala98/CVE-2026-67206](https://github.com/anirbala98/CVE-2026-67206)",
+      "description": "Wolf CMS &lt;= 0.8.3.1 - RCE via Arbitrary File Write",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T18:07:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-64531",
+      "repo_info": "[0xBlackash/CVE-2026-64531](https://github.com/0xBlackash/CVE-2026-64531)",
+      "description": "CVE-2026-64531",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T15:29:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-60137",
+      "repo_info": "[michael-kanda/Wp2shell-ioc-scanner](https://github.com/michael-kanda/Wp2shell-ioc-scanner)",
+      "description": "Read-only-by-default WordPress incident-response scanner for the “wp2shell” attack chain (CVE-2026-60137 / CVE-2026-63030): detects shadow-admin, database and filesystem IOCs, verifies core integrity, and exports evidence. Optional controlled account cleanup; does not remove malware.",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T07:59:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-53625",
+      "repo_info": "[7h30th3r0n3/CVE-2026-53625-GLPI-PoC](https://github.com/7h30th3r0n3/CVE-2026-53625-GLPI-PoC)",
+      "description": "GLPI Privilege Escalation via authtype Manipulation PoC - CVE-2026-53625. Ethical PoC for the GLPI vulnerability allowing a Technician to take full control of any Super-Admin account through REST API authtype manipulation.",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T10:29:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-53576",
+      "repo_info": "[TamatahYT/CVE-2026-53576](https://github.com/TamatahYT/CVE-2026-53576)",
+      "description": "Kestra Unauthenticated RCE Exploit (CVE-2026-53576)",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T08:25:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-52370",
+      "repo_info": "[RichardKabuto/CVE-2026-52370](https://github.com/RichardKabuto/CVE-2026-52370)",
+      "description": "no description",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T09:56:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-51954",
+      "repo_info": "[envincion1991-cmyk/CVE-2026-51954](https://github.com/envincion1991-cmyk/CVE-2026-51954)",
+      "description": "Vulnerability Research",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T15:46:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-5061",
+      "repo_info": "[0xmrma/CVE-2026-5061](https://github.com/0xmrma/CVE-2026-5061)",
+      "description": "Consul Template validated where a symlink pointed during template evaluation, but its later dependency fetch read the original path. Retargeting the link between those operations turned an in-sandbox file reference into an out-of-sandbox file disclosure.",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T16:49:47Z"
+    },
+    {
+      "cve_id": "CVE-2026-45585",
+      "repo_info": "[yellowkeybitlocker/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/yellowkeybitlocker/YellowKey-Bitlocker-CVE-2026-45585)",
+      "description": "YellowKey BitLocker CVE-2026-45585 free open-source utility to extract, backup and view BitLocker recovery keys on Windows 10/11. BitLocker bypass vulnerability tool, remediation and mitigation. Tom&#x27;s Hardware coverage. Check TPM status, protector types, encryption state. Download YellowKey free, portable, no install needed.",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T18:09:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[1ndevelopment/CVE-2026-43499-S26](https://github.com/1ndevelopment/CVE-2026-43499-S26)",
+      "description": "Root prototype for Galaxy S26 (SM-S942U) that is very much indev",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T22:45:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[CatXiaoShi/cve-2026-43499](https://github.com/CatXiaoShi/cve-2026-43499)",
+      "description": "PD2229B的43499(ghostlock)可行性研究",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T07:48:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[fusiondrive/CVE-2026-43499-A36](https://github.com/fusiondrive/CVE-2026-43499-A36)",
+      "description": "Standalone CVE-2026-43499 port for Galaxy A36 5G SM-A366W A366WVLS3AYG1 with KernelSU late-load",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T19:27:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-15964",
+      "repo_info": "[Instructor-Admin/CVE-2026-15964-PoC](https://github.com/Instructor-Admin/CVE-2026-15964-PoC)",
+      "description": "PoC &amp; checker for CVE-2026-15964 - unauthenticated password change in the WordPress plugin Single Sign On For TNG &lt;= 2.0.0 (CVSS 9.8)",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T22:19:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-14483",
+      "repo_info": "[MadExploits/CVE-2026-14483](https://github.com/MadExploits/CVE-2026-14483)",
+      "description": "CVE-2026-14483 POC EXPLOIT BY MADEXPLOITS",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T19:29:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-14361",
+      "repo_info": "[0xmrma/CVE-2026-14361](https://github.com/0xmrma/CVE-2026-14361)",
+      "description": "Consul Template&#x27;s writeToFile helper opened an operator-supplied destination directly and followed linked path components, allowing rendered output to escape the intended directory and overwrite a preexisting file.",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T16:46:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-13158",
+      "repo_info": "[MinhHK68/CVE-2026-13158](https://github.com/MinhHK68/CVE-2026-13158)",
+      "description": "no description",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T11:47:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-13157",
+      "repo_info": "[MinhHK68/CVE-2026-13157](https://github.com/MinhHK68/CVE-2026-13157)",
+      "description": "no description",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T10:00:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-13152",
+      "repo_info": "[MinhHK68/CVE-2026-13152](https://github.com/MinhHK68/CVE-2026-13152)",
+      "description": "CVE-2026-13152: Custom Fields Account Registration For WooCommerce Unauthenticated Privilege Escalation PoC &amp; Advisory by Huynh Kien Minh (MinhHK).",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T04:42:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-12478",
+      "repo_info": "[Popy21/security-research](https://github.com/Popy21/security-research)",
+      "description": "Vulnerability research write-ups — CVE-2026-12478 (libsoup), Apple WebKit, Google VRP",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T11:25:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-10702",
+      "repo_info": "[raihants/cve-2026-10702](https://github.com/raihants/cve-2026-10702)",
+      "description": "no description",
+      "date": "2026-08-01",
+      "raw_date": "2026-08-01T04:19:00Z"
+    }
+  ],
+  "generated_at": "2026-08-10T01:49:49.269444",
+  "metadata": {
+    "total_cves": 24,
+    "date_range": "2026-08-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

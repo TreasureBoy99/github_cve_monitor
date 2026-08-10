@@ -1,0 +1,237 @@
+{
+  "date": "2026-08-07",
+  "count": 32,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-71554",
+      "repo_info": "[SunandM/poc-h2-CVE-2026-71554](https://github.com/SunandM/poc-h2-CVE-2026-71554)",
+      "description": "PoC for CVE-2026-71554 - h2 duplicate Host header request smuggling primitive (fixed in 4.4.1)",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T21:15:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-71554",
+      "repo_info": "[SunandM/poc-h2-duplicate-host](https://github.com/SunandM/poc-h2-duplicate-host)",
+      "description": "PoC for CVE-2026-71554 — h2 duplicate Host header request smuggling primitive (fixed in 4.4.1)",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T21:14:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-70638",
+      "repo_info": "[Hunt-Benito/one-multiply-too-many-cve-2026-70638-llama-cpp-android-jni-integer-overflow](https://github.com/Hunt-Benito/one-multiply-too-many-cve-2026-70638-llama-cpp-android-jni-integer-overflow)",
+      "description": "no description",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T10:36:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-70559",
+      "repo_info": "[codeb0ssx/CVE-2026-70559-PoC](https://github.com/codeb0ssx/CVE-2026-70559-PoC)",
+      "description": "CVE-2026-70559",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T02:56:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-67822",
+      "repo_info": "[Hunt-Benito/go-without-bounds-cve-2026-67822-stack-overflow-in-tenda-w6-s-wifissidset](https://github.com/Hunt-Benito/go-without-bounds-cve-2026-67822-stack-overflow-in-tenda-w6-s-wifissidset)",
+      "description": "no description",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T14:16:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-64640",
+      "repo_info": "[oscerd/CVE-2026-64640](https://github.com/oscerd/CVE-2026-64640)",
+      "description": "Reproducer for CVE-2026-64640 — Apache Polaris Iceberg REST register/register-view vends storage credentials and reads an attacker-chosen metadata location before validating allowedLocations (confused-deputy cross-tenant read). Affected ≤ 1.6.0, fixed in 1.7.0.",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T09:33:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[renzi25031469/CVE-2026-64638-WordPress-Core-XSS2Shell](https://github.com/renzi25031469/CVE-2026-64638-WordPress-Core-XSS2Shell)",
+      "description": "Template Nuclei para detecção não-intrusiva do XSS2Shell, um parser differential pré-autenticado no WordPress Core que permite injeção de elementos DOM na página de login, servindo de base para uma cadeia de XSS → RCE.",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T23:48:18Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[0xBlackash/CVE-2026-64638](https://github.com/0xBlackash/CVE-2026-64638)",
+      "description": "CVE-2026-64638",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T22:44:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[Linuxhackingid-official/XSS2Shell-CVE-2026-64638](https://github.com/Linuxhackingid-official/XSS2Shell-CVE-2026-64638)",
+      "description": "no description",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T22:07:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[ZSecur1ty/XSS2Shell-CVE-2026-64638](https://github.com/ZSecur1ty/XSS2Shell-CVE-2026-64638)",
+      "description": "no description",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T22:02:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[5yu4n/CVE-2026-64638](https://github.com/5yu4n/CVE-2026-64638)",
+      "description": "CVE-2026-64638",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T19:45:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[686f6c61/POC-WP-XSS2Shell-CVE-2026-64638](https://github.com/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638)",
+      "description": "PoC funcional de CVE-2026-64638 (XSS2Shell): cadena pre-auth XSS a RCE en WordPress Core. Laboratorio Docker + servidor atacante Python + análisis técnico y mitigación.",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T17:12:37Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[wordsec/XSS2Shell](https://github.com/wordsec/XSS2Shell)",
+      "description": "Wordpress Pre-auth XSS to RCE exploit PoC (xss2shell &amp; CVE-2026-64638)",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T17:48:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[Boreas37/CVE-2026-64638-PoC](https://github.com/Boreas37/CVE-2026-64638-PoC)",
+      "description": "XSS2Shell (CVE-2026-64638) PoC — WordPress pre-auth XSS to RCE chain",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T17:07:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[HORKimhab/CVE-2026-64638](https://github.com/HORKimhab/CVE-2026-64638)",
+      "description": "CVE-2026-64638 - Draft or TODO",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T14:46:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-64564",
+      "repo_info": "[HackSpeak/CVE-2026-64564](https://github.com/HackSpeak/CVE-2026-64564)",
+      "description": "SCTPhantom (CVE-2026-64564) SCTP ASCONF DEL-IP UAF LPE PoC (Debian 13 6.12.95) — community PoC mirror, MIT; for authorized security testing",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T12:47:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-64564",
+      "repo_info": "[ethanolgolf/CVE-2026-64564](https://github.com/ethanolgolf/CVE-2026-64564)",
+      "description": "LPE on Deb",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T09:19:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-64561",
+      "repo_info": "[HORKimhab/CVE-2026-64561](https://github.com/HORKimhab/CVE-2026-64561)",
+      "description": "CVE-2026-64561",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T01:28:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-64561",
+      "repo_info": "[aarif450/aarif450.github.io](https://github.com/aarif450/aarif450.github.io)",
+      "description": "Exploit KVM/x86 guest-to-host escape CVE-2026-64561 with Zapscape, a proof-of-concept demonstrating hypervisor vulnerability.",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T15:52:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-64561",
+      "repo_info": "[aarif450/Zapscape](https://github.com/aarif450/Zapscape)",
+      "description": "Guest-to-host KVM/x86 escape exploiting CVE-2026-64561, delivering a full PoC chain and analysis for security researchers.",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T15:51:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-64561",
+      "repo_info": "[Aoripus-LTD/Zapscape-Fix](https://github.com/Aoripus-LTD/Zapscape-Fix)",
+      "description": "Generic kernel live patch for the KVM/x86 shadow-MMU use-after-free (Zapscape, CVE-2026-64561)",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T10:05:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-63077",
+      "repo_info": "[sfewer-r7/CVE-2026-63077](https://github.com/sfewer-r7/CVE-2026-63077)",
+      "description": "Unauthenticated Remote Code Execution in JetBrains TeamCity (CVE-2026-63077)",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T08:38:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-57858",
+      "repo_info": "[zylideum/CVE-2026-57858](https://github.com/zylideum/CVE-2026-57858)",
+      "description": "Wormable exploit for CVE-2026-57858",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T21:09:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-55957",
+      "repo_info": "[mdvpat/CVE-2026-55957-PoC](https://github.com/mdvpat/CVE-2026-55957-PoC)",
+      "description": "Reproducible Docker lab for the Apache Tomcat JNDIRealm GSSAPI authentication bypass",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T20:02:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-54515",
+      "repo_info": "[xiaoqiMikko/jackson-check](https://github.com/xiaoqiMikko/jackson-check)",
+      "description": "jackson-databind 2026 年 11 条安全公告自查:扫源码注解降噪,告诉你真中几条;逐条求交集给出真正到位的版本(2.18.9/2.21.5/3.1.5,不是 advisory 上最常见的 2.21.4) CVE-2026-54515 / CVE-2026-54512",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T06:05:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-45185",
+      "repo_info": "[0init/CVE-2026-45185](https://github.com/0init/CVE-2026-45185)",
+      "description": "no description",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T21:14:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-44613",
+      "repo_info": "[HORKimhab/CVE-2026-44613](https://github.com/HORKimhab/CVE-2026-44613)",
+      "description": "CVE-2026-44613",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T04:36:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[Meowkis/tcp-zerocopy-sm](https://github.com/Meowkis/tcp-zerocopy-sm)",
+      "description": "ghostlock + tcp-zerocopy hybrid CVE-2026-43499 adaptation for samsung kernel",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T08:30:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-41242",
+      "repo_info": "[Giangdurian/CVE-2026-41242](https://github.com/Giangdurian/CVE-2026-41242)",
+      "description": "no description",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T14:38:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-39987",
+      "repo_info": "[alreadyClosed/CVE-2026-39987](https://github.com/alreadyClosed/CVE-2026-39987)",
+      "description": "CVE-2026-39987 for marimo 0.20.4 PoC",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T07:04:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-11961",
+      "repo_info": "[JohenLastGen-JLG/CVE-2026-11961](https://github.com/JohenLastGen-JLG/CVE-2026-11961)",
+      "description": "CVE-2026-11961 — UserRegistration: WordPress User Registration &lt;= 5.2.2 Privilege Escalation. Misconfigured Membership Roles → Unauthenticated Admin Creation → Site Compromise. CVSS 8.1",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T04:19:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-0049",
+      "repo_info": "[R3n3r0/CVE-2026-0049](https://github.com/R3n3r0/CVE-2026-0049)",
+      "description": "no description",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T13:20:19Z"
+    }
+  ],
+  "generated_at": "2026-08-10T01:49:49.272422",
+  "metadata": {
+    "total_cves": 32,
+    "date_range": "2026-08-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

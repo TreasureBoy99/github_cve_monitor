@@ -1,0 +1,20 @@
+{
+  "date": "2026-05-20",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-43494",
+      "repo_info": "[suominen/pintheft](https://github.com/suominen/pintheft)",
+      "description": "Tracking PinTheft (CVE-2026-43494, CVE-2026-43502), the RDS zerocopy double-free privilege escalation",
+      "date": "2026-05-20",
+      "raw_date": "2026-05-20T08:06:24Z"
+    }
+  ],
+  "generated_at": "2026-08-10T01:49:49.251075",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-05-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

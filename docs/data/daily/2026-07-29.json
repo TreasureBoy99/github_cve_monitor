@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "count": 23,
+  "count": 24,
   "cves": [
     {
       "cve_id": "CVE-2026-66066",
@@ -22,6 +22,13 @@
       "description": "CVE-2026-66066",
       "date": "2026-07-29",
       "raw_date": "2026-07-29T20:45:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-64531",
+      "repo_info": "[suominen/ovswrap](https://github.com/suominen/ovswrap)",
+      "description": "Tracking OVSwrap (CVE-2026-64531), the Open vSwitch datapath netlink overflow",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T05:15:24Z"
     },
     {
       "cve_id": "CVE-2026-61511",
@@ -164,9 +171,9 @@
       "raw_date": "2026-07-29T10:56:11Z"
     }
   ],
-  "generated_at": "2026-07-31T02:30:21.148069",
+  "generated_at": "2026-08-10T01:49:49.268540",
   "metadata": {
-    "total_cves": 23,
+    "total_cves": 24,
     "date_range": "2026-07-29",
     "source": "README.md",
     "script_version": "2.0"

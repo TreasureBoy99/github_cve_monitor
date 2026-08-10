@@ -1,0 +1,237 @@
+{
+  "date": "2026-08-05",
+  "count": 32,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-9198",
+      "repo_info": "[rmhowe425/PoC-CVE-2026-9198](https://github.com/rmhowe425/PoC-CVE-2026-9198)",
+      "description": "no description",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T17:44:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-71211",
+      "repo_info": "[Abdivasiyev2008/CVE-2026-71211-exploit](https://github.com/Abdivasiyev2008/CVE-2026-71211-exploit)",
+      "description": "CVE-2026-71211 exploit",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T20:25:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-68004",
+      "repo_info": "[xuwu-xuwu/CVE-2026-68004](https://github.com/xuwu-xuwu/CVE-2026-68004)",
+      "description": "no description",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T15:21:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-67689",
+      "repo_info": "[qflksheep/CVE-2026-67689-FineAdmin.Mvc-vulnerability](https://github.com/qflksheep/CVE-2026-67689-FineAdmin.Mvc-vulnerability)",
+      "description": "no description",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T00:49:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-67687",
+      "repo_info": "[qflksheep/CVE-2026-67687-ICS-Park-Smart-Park-Management-System-v2.0](https://github.com/qflksheep/CVE-2026-67687-ICS-Park-Smart-Park-Management-System-v2.0)",
+      "description": "ICS-Park Smart Park Management System v2.0",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T00:39:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[AnggaTechI/CVE-2026-63030](https://github.com/AnggaTechI/CVE-2026-63030)",
+      "description": "WordPress Core Pre-Auth RCE — Batch Route Confusion + SQL Injection",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T21:21:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[sowarma/wp2shell-PoC](https://github.com/sowarma/wp2shell-PoC)",
+      "description": "CVE-2026-63030 &amp; CVE-2026-60137 RCE chain proof-of-concept",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T12:48:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[minwunn/wp2shell-CVE-2026-63030](https://github.com/minwunn/wp2shell-CVE-2026-63030)",
+      "description": "no description",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T03:41:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-60137",
+      "repo_info": "[AbdullahMaqbool22/CVE-2026-60137-WordPress-Core-SQL-Injection-PoC](https://github.com/AbdullahMaqbool22/CVE-2026-60137-WordPress-Core-SQL-Injection-PoC)",
+      "description": "Non-destructive proof-of-concept and verification harness for CVE-2026-60137, a blind SQL injection in WordPress core (`WP_Query::author__not_in`), reachable via the REST API&#x27;s `author_exclude` parameter.",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T00:11:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-54917",
+      "repo_info": "[BiiTts/CVE-2026-54917-SeaweedFS-Cross-Bucket-Traversal](https://github.com/BiiTts/CVE-2026-54917-SeaweedFS-Cross-Bucket-Traversal)",
+      "description": "PoC + analysis for CVE-2026-54917 — SeaweedFS S3 gateway cross-bucket path traversal (CVSS 10.0, &lt;4.30). Read/write any bucket via .. in the object key.",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T01:44:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-44024",
+      "repo_info": "[0xdak/CVE-2026-44024_exploit](https://github.com/0xdak/CVE-2026-44024_exploit)",
+      "description": "no description",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T08:52:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-43284",
+      "repo_info": "[millikanjohnl-blip/dirtyfrag-detection-rules](https://github.com/millikanjohnl-blip/dirtyfrag-detection-rules)",
+      "description": "Detection rules and analysis for Dirty Frag (CVE-2026-43284/CVE-2026-43500) Linux kernel LPE vulnerability. Based on community research and health probe configurations.",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T18:01:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-42533",
+      "repo_info": "[0xCyberstan/CVE-2026-42533-POC](https://github.com/0xCyberstan/CVE-2026-42533-POC)",
+      "description": "CVE-2026-42533: pre-auth nginx heap overflow and info leak from PCRE capture clobbering in the map/script engine, chained to RCE.",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T18:17:24Z"
+    },
+    {
+      "cve_id": "CVE-2026-40982",
+      "repo_info": "[xiaoqiMikko/scc-check](https://github.com/xiaoqiMikko/scc-check)",
+      "description": "Offline checker for Spring Cloud Config CVE-2026-40982 — tells you whether your version line has an OSS fix at all (3.1.x/4.1.x/4.2.x: it does not)",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T17:39:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-33017",
+      "repo_info": "[TatoSec/CVE-2026-33017-Langflop](https://github.com/TatoSec/CVE-2026-33017-Langflop)",
+      "description": "CVE-2026-33017 Langflow RCE PoC",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T18:56:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[joaocalciolari07/copyfail-guard](https://github.com/joaocalciolari07/copyfail-guard)",
+      "description": "Defensive detection &amp; mitigation tool for CVE-2026-31431 (&quot;Copy Fail&quot;) — Linux kernel algif_aead LPE. No exploit code included.",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T01:58:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-23489",
+      "repo_info": "[eorll-lgtm/poc-CVE-2026-23489](https://github.com/eorll-lgtm/poc-CVE-2026-23489)",
+      "description": "Proof of concept (POC) for CVE-2026-23489 GLPI &quot;Fields&quot; plugin &lt;= 1.23.2",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T13:09:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-23010",
+      "repo_info": "[George0Papasotiriou/CVE-2026-23010-CCSDS-Telecommand-Replay-Without-Sequence-Number](https://github.com/George0Papasotiriou/CVE-2026-23010-CCSDS-Telecommand-Replay-Without-Sequence-Number)",
+      "description": "no description",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T21:35:06Z"
+    },
+    {
+      "cve_id": "CVE-2026-23009",
+      "repo_info": "[George0Papasotiriou/CVE-2026-23009-DICOM-Network-Image-Injection-Without-Authentication](https://github.com/George0Papasotiriou/CVE-2026-23009-DICOM-Network-Image-Injection-Without-Authentication)",
+      "description": "no description",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T21:32:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-23008",
+      "repo_info": "[George0Papasotiriou/CVE-2026-23008-Solidity-Assembly-Return-Data-Size-Confusion](https://github.com/George0Papasotiriou/CVE-2026-23008-Solidity-Assembly-Return-Data-Size-Confusion)",
+      "description": "no description",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T21:30:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-23007",
+      "repo_info": "[George0Papasotiriou/CVE-2026-23007-Serverless-Cold-Start-Memory-Remanence-Data-Leakage-](https://github.com/George0Papasotiriou/CVE-2026-23007-Serverless-Cold-Start-Memory-Remanence-Data-Leakage-)",
+      "description": "no description",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T21:28:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-23006",
+      "repo_info": "[George0Papasotiriou/CVE-2026-23006-Kyber-Ciphertext-Length-Side-Channel](https://github.com/George0Papasotiriou/CVE-2026-23006-Kyber-Ciphertext-Length-Side-Channel)",
+      "description": "no description",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T21:27:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-23005",
+      "repo_info": "[George0Papasotiriou/CVE-2026-23005-Matter-Commissioning-Code-Brute-Force-Without-Rate-Limit](https://github.com/George0Papasotiriou/CVE-2026-23005-Matter-Commissioning-Code-Brute-Force-Without-Rate-Limit)",
+      "description": "no description",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T21:25:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-23004",
+      "repo_info": "[George0Papasotiriou/CVE-2026-23004-Automotive-UDS-Authentication-Bypass-via-Replay-Attack](https://github.com/George0Papasotiriou/CVE-2026-23004-Automotive-UDS-Authentication-Bypass-via-Replay-Attack)",
+      "description": "no description",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T21:23:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-23003",
+      "repo_info": "[George0Papasotiriou/CVE-2026-23003-Cross-Chain-Bridge-Message-Forging-via-Missing-Origin-Chain-ID](https://github.com/George0Papasotiriou/CVE-2026-23003-Cross-Chain-Bridge-Message-Forging-via-Missing-Origin-Chain-ID)",
+      "description": "no description",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T21:21:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-23002",
+      "repo_info": "[George0Papasotiriou/CVE-2026-23002-5G-NAS-Message-Buffer-Overflow-in-gNodeB](https://github.com/George0Papasotiriou/CVE-2026-23002-5G-NAS-Message-Buffer-Overflow-in-gNodeB)",
+      "description": "no description",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T21:18:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-23001",
+      "repo_info": "[George0Papasotiriou/CVE-2026-23001-Hugging-Face-Transformers-Model-Deserialization-Arbitrary-Code-via-Pickle-](https://github.com/George0Papasotiriou/CVE-2026-23001-Hugging-Face-Transformers-Model-Deserialization-Arbitrary-Code-via-Pickle-)",
+      "description": "no description",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T21:16:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-17532",
+      "repo_info": "[kalhoralireza/CVE-2026-17532](https://github.com/kalhoralireza/CVE-2026-17532)",
+      "description": "Seraphinite Accelerator &lt;= 2.29.18 - Reflected Cross-Site Scripting PoC",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T05:09:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-16723",
+      "repo_info": "[learner330/fastjson-cve-2026-16723](https://github.com/learner330/fastjson-cve-2026-16723)",
+      "description": "no description",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T09:29:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-15430",
+      "repo_info": "[BlackSnufkin/AxHunter](https://github.com/BlackSnufkin/AxHunter)",
+      "description": "PoCs for Wellbia XIGNCODE3 anti-cheat xhunter driver family - xhunter1.sys v2023.12.7.78 and xhunter2.sys v2026.6.1.192 (CVE-2026-15430, CVE-2026-3609).",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T10:03:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-0092",
+      "repo_info": "[Majorjayyy1/CVE-2026-0092](https://github.com/Majorjayyy1/CVE-2026-0092)",
+      "description": "CVE-2026-0092- Possible device lock controller bypass due to a missing permission check.",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T08:15:01Z"
+    },
+    {
+      "cve_id": "CVE-2025-64513",
+      "repo_info": "[qianlijaingshan/milvus-auth-audit](https://github.com/qianlijaingshan/milvus-auth-audit)",
+      "description": "Milvus 认证安全检测脚本：CVE-2025-64513 (sourceid后门) / CVE-2026-26190 (/expr弱token) / 内部端口53100",
+      "date": "2026-08-05",
+      "raw_date": "2026-08-05T02:57:51Z"
+    }
+  ],
+  "generated_at": "2026-08-10T01:49:49.271708",
+  "metadata": {
+    "total_cves": 32,
+    "date_range": "2026-08-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

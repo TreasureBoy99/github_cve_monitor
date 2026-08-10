@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "count": 14,
+  "count": 15,
   "cves": [
     {
       "cve_id": "CVE-2026-8181",
@@ -36,6 +36,13 @@
       "description": "Reproducer for CVE-2026-46457 — Apache Camel camel-nats inbound header injection (Camel control-header injection via a NATS publisher; CamelHttpUri -&gt; SSRF)",
       "date": "2026-07-14",
       "raw_date": "2026-07-14T10:11:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-43626",
+      "repo_info": "[Vladimir-tokarev-cyera/llama-cpp-security-patches](https://github.com/Vladimir-tokarev-cyera/llama-cpp-security-patches)",
+      "description": "Security patches for unpatched llama.cpp vulnerabilities (CVE-2026-43626 through CVE-2026-43632) — Cyera Research",
+      "date": "2026-07-14",
+      "raw_date": "2026-07-14T09:49:06Z"
     },
     {
       "cve_id": "CVE-2026-43499",
@@ -101,9 +108,9 @@
       "raw_date": "2026-07-14T02:08:52Z"
     }
   ],
-  "generated_at": "2026-07-31T02:30:21.143757",
+  "generated_at": "2026-08-10T01:49:49.263191",
   "metadata": {
-    "total_cves": 14,
+    "total_cves": 15,
     "date_range": "2026-07-14",
     "source": "README.md",
     "script_version": "2.0"

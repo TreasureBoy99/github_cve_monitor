@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-07-31T02:30:21.152533",
+  "generated_at": "2026-08-10T01:49:49.277359",
   "script_version": "2.0",
-  "total_files": 3266,
-  "total_cves": 28954,
+  "total_files": 3279,
+  "total_cves": 29327,
   "date_range": {
     "start": "2009-06-08",
-    "end": "2026-07-30"
+    "end": "2026-08-09"
   },
   "statistics": {
-    "avg_daily_cves": 8.87,
+    "avg_daily_cves": 8.94,
     "max_daily_cves": 811,
     "min_daily_cves": 1,
     "empty_days": 0,
-    "active_days": 3266
+    "active_days": 3279
   },
   "growth_analysis": [
     {
@@ -18719,1123 +18719,1201 @@
     },
     {
       "date": "2025-12-05",
-      "daily_count": 11,
-      "cumulative_total": 27485,
-      "growth_rate": 0.0
+      "daily_count": 12,
+      "cumulative_total": 27486,
+      "growth_rate": 9.09
     },
     {
       "date": "2025-12-06",
       "daily_count": 6,
-      "cumulative_total": 27491,
-      "growth_rate": -45.45
+      "cumulative_total": 27492,
+      "growth_rate": -50.0
     },
     {
       "date": "2025-12-07",
       "daily_count": 3,
-      "cumulative_total": 27494,
+      "cumulative_total": 27495,
       "growth_rate": -50.0
     },
     {
       "date": "2025-12-08",
       "daily_count": 9,
-      "cumulative_total": 27503,
+      "cumulative_total": 27504,
       "growth_rate": 200.0
     },
     {
       "date": "2025-12-09",
       "daily_count": 9,
-      "cumulative_total": 27512,
+      "cumulative_total": 27513,
       "growth_rate": 0.0
     },
     {
       "date": "2025-12-10",
       "daily_count": 30,
-      "cumulative_total": 27542,
+      "cumulative_total": 27543,
       "growth_rate": 233.33
     },
     {
       "date": "2025-12-11",
       "daily_count": 36,
-      "cumulative_total": 27578,
+      "cumulative_total": 27579,
       "growth_rate": 20.0
     },
     {
       "date": "2025-12-12",
       "daily_count": 17,
-      "cumulative_total": 27595,
+      "cumulative_total": 27596,
       "growth_rate": -52.78
     },
     {
       "date": "2025-12-13",
       "daily_count": 23,
-      "cumulative_total": 27618,
+      "cumulative_total": 27619,
       "growth_rate": 35.29
     },
     {
       "date": "2025-12-14",
       "daily_count": 15,
-      "cumulative_total": 27633,
+      "cumulative_total": 27634,
       "growth_rate": -34.78
     },
     {
       "date": "2025-12-15",
       "daily_count": 17,
-      "cumulative_total": 27650,
+      "cumulative_total": 27651,
       "growth_rate": 13.33
     },
     {
       "date": "2025-12-16",
       "daily_count": 19,
-      "cumulative_total": 27669,
+      "cumulative_total": 27670,
       "growth_rate": 11.76
     },
     {
       "date": "2025-12-17",
       "daily_count": 17,
-      "cumulative_total": 27686,
+      "cumulative_total": 27687,
       "growth_rate": -10.53
     },
     {
       "date": "2025-12-18",
       "daily_count": 23,
-      "cumulative_total": 27709,
+      "cumulative_total": 27710,
       "growth_rate": 35.29
     },
     {
       "date": "2025-12-19",
       "daily_count": 11,
-      "cumulative_total": 27720,
+      "cumulative_total": 27721,
       "growth_rate": -52.17
     },
     {
       "date": "2025-12-20",
       "daily_count": 10,
-      "cumulative_total": 27730,
+      "cumulative_total": 27731,
       "growth_rate": -9.09
     },
     {
       "date": "2025-12-21",
       "daily_count": 7,
-      "cumulative_total": 27737,
+      "cumulative_total": 27738,
       "growth_rate": -30.0
     },
     {
       "date": "2025-12-22",
       "daily_count": 9,
-      "cumulative_total": 27746,
+      "cumulative_total": 27747,
       "growth_rate": 28.57
     },
     {
       "date": "2025-12-23",
       "daily_count": 16,
-      "cumulative_total": 27762,
+      "cumulative_total": 27763,
       "growth_rate": 77.78
     },
     {
       "date": "2025-12-24",
       "daily_count": 11,
-      "cumulative_total": 27773,
+      "cumulative_total": 27774,
       "growth_rate": -31.25
     },
     {
       "date": "2025-12-25",
       "daily_count": 13,
-      "cumulative_total": 27786,
+      "cumulative_total": 27787,
       "growth_rate": 18.18
     },
     {
       "date": "2025-12-26",
       "daily_count": 15,
-      "cumulative_total": 27801,
+      "cumulative_total": 27802,
       "growth_rate": 15.38
     },
     {
       "date": "2025-12-27",
       "daily_count": 10,
-      "cumulative_total": 27811,
+      "cumulative_total": 27812,
       "growth_rate": -33.33
     },
     {
       "date": "2025-12-28",
       "daily_count": 5,
-      "cumulative_total": 27816,
+      "cumulative_total": 27817,
       "growth_rate": -50.0
     },
     {
       "date": "2025-12-29",
       "daily_count": 19,
-      "cumulative_total": 27835,
+      "cumulative_total": 27836,
       "growth_rate": 280.0
     },
     {
       "date": "2025-12-30",
       "daily_count": 18,
-      "cumulative_total": 27853,
+      "cumulative_total": 27854,
       "growth_rate": -5.26
     },
     {
       "date": "2025-12-31",
       "daily_count": 10,
-      "cumulative_total": 27863,
+      "cumulative_total": 27864,
       "growth_rate": -44.44
     },
     {
       "date": "2026-01-13",
       "daily_count": 1,
-      "cumulative_total": 27864,
+      "cumulative_total": 27865,
       "growth_rate": -90.0
     },
     {
       "date": "2026-01-15",
       "daily_count": 1,
-      "cumulative_total": 27865,
+      "cumulative_total": 27866,
       "growth_rate": 0.0
     },
     {
       "date": "2026-01-16",
       "daily_count": 1,
-      "cumulative_total": 27866,
+      "cumulative_total": 27867,
       "growth_rate": 0.0
     },
     {
       "date": "2026-01-18",
       "daily_count": 1,
-      "cumulative_total": 27867,
+      "cumulative_total": 27868,
       "growth_rate": 0.0
     },
     {
       "date": "2026-01-20",
       "daily_count": 2,
-      "cumulative_total": 27869,
+      "cumulative_total": 27870,
       "growth_rate": 100.0
     },
     {
       "date": "2026-01-22",
       "daily_count": 1,
-      "cumulative_total": 27870,
+      "cumulative_total": 27871,
       "growth_rate": -50.0
     },
     {
       "date": "2026-01-23",
       "daily_count": 1,
-      "cumulative_total": 27871,
+      "cumulative_total": 27872,
       "growth_rate": 0.0
     },
     {
       "date": "2026-01-28",
       "daily_count": 1,
-      "cumulative_total": 27872,
+      "cumulative_total": 27873,
       "growth_rate": 0.0
     },
     {
       "date": "2026-02-03",
       "daily_count": 1,
-      "cumulative_total": 27873,
+      "cumulative_total": 27874,
       "growth_rate": 0.0
     },
     {
       "date": "2026-02-05",
       "daily_count": 1,
-      "cumulative_total": 27874,
+      "cumulative_total": 27875,
       "growth_rate": 0.0
     },
     {
       "date": "2026-02-14",
       "daily_count": 1,
-      "cumulative_total": 27875,
+      "cumulative_total": 27876,
       "growth_rate": 0.0
     },
     {
       "date": "2026-02-18",
       "daily_count": 1,
-      "cumulative_total": 27876,
+      "cumulative_total": 27877,
       "growth_rate": 0.0
     },
     {
       "date": "2026-02-22",
       "daily_count": 1,
-      "cumulative_total": 27877,
+      "cumulative_total": 27878,
       "growth_rate": 0.0
     },
     {
       "date": "2026-02-26",
       "daily_count": 1,
-      "cumulative_total": 27878,
+      "cumulative_total": 27879,
       "growth_rate": 0.0
     },
     {
       "date": "2026-02-28",
       "daily_count": 1,
-      "cumulative_total": 27879,
+      "cumulative_total": 27880,
       "growth_rate": 0.0
     },
     {
       "date": "2026-03-01",
       "daily_count": 1,
-      "cumulative_total": 27880,
-      "growth_rate": 0.0
-    },
-    {
-      "date": "2026-03-03",
-      "daily_count": 1,
       "cumulative_total": 27881,
       "growth_rate": 0.0
     },
     {
+      "date": "2026-03-03",
+      "daily_count": 2,
+      "cumulative_total": 27883,
+      "growth_rate": 100.0
+    },
+    {
       "date": "2026-03-08",
       "daily_count": 1,
-      "cumulative_total": 27882,
-      "growth_rate": 0.0
+      "cumulative_total": 27884,
+      "growth_rate": -50.0
     },
     {
       "date": "2026-03-09",
       "daily_count": 1,
-      "cumulative_total": 27883,
+      "cumulative_total": 27885,
       "growth_rate": 0.0
     },
     {
       "date": "2026-03-10",
       "daily_count": 2,
-      "cumulative_total": 27885,
+      "cumulative_total": 27887,
       "growth_rate": 100.0
     },
     {
       "date": "2026-03-12",
       "daily_count": 1,
-      "cumulative_total": 27886,
+      "cumulative_total": 27888,
       "growth_rate": -50.0
+    },
+    {
+      "date": "2026-03-14",
+      "daily_count": 1,
+      "cumulative_total": 27889,
+      "growth_rate": 0.0
     },
     {
       "date": "2026-03-17",
       "daily_count": 2,
-      "cumulative_total": 27888,
+      "cumulative_total": 27891,
       "growth_rate": 100.0
     },
     {
       "date": "2026-03-25",
       "daily_count": 2,
-      "cumulative_total": 27890,
+      "cumulative_total": 27893,
       "growth_rate": 0.0
     },
     {
       "date": "2026-03-26",
       "daily_count": 1,
-      "cumulative_total": 27891,
+      "cumulative_total": 27894,
       "growth_rate": -50.0
     },
     {
       "date": "2026-03-28",
       "daily_count": 2,
-      "cumulative_total": 27893,
+      "cumulative_total": 27896,
       "growth_rate": 100.0
     },
     {
       "date": "2026-03-30",
       "daily_count": 1,
-      "cumulative_total": 27894,
+      "cumulative_total": 27897,
       "growth_rate": -50.0
     },
     {
       "date": "2026-03-31",
       "daily_count": 1,
-      "cumulative_total": 27895,
+      "cumulative_total": 27898,
       "growth_rate": 0.0
     },
     {
       "date": "2026-04-01",
       "daily_count": 1,
-      "cumulative_total": 27896,
+      "cumulative_total": 27899,
       "growth_rate": 0.0
     },
     {
       "date": "2026-04-02",
       "daily_count": 1,
-      "cumulative_total": 27897,
+      "cumulative_total": 27900,
       "growth_rate": 0.0
     },
     {
       "date": "2026-04-04",
       "daily_count": 1,
-      "cumulative_total": 27898,
+      "cumulative_total": 27901,
       "growth_rate": 0.0
     },
     {
       "date": "2026-04-06",
       "daily_count": 2,
-      "cumulative_total": 27900,
+      "cumulative_total": 27903,
       "growth_rate": 100.0
     },
     {
       "date": "2026-04-07",
       "daily_count": 3,
-      "cumulative_total": 27903,
+      "cumulative_total": 27906,
       "growth_rate": 50.0
     },
     {
       "date": "2026-04-10",
       "daily_count": 1,
-      "cumulative_total": 27904,
+      "cumulative_total": 27907,
       "growth_rate": -66.67
     },
     {
       "date": "2026-04-12",
       "daily_count": 3,
-      "cumulative_total": 27907,
+      "cumulative_total": 27910,
       "growth_rate": 200.0
     },
     {
       "date": "2026-04-14",
       "daily_count": 1,
-      "cumulative_total": 27908,
+      "cumulative_total": 27911,
       "growth_rate": -66.67
     },
     {
       "date": "2026-04-16",
       "daily_count": 1,
-      "cumulative_total": 27909,
+      "cumulative_total": 27912,
       "growth_rate": 0.0
     },
     {
       "date": "2026-04-17",
       "daily_count": 1,
-      "cumulative_total": 27910,
+      "cumulative_total": 27913,
       "growth_rate": 0.0
     },
     {
       "date": "2026-04-20",
       "daily_count": 1,
-      "cumulative_total": 27911,
+      "cumulative_total": 27914,
       "growth_rate": 0.0
     },
     {
       "date": "2026-04-27",
       "daily_count": 1,
-      "cumulative_total": 27912,
+      "cumulative_total": 27915,
       "growth_rate": 0.0
     },
     {
       "date": "2026-04-29",
       "daily_count": 1,
-      "cumulative_total": 27913,
+      "cumulative_total": 27916,
       "growth_rate": 0.0
     },
     {
       "date": "2026-04-30",
-      "daily_count": 2,
-      "cumulative_total": 27915,
-      "growth_rate": 100.0
+      "daily_count": 3,
+      "cumulative_total": 27919,
+      "growth_rate": 200.0
     },
     {
       "date": "2026-05-01",
       "daily_count": 3,
-      "cumulative_total": 27918,
-      "growth_rate": 50.0
-    },
-    {
-      "date": "2026-05-02",
-      "daily_count": 2,
-      "cumulative_total": 27920,
-      "growth_rate": -33.33
-    },
-    {
-      "date": "2026-05-03",
-      "daily_count": 1,
-      "cumulative_total": 27921,
-      "growth_rate": -50.0
-    },
-    {
-      "date": "2026-05-05",
-      "daily_count": 1,
       "cumulative_total": 27922,
       "growth_rate": 0.0
     },
     {
-      "date": "2026-05-06",
+      "date": "2026-05-02",
+      "daily_count": 3,
+      "cumulative_total": 27925,
+      "growth_rate": 0.0
+    },
+    {
+      "date": "2026-05-03",
+      "daily_count": 1,
+      "cumulative_total": 27926,
+      "growth_rate": -66.67
+    },
+    {
+      "date": "2026-05-05",
       "daily_count": 2,
-      "cumulative_total": 27924,
+      "cumulative_total": 27928,
       "growth_rate": 100.0
     },
     {
-      "date": "2026-05-08",
-      "daily_count": 2,
-      "cumulative_total": 27926,
-      "growth_rate": 0.0
-    },
-    {
-      "date": "2026-05-09",
-      "daily_count": 2,
-      "cumulative_total": 27928,
-      "growth_rate": 0.0
-    },
-    {
-      "date": "2026-05-11",
+      "date": "2026-05-06",
       "daily_count": 2,
       "cumulative_total": 27930,
       "growth_rate": 0.0
     },
     {
+      "date": "2026-05-08",
+      "daily_count": 3,
+      "cumulative_total": 27933,
+      "growth_rate": 50.0
+    },
+    {
+      "date": "2026-05-09",
+      "daily_count": 2,
+      "cumulative_total": 27935,
+      "growth_rate": -33.33
+    },
+    {
+      "date": "2026-05-11",
+      "daily_count": 2,
+      "cumulative_total": 27937,
+      "growth_rate": 0.0
+    },
+    {
       "date": "2026-05-12",
       "daily_count": 2,
-      "cumulative_total": 27932,
+      "cumulative_total": 27939,
       "growth_rate": 0.0
     },
     {
       "date": "2026-05-13",
       "daily_count": 3,
-      "cumulative_total": 27935,
+      "cumulative_total": 27942,
       "growth_rate": 50.0
     },
     {
       "date": "2026-05-14",
-      "daily_count": 1,
-      "cumulative_total": 27936,
-      "growth_rate": -66.67
+      "daily_count": 2,
+      "cumulative_total": 27944,
+      "growth_rate": -33.33
     },
     {
       "date": "2026-05-16",
       "daily_count": 5,
-      "cumulative_total": 27941,
-      "growth_rate": 400.0
+      "cumulative_total": 27949,
+      "growth_rate": 150.0
     },
     {
       "date": "2026-05-18",
       "daily_count": 2,
-      "cumulative_total": 27943,
+      "cumulative_total": 27951,
       "growth_rate": -60.0
+    },
+    {
+      "date": "2026-05-19",
+      "daily_count": 1,
+      "cumulative_total": 27952,
+      "growth_rate": -50.0
+    },
+    {
+      "date": "2026-05-20",
+      "daily_count": 1,
+      "cumulative_total": 27953,
+      "growth_rate": 0.0
     },
     {
       "date": "2026-05-21",
       "daily_count": 1,
-      "cumulative_total": 27944,
-      "growth_rate": -50.0
+      "cumulative_total": 27954,
+      "growth_rate": 0.0
     },
     {
       "date": "2026-05-22",
-      "daily_count": 1,
-      "cumulative_total": 27945,
-      "growth_rate": 0.0
+      "daily_count": 9,
+      "cumulative_total": 27963,
+      "growth_rate": 800.0
     },
     {
       "date": "2026-05-23",
       "daily_count": 1,
-      "cumulative_total": 27946,
-      "growth_rate": 0.0
+      "cumulative_total": 27964,
+      "growth_rate": -88.89
     },
     {
       "date": "2026-05-24",
       "daily_count": 2,
-      "cumulative_total": 27948,
+      "cumulative_total": 27966,
       "growth_rate": 100.0
     },
     {
       "date": "2026-05-25",
       "daily_count": 2,
-      "cumulative_total": 27950,
+      "cumulative_total": 27968,
       "growth_rate": 0.0
     },
     {
       "date": "2026-05-26",
       "daily_count": 3,
-      "cumulative_total": 27953,
+      "cumulative_total": 27971,
       "growth_rate": 50.0
     },
     {
       "date": "2026-05-27",
       "daily_count": 1,
-      "cumulative_total": 27954,
+      "cumulative_total": 27972,
       "growth_rate": -66.67
     },
     {
       "date": "2026-05-28",
-      "daily_count": 1,
-      "cumulative_total": 27955,
-      "growth_rate": 0.0
+      "daily_count": 2,
+      "cumulative_total": 27974,
+      "growth_rate": 100.0
     },
     {
       "date": "2026-05-29",
       "daily_count": 2,
-      "cumulative_total": 27957,
-      "growth_rate": 100.0
+      "cumulative_total": 27976,
+      "growth_rate": 0.0
     },
     {
       "date": "2026-05-30",
-      "daily_count": 1,
-      "cumulative_total": 27958,
-      "growth_rate": -50.0
+      "daily_count": 2,
+      "cumulative_total": 27978,
+      "growth_rate": 0.0
     },
     {
       "date": "2026-05-31",
       "daily_count": 2,
-      "cumulative_total": 27960,
-      "growth_rate": 100.0
+      "cumulative_total": 27980,
+      "growth_rate": 0.0
     },
     {
       "date": "2026-06-01",
       "daily_count": 2,
-      "cumulative_total": 27962,
+      "cumulative_total": 27982,
       "growth_rate": 0.0
     },
     {
       "date": "2026-06-03",
       "daily_count": 3,
-      "cumulative_total": 27965,
+      "cumulative_total": 27985,
       "growth_rate": 50.0
     },
     {
       "date": "2026-06-04",
       "daily_count": 2,
-      "cumulative_total": 27967,
+      "cumulative_total": 27987,
       "growth_rate": -33.33
     },
     {
       "date": "2026-06-05",
       "daily_count": 1,
-      "cumulative_total": 27968,
+      "cumulative_total": 27988,
       "growth_rate": -50.0
     },
     {
       "date": "2026-06-06",
       "daily_count": 3,
-      "cumulative_total": 27971,
+      "cumulative_total": 27991,
       "growth_rate": 200.0
     },
     {
       "date": "2026-06-08",
       "daily_count": 2,
-      "cumulative_total": 27973,
+      "cumulative_total": 27993,
       "growth_rate": -33.33
     },
     {
       "date": "2026-06-10",
       "daily_count": 4,
-      "cumulative_total": 27977,
+      "cumulative_total": 27997,
       "growth_rate": 100.0
     },
     {
       "date": "2026-06-11",
       "daily_count": 3,
-      "cumulative_total": 27980,
+      "cumulative_total": 28000,
       "growth_rate": -25.0
     },
     {
       "date": "2026-06-12",
       "daily_count": 18,
-      "cumulative_total": 27998,
+      "cumulative_total": 28018,
       "growth_rate": 500.0
     },
     {
       "date": "2026-06-13",
       "daily_count": 20,
-      "cumulative_total": 28018,
+      "cumulative_total": 28038,
       "growth_rate": 11.11
     },
     {
       "date": "2026-06-14",
       "daily_count": 11,
-      "cumulative_total": 28029,
+      "cumulative_total": 28049,
       "growth_rate": -45.0
     },
     {
       "date": "2026-06-15",
       "daily_count": 21,
-      "cumulative_total": 28050,
+      "cumulative_total": 28070,
       "growth_rate": 90.91
     },
     {
       "date": "2026-06-16",
       "daily_count": 16,
-      "cumulative_total": 28066,
+      "cumulative_total": 28086,
       "growth_rate": -23.81
     },
     {
       "date": "2026-06-17",
       "daily_count": 30,
-      "cumulative_total": 28096,
+      "cumulative_total": 28116,
       "growth_rate": 87.5
     },
     {
       "date": "2026-06-18",
       "daily_count": 16,
-      "cumulative_total": 28112,
+      "cumulative_total": 28132,
       "growth_rate": -46.67
     },
     {
       "date": "2026-06-19",
       "daily_count": 15,
-      "cumulative_total": 28127,
+      "cumulative_total": 28147,
       "growth_rate": -6.25
     },
     {
       "date": "2026-06-20",
       "daily_count": 5,
-      "cumulative_total": 28132,
+      "cumulative_total": 28152,
       "growth_rate": -66.67
     },
     {
       "date": "2026-06-21",
       "daily_count": 13,
-      "cumulative_total": 28145,
+      "cumulative_total": 28165,
       "growth_rate": 160.0
     },
     {
       "date": "2026-06-22",
       "daily_count": 16,
-      "cumulative_total": 28161,
+      "cumulative_total": 28181,
       "growth_rate": 23.08
     },
     {
       "date": "2026-06-23",
       "daily_count": 12,
-      "cumulative_total": 28173,
+      "cumulative_total": 28193,
       "growth_rate": -25.0
     },
     {
       "date": "2026-06-24",
       "daily_count": 12,
-      "cumulative_total": 28185,
+      "cumulative_total": 28205,
       "growth_rate": 0.0
     },
     {
       "date": "2026-06-25",
       "daily_count": 10,
-      "cumulative_total": 28195,
+      "cumulative_total": 28215,
       "growth_rate": -16.67
     },
     {
       "date": "2026-06-26",
       "daily_count": 23,
-      "cumulative_total": 28218,
+      "cumulative_total": 28238,
       "growth_rate": 130.0
     },
     {
       "date": "2026-06-27",
       "daily_count": 17,
-      "cumulative_total": 28235,
+      "cumulative_total": 28255,
       "growth_rate": -26.09
     },
     {
       "date": "2026-06-28",
       "daily_count": 13,
-      "cumulative_total": 28248,
+      "cumulative_total": 28268,
       "growth_rate": -23.53
     },
     {
       "date": "2026-06-29",
       "daily_count": 17,
-      "cumulative_total": 28265,
+      "cumulative_total": 28285,
       "growth_rate": 30.77
     },
     {
       "date": "2026-06-30",
       "daily_count": 21,
-      "cumulative_total": 28286,
+      "cumulative_total": 28306,
       "growth_rate": 23.53
     },
     {
       "date": "2026-07-01",
       "daily_count": 15,
-      "cumulative_total": 28301,
+      "cumulative_total": 28321,
       "growth_rate": -28.57
     },
     {
       "date": "2026-07-02",
       "daily_count": 19,
-      "cumulative_total": 28320,
+      "cumulative_total": 28340,
       "growth_rate": 26.67
     },
     {
       "date": "2026-07-03",
-      "daily_count": 11,
-      "cumulative_total": 28331,
-      "growth_rate": -42.11
+      "daily_count": 12,
+      "cumulative_total": 28352,
+      "growth_rate": -36.84
     },
     {
       "date": "2026-07-04",
       "daily_count": 19,
-      "cumulative_total": 28350,
-      "growth_rate": 72.73
+      "cumulative_total": 28371,
+      "growth_rate": 58.33
     },
     {
       "date": "2026-07-05",
       "daily_count": 15,
-      "cumulative_total": 28365,
+      "cumulative_total": 28386,
       "growth_rate": -21.05
     },
     {
       "date": "2026-07-06",
       "daily_count": 16,
-      "cumulative_total": 28381,
+      "cumulative_total": 28402,
       "growth_rate": 6.67
     },
     {
       "date": "2026-07-07",
       "daily_count": 26,
-      "cumulative_total": 28407,
+      "cumulative_total": 28428,
       "growth_rate": 62.5
     },
     {
       "date": "2026-07-08",
-      "daily_count": 21,
-      "cumulative_total": 28428,
-      "growth_rate": -19.23
+      "daily_count": 23,
+      "cumulative_total": 28451,
+      "growth_rate": -11.54
     },
     {
       "date": "2026-07-09",
-      "daily_count": 24,
-      "cumulative_total": 28452,
-      "growth_rate": 14.29
+      "daily_count": 25,
+      "cumulative_total": 28476,
+      "growth_rate": 8.7
     },
     {
       "date": "2026-07-10",
       "daily_count": 18,
-      "cumulative_total": 28470,
-      "growth_rate": -25.0
+      "cumulative_total": 28494,
+      "growth_rate": -28.0
     },
     {
       "date": "2026-07-11",
       "daily_count": 22,
-      "cumulative_total": 28492,
+      "cumulative_total": 28516,
       "growth_rate": 22.22
     },
     {
       "date": "2026-07-12",
       "daily_count": 11,
-      "cumulative_total": 28503,
+      "cumulative_total": 28527,
       "growth_rate": -50.0
     },
     {
       "date": "2026-07-13",
       "daily_count": 28,
-      "cumulative_total": 28531,
+      "cumulative_total": 28555,
       "growth_rate": 154.55
     },
     {
       "date": "2026-07-14",
-      "daily_count": 14,
-      "cumulative_total": 28545,
-      "growth_rate": -50.0
+      "daily_count": 15,
+      "cumulative_total": 28570,
+      "growth_rate": -46.43
     },
     {
       "date": "2026-07-15",
       "daily_count": 39,
-      "cumulative_total": 28584,
-      "growth_rate": 178.57
+      "cumulative_total": 28609,
+      "growth_rate": 160.0
     },
     {
       "date": "2026-07-16",
       "daily_count": 27,
-      "cumulative_total": 28611,
+      "cumulative_total": 28636,
       "growth_rate": -30.77
     },
     {
       "date": "2026-07-17",
       "daily_count": 23,
-      "cumulative_total": 28634,
+      "cumulative_total": 28659,
       "growth_rate": -14.81
     },
     {
       "date": "2026-07-18",
       "daily_count": 48,
-      "cumulative_total": 28682,
+      "cumulative_total": 28707,
       "growth_rate": 108.7
     },
     {
       "date": "2026-07-19",
       "daily_count": 23,
-      "cumulative_total": 28705,
+      "cumulative_total": 28730,
       "growth_rate": -52.08
     },
     {
       "date": "2026-07-20",
       "daily_count": 30,
-      "cumulative_total": 28735,
+      "cumulative_total": 28760,
       "growth_rate": 30.43
     },
     {
       "date": "2026-07-21",
-      "daily_count": 31,
-      "cumulative_total": 28766,
-      "growth_rate": 3.33
+      "daily_count": 32,
+      "cumulative_total": 28792,
+      "growth_rate": 6.67
     },
     {
       "date": "2026-07-22",
       "daily_count": 20,
-      "cumulative_total": 28786,
-      "growth_rate": -35.48
+      "cumulative_total": 28812,
+      "growth_rate": -37.5
     },
     {
       "date": "2026-07-23",
       "daily_count": 27,
-      "cumulative_total": 28813,
+      "cumulative_total": 28839,
       "growth_rate": 35.0
     },
     {
       "date": "2026-07-24",
       "daily_count": 23,
-      "cumulative_total": 28836,
+      "cumulative_total": 28862,
       "growth_rate": -14.81
     },
     {
       "date": "2026-07-25",
       "daily_count": 24,
-      "cumulative_total": 28860,
+      "cumulative_total": 28886,
       "growth_rate": 4.35
     },
     {
       "date": "2026-07-26",
-      "daily_count": 24,
-      "cumulative_total": 28884,
-      "growth_rate": 0.0
+      "daily_count": 25,
+      "cumulative_total": 28911,
+      "growth_rate": 4.17
     },
     {
       "date": "2026-07-27",
-      "daily_count": 20,
-      "cumulative_total": 28904,
-      "growth_rate": -16.67
+      "daily_count": 21,
+      "cumulative_total": 28932,
+      "growth_rate": -16.0
     },
     {
       "date": "2026-07-28",
       "daily_count": 24,
-      "cumulative_total": 28928,
-      "growth_rate": 20.0
+      "cumulative_total": 28956,
+      "growth_rate": 14.29
     },
     {
       "date": "2026-07-29",
-      "daily_count": 23,
-      "cumulative_total": 28951,
-      "growth_rate": -4.17
+      "daily_count": 24,
+      "cumulative_total": 28980,
+      "growth_rate": 0.0
     },
     {
       "date": "2026-07-30",
-      "daily_count": 3,
-      "cumulative_total": 28954,
-      "growth_rate": -86.96
+      "daily_count": 19,
+      "cumulative_total": 28999,
+      "growth_rate": -20.83
+    },
+    {
+      "date": "2026-07-31",
+      "daily_count": 19,
+      "cumulative_total": 29018,
+      "growth_rate": 0.0
+    },
+    {
+      "date": "2026-08-01",
+      "daily_count": 24,
+      "cumulative_total": 29042,
+      "growth_rate": 26.32
+    },
+    {
+      "date": "2026-08-02",
+      "daily_count": 21,
+      "cumulative_total": 29063,
+      "growth_rate": -12.5
+    },
+    {
+      "date": "2026-08-03",
+      "daily_count": 74,
+      "cumulative_total": 29137,
+      "growth_rate": 252.38
+    },
+    {
+      "date": "2026-08-04",
+      "daily_count": 82,
+      "cumulative_total": 29219,
+      "growth_rate": 10.81
+    },
+    {
+      "date": "2026-08-05",
+      "daily_count": 32,
+      "cumulative_total": 29251,
+      "growth_rate": -60.98
+    },
+    {
+      "date": "2026-08-06",
+      "daily_count": 23,
+      "cumulative_total": 29274,
+      "growth_rate": -28.12
+    },
+    {
+      "date": "2026-08-07",
+      "daily_count": 32,
+      "cumulative_total": 29306,
+      "growth_rate": 39.13
+    },
+    {
+      "date": "2026-08-08",
+      "daily_count": 20,
+      "cumulative_total": 29326,
+      "growth_rate": -37.5
+    },
+    {
+      "date": "2026-08-09",
+      "daily_count": 1,
+      "cumulative_total": 29327,
+      "growth_rate": -95.0
     }
   ],
   "recent_7_days": [
     {
-      "date": "2026-07-24",
+      "date": "2026-08-03",
+      "daily_count": 74,
+      "cumulative_total": 29137,
+      "growth_rate": 252.38
+    },
+    {
+      "date": "2026-08-04",
+      "daily_count": 82,
+      "cumulative_total": 29219,
+      "growth_rate": 10.81
+    },
+    {
+      "date": "2026-08-05",
+      "daily_count": 32,
+      "cumulative_total": 29251,
+      "growth_rate": -60.98
+    },
+    {
+      "date": "2026-08-06",
       "daily_count": 23,
-      "cumulative_total": 28836,
-      "growth_rate": -14.81
+      "cumulative_total": 29274,
+      "growth_rate": -28.12
     },
     {
-      "date": "2026-07-25",
-      "daily_count": 24,
-      "cumulative_total": 28860,
-      "growth_rate": 4.35
+      "date": "2026-08-07",
+      "daily_count": 32,
+      "cumulative_total": 29306,
+      "growth_rate": 39.13
     },
     {
-      "date": "2026-07-26",
-      "daily_count": 24,
-      "cumulative_total": 28884,
-      "growth_rate": 0.0
-    },
-    {
-      "date": "2026-07-27",
+      "date": "2026-08-08",
       "daily_count": 20,
-      "cumulative_total": 28904,
-      "growth_rate": -16.67
+      "cumulative_total": 29326,
+      "growth_rate": -37.5
     },
     {
-      "date": "2026-07-28",
-      "daily_count": 24,
-      "cumulative_total": 28928,
-      "growth_rate": 20.0
-    },
-    {
-      "date": "2026-07-29",
-      "daily_count": 23,
-      "cumulative_total": 28951,
-      "growth_rate": -4.17
-    },
-    {
-      "date": "2026-07-30",
-      "daily_count": 3,
-      "cumulative_total": 28954,
-      "growth_rate": -86.96
+      "date": "2026-08-09",
+      "daily_count": 1,
+      "cumulative_total": 29327,
+      "growth_rate": -95.0
     }
   ],
   "recent_30_days": [
     {
-      "date": "2026-07-01",
-      "daily_count": 15,
-      "cumulative_total": 28301,
-      "growth_rate": -28.57
-    },
-    {
-      "date": "2026-07-02",
-      "daily_count": 19,
-      "cumulative_total": 28320,
-      "growth_rate": 26.67
-    },
-    {
-      "date": "2026-07-03",
-      "daily_count": 11,
-      "cumulative_total": 28331,
-      "growth_rate": -42.11
-    },
-    {
-      "date": "2026-07-04",
-      "daily_count": 19,
-      "cumulative_total": 28350,
-      "growth_rate": 72.73
-    },
-    {
-      "date": "2026-07-05",
-      "daily_count": 15,
-      "cumulative_total": 28365,
-      "growth_rate": -21.05
-    },
-    {
-      "date": "2026-07-06",
-      "daily_count": 16,
-      "cumulative_total": 28381,
-      "growth_rate": 6.67
-    },
-    {
-      "date": "2026-07-07",
-      "daily_count": 26,
-      "cumulative_total": 28407,
-      "growth_rate": 62.5
-    },
-    {
-      "date": "2026-07-08",
-      "daily_count": 21,
-      "cumulative_total": 28428,
-      "growth_rate": -19.23
-    },
-    {
-      "date": "2026-07-09",
-      "daily_count": 24,
-      "cumulative_total": 28452,
-      "growth_rate": 14.29
-    },
-    {
-      "date": "2026-07-10",
-      "daily_count": 18,
-      "cumulative_total": 28470,
-      "growth_rate": -25.0
-    },
-    {
       "date": "2026-07-11",
       "daily_count": 22,
-      "cumulative_total": 28492,
+      "cumulative_total": 28516,
       "growth_rate": 22.22
     },
     {
       "date": "2026-07-12",
       "daily_count": 11,
-      "cumulative_total": 28503,
+      "cumulative_total": 28527,
       "growth_rate": -50.0
     },
     {
       "date": "2026-07-13",
       "daily_count": 28,
-      "cumulative_total": 28531,
+      "cumulative_total": 28555,
       "growth_rate": 154.55
     },
     {
       "date": "2026-07-14",
-      "daily_count": 14,
-      "cumulative_total": 28545,
-      "growth_rate": -50.0
+      "daily_count": 15,
+      "cumulative_total": 28570,
+      "growth_rate": -46.43
     },
     {
       "date": "2026-07-15",
       "daily_count": 39,
-      "cumulative_total": 28584,
-      "growth_rate": 178.57
+      "cumulative_total": 28609,
+      "growth_rate": 160.0
     },
     {
       "date": "2026-07-16",
       "daily_count": 27,
-      "cumulative_total": 28611,
+      "cumulative_total": 28636,
       "growth_rate": -30.77
     },
     {
       "date": "2026-07-17",
       "daily_count": 23,
-      "cumulative_total": 28634,
+      "cumulative_total": 28659,
       "growth_rate": -14.81
     },
     {
       "date": "2026-07-18",
       "daily_count": 48,
-      "cumulative_total": 28682,
+      "cumulative_total": 28707,
       "growth_rate": 108.7
     },
     {
       "date": "2026-07-19",
       "daily_count": 23,
-      "cumulative_total": 28705,
+      "cumulative_total": 28730,
       "growth_rate": -52.08
     },
     {
       "date": "2026-07-20",
       "daily_count": 30,
-      "cumulative_total": 28735,
+      "cumulative_total": 28760,
       "growth_rate": 30.43
     },
     {
       "date": "2026-07-21",
-      "daily_count": 31,
-      "cumulative_total": 28766,
-      "growth_rate": 3.33
+      "daily_count": 32,
+      "cumulative_total": 28792,
+      "growth_rate": 6.67
     },
     {
       "date": "2026-07-22",
       "daily_count": 20,
-      "cumulative_total": 28786,
-      "growth_rate": -35.48
+      "cumulative_total": 28812,
+      "growth_rate": -37.5
     },
     {
       "date": "2026-07-23",
       "daily_count": 27,
-      "cumulative_total": 28813,
+      "cumulative_total": 28839,
       "growth_rate": 35.0
     },
     {
       "date": "2026-07-24",
       "daily_count": 23,
-      "cumulative_total": 28836,
+      "cumulative_total": 28862,
       "growth_rate": -14.81
     },
     {
       "date": "2026-07-25",
       "daily_count": 24,
-      "cumulative_total": 28860,
+      "cumulative_total": 28886,
       "growth_rate": 4.35
     },
     {
       "date": "2026-07-26",
-      "daily_count": 24,
-      "cumulative_total": 28884,
-      "growth_rate": 0.0
+      "daily_count": 25,
+      "cumulative_total": 28911,
+      "growth_rate": 4.17
     },
     {
       "date": "2026-07-27",
-      "daily_count": 20,
-      "cumulative_total": 28904,
-      "growth_rate": -16.67
+      "daily_count": 21,
+      "cumulative_total": 28932,
+      "growth_rate": -16.0
     },
     {
       "date": "2026-07-28",
       "daily_count": 24,
-      "cumulative_total": 28928,
-      "growth_rate": 20.0
+      "cumulative_total": 28956,
+      "growth_rate": 14.29
     },
     {
       "date": "2026-07-29",
-      "daily_count": 23,
-      "cumulative_total": 28951,
-      "growth_rate": -4.17
+      "daily_count": 24,
+      "cumulative_total": 28980,
+      "growth_rate": 0.0
     },
     {
       "date": "2026-07-30",
-      "daily_count": 3,
-      "cumulative_total": 28954,
-      "growth_rate": -86.96
+      "daily_count": 19,
+      "cumulative_total": 28999,
+      "growth_rate": -20.83
+    },
+    {
+      "date": "2026-07-31",
+      "daily_count": 19,
+      "cumulative_total": 29018,
+      "growth_rate": 0.0
+    },
+    {
+      "date": "2026-08-01",
+      "daily_count": 24,
+      "cumulative_total": 29042,
+      "growth_rate": 26.32
+    },
+    {
+      "date": "2026-08-02",
+      "daily_count": 21,
+      "cumulative_total": 29063,
+      "growth_rate": -12.5
+    },
+    {
+      "date": "2026-08-03",
+      "daily_count": 74,
+      "cumulative_total": 29137,
+      "growth_rate": 252.38
+    },
+    {
+      "date": "2026-08-04",
+      "daily_count": 82,
+      "cumulative_total": 29219,
+      "growth_rate": 10.81
+    },
+    {
+      "date": "2026-08-05",
+      "daily_count": 32,
+      "cumulative_total": 29251,
+      "growth_rate": -60.98
+    },
+    {
+      "date": "2026-08-06",
+      "daily_count": 23,
+      "cumulative_total": 29274,
+      "growth_rate": -28.12
+    },
+    {
+      "date": "2026-08-07",
+      "daily_count": 32,
+      "cumulative_total": 29306,
+      "growth_rate": 39.13
+    },
+    {
+      "date": "2026-08-08",
+      "daily_count": 20,
+      "cumulative_total": 29326,
+      "growth_rate": -37.5
+    },
+    {
+      "date": "2026-08-09",
+      "daily_count": 1,
+      "cumulative_total": 29327,
+      "growth_rate": -95.0
     }
   ],
   "daily_stats": [
@@ -38544,7 +38622,7 @@
     {
       "file": "2025-12-05.json",
       "date": "2025-12-05",
-      "count": 11,
+      "count": 12,
       "path": "../docs/data/daily/2025-12-05.json"
     },
     {
@@ -38802,7 +38880,7 @@
     {
       "file": "2026-03-03.json",
       "date": "2026-03-03",
-      "count": 1,
+      "count": 2,
       "path": "../docs/data/daily/2026-03-03.json"
     },
     {
@@ -38828,6 +38906,12 @@
       "date": "2026-03-12",
       "count": 1,
       "path": "../docs/data/daily/2026-03-12.json"
+    },
+    {
+      "file": "2026-03-14.json",
+      "date": "2026-03-14",
+      "count": 1,
+      "path": "../docs/data/daily/2026-03-14.json"
     },
     {
       "file": "2026-03-17.json",
@@ -38946,7 +39030,7 @@
     {
       "file": "2026-04-30.json",
       "date": "2026-04-30",
-      "count": 2,
+      "count": 3,
       "path": "../docs/data/daily/2026-04-30.json"
     },
     {
@@ -38958,7 +39042,7 @@
     {
       "file": "2026-05-02.json",
       "date": "2026-05-02",
-      "count": 2,
+      "count": 3,
       "path": "../docs/data/daily/2026-05-02.json"
     },
     {
@@ -38970,7 +39054,7 @@
     {
       "file": "2026-05-05.json",
       "date": "2026-05-05",
-      "count": 1,
+      "count": 2,
       "path": "../docs/data/daily/2026-05-05.json"
     },
     {
@@ -38982,7 +39066,7 @@
     {
       "file": "2026-05-08.json",
       "date": "2026-05-08",
-      "count": 2,
+      "count": 3,
       "path": "../docs/data/daily/2026-05-08.json"
     },
     {
@@ -39012,7 +39096,7 @@
     {
       "file": "2026-05-14.json",
       "date": "2026-05-14",
-      "count": 1,
+      "count": 2,
       "path": "../docs/data/daily/2026-05-14.json"
     },
     {
@@ -39028,6 +39112,18 @@
       "path": "../docs/data/daily/2026-05-18.json"
     },
     {
+      "file": "2026-05-19.json",
+      "date": "2026-05-19",
+      "count": 1,
+      "path": "../docs/data/daily/2026-05-19.json"
+    },
+    {
+      "file": "2026-05-20.json",
+      "date": "2026-05-20",
+      "count": 1,
+      "path": "../docs/data/daily/2026-05-20.json"
+    },
+    {
       "file": "2026-05-21.json",
       "date": "2026-05-21",
       "count": 1,
@@ -39036,7 +39132,7 @@
     {
       "file": "2026-05-22.json",
       "date": "2026-05-22",
-      "count": 1,
+      "count": 9,
       "path": "../docs/data/daily/2026-05-22.json"
     },
     {
@@ -39072,7 +39168,7 @@
     {
       "file": "2026-05-28.json",
       "date": "2026-05-28",
-      "count": 1,
+      "count": 2,
       "path": "../docs/data/daily/2026-05-28.json"
     },
     {
@@ -39084,7 +39180,7 @@
     {
       "file": "2026-05-30.json",
       "date": "2026-05-30",
-      "count": 1,
+      "count": 2,
       "path": "../docs/data/daily/2026-05-30.json"
     },
     {
@@ -39270,7 +39366,7 @@
     {
       "file": "2026-07-03.json",
       "date": "2026-07-03",
-      "count": 11,
+      "count": 12,
       "path": "../docs/data/daily/2026-07-03.json"
     },
     {
@@ -39300,13 +39396,13 @@
     {
       "file": "2026-07-08.json",
       "date": "2026-07-08",
-      "count": 21,
+      "count": 23,
       "path": "../docs/data/daily/2026-07-08.json"
     },
     {
       "file": "2026-07-09.json",
       "date": "2026-07-09",
-      "count": 24,
+      "count": 25,
       "path": "../docs/data/daily/2026-07-09.json"
     },
     {
@@ -39336,7 +39432,7 @@
     {
       "file": "2026-07-14.json",
       "date": "2026-07-14",
-      "count": 14,
+      "count": 15,
       "path": "../docs/data/daily/2026-07-14.json"
     },
     {
@@ -39378,7 +39474,7 @@
     {
       "file": "2026-07-21.json",
       "date": "2026-07-21",
-      "count": 31,
+      "count": 32,
       "path": "../docs/data/daily/2026-07-21.json"
     },
     {
@@ -39408,13 +39504,13 @@
     {
       "file": "2026-07-26.json",
       "date": "2026-07-26",
-      "count": 24,
+      "count": 25,
       "path": "../docs/data/daily/2026-07-26.json"
     },
     {
       "file": "2026-07-27.json",
       "date": "2026-07-27",
-      "count": 20,
+      "count": 21,
       "path": "../docs/data/daily/2026-07-27.json"
     },
     {
@@ -39426,14 +39522,74 @@
     {
       "file": "2026-07-29.json",
       "date": "2026-07-29",
-      "count": 23,
+      "count": 24,
       "path": "../docs/data/daily/2026-07-29.json"
     },
     {
       "file": "2026-07-30.json",
       "date": "2026-07-30",
-      "count": 3,
+      "count": 19,
       "path": "../docs/data/daily/2026-07-30.json"
+    },
+    {
+      "file": "2026-07-31.json",
+      "date": "2026-07-31",
+      "count": 19,
+      "path": "../docs/data/daily/2026-07-31.json"
+    },
+    {
+      "file": "2026-08-01.json",
+      "date": "2026-08-01",
+      "count": 24,
+      "path": "../docs/data/daily/2026-08-01.json"
+    },
+    {
+      "file": "2026-08-02.json",
+      "date": "2026-08-02",
+      "count": 21,
+      "path": "../docs/data/daily/2026-08-02.json"
+    },
+    {
+      "file": "2026-08-03.json",
+      "date": "2026-08-03",
+      "count": 74,
+      "path": "../docs/data/daily/2026-08-03.json"
+    },
+    {
+      "file": "2026-08-04.json",
+      "date": "2026-08-04",
+      "count": 82,
+      "path": "../docs/data/daily/2026-08-04.json"
+    },
+    {
+      "file": "2026-08-05.json",
+      "date": "2026-08-05",
+      "count": 32,
+      "path": "../docs/data/daily/2026-08-05.json"
+    },
+    {
+      "file": "2026-08-06.json",
+      "date": "2026-08-06",
+      "count": 23,
+      "path": "../docs/data/daily/2026-08-06.json"
+    },
+    {
+      "file": "2026-08-07.json",
+      "date": "2026-08-07",
+      "count": 32,
+      "path": "../docs/data/daily/2026-08-07.json"
+    },
+    {
+      "file": "2026-08-08.json",
+      "date": "2026-08-08",
+      "count": 20,
+      "path": "../docs/data/daily/2026-08-08.json"
+    },
+    {
+      "file": "2026-08-09.json",
+      "date": "2026-08-09",
+      "count": 1,
+      "path": "../docs/data/daily/2026-08-09.json"
     }
   ]
 }

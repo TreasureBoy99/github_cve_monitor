@@ -1,6 +1,6 @@
 {
   "date": "2025-12-05",
-  "count": 11,
+  "count": 12,
   "cves": [
     {
       "cve_id": "CVE-2025-55182",
@@ -73,6 +73,13 @@
       "raw_date": "2025-12-05T21:42:00Z"
     },
     {
+      "cve_id": "CVE-2025-46811",
+      "repo_info": "[szachovy/CVE-2025-46811-challenge](https://github.com/szachovy/CVE-2025-46811-challenge)",
+      "description": "no description",
+      "date": "2025-12-05",
+      "raw_date": "2025-12-05T16:45:17Z"
+    },
+    {
       "cve_id": "CVE-2025-1913",
       "repo_info": "[S0haib518-KSA/CVE-2025-1913-PoC](https://github.com/S0haib518-KSA/CVE-2025-1913-PoC)",
       "description": "A PoC demonstrating CVE-2025-1913, showing how the plugin’s unsafe unserialize handling can lead to high-impact behavior in controlled environments. Contains a harmful payload for authorized testing only. Use strictly in isolated labs and for defensive research.",
@@ -80,9 +87,9 @@
       "raw_date": "2025-12-05T13:45:50Z"
     }
   ],
-  "generated_at": "2026-07-31T02:30:21.124502",
+  "generated_at": "2026-08-10T01:49:49.236800",
   "metadata": {
-    "total_cves": 11,
+    "total_cves": 12,
     "date_range": "2025-12-05",
     "source": "README.md",
     "script_version": "2.0"

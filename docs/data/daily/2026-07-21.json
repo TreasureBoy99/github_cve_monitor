@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "count": 31,
+  "count": 32,
   "cves": [
     {
       "cve_id": "CVE-2026-9973",
@@ -192,6 +192,13 @@
       "raw_date": "2026-07-21T08:56:03Z"
     },
     {
+      "cve_id": "CVE-2026-20200",
+      "repo_info": "[NSIDE-ATTACK-LOGIC/CIMCown](https://github.com/NSIDE-ATTACK-LOGIC/CIMCown)",
+      "description": "PoC toolkit for exploiting Cisco IMC RCE CVE-2026-20200",
+      "date": "2026-07-21",
+      "raw_date": "2026-07-21T16:07:40Z"
+    },
+    {
       "cve_id": "CVE-2026-20169",
       "repo_info": "[gigachadusers/CVE-2026-20169](https://github.com/gigachadusers/CVE-2026-20169)",
       "description": "no description",
@@ -220,9 +227,9 @@
       "raw_date": "2026-07-21T19:44:45Z"
     }
   ],
-  "generated_at": "2026-07-31T02:30:21.145936",
+  "generated_at": "2026-08-10T01:49:49.265841",
   "metadata": {
-    "total_cves": 31,
+    "total_cves": 32,
     "date_range": "2026-07-21",
     "source": "README.md",
     "script_version": "2.0"

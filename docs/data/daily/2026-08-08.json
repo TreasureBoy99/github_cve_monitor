@@ -1,0 +1,153 @@
+{
+  "date": "2026-08-08",
+  "count": 20,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-71557",
+      "repo_info": "[Saku0512/CVE-2026-71557-poc](https://github.com/Saku0512/CVE-2026-71557-poc)",
+      "description": "no description",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T01:52:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[imbas007/CVE-2026-64638-POC](https://github.com/imbas007/CVE-2026-64638-POC)",
+      "description": "CVE-2026-64638: WordPress Pre-auth XSS → RCE (XSS2Shell) PoC",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T01:20:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[MR-LeonardoGomes/XSS2Shell-CVE-2026-64638](https://github.com/MR-LeonardoGomes/XSS2Shell-CVE-2026-64638)",
+      "description": "no description",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T23:26:53Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[Dungsocool/CVE-2026-64638](https://github.com/Dungsocool/CVE-2026-64638)",
+      "description": "no description",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T16:50:10Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[mohwahyudi/poc-CVE-2026-64638-](https://github.com/mohwahyudi/poc-CVE-2026-64638-)",
+      "description": "no description",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T13:05:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[tc4dy/CVE-2026-64638-PoC-Exploit](https://github.com/tc4dy/CVE-2026-64638-PoC-Exploit)",
+      "description": "🛡️ CVE-2026-64638 - WordPress Security Assessment Suite (CVSS 8.9) - WordPress 4.7.0-7.0.2 pentest toolkit. Includes vulnerability assessment &amp; advanced analysis modules. 🐍 Safe Check &amp; Exploit, 2 mode. Advanced Blue&amp;Red Team Best 2026-64638 Toolkit, Authorized use only. Stay Legal &lt;3zd",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T11:53:39Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[yogaGymn/XSS2Shell-CVE-2026-64638](https://github.com/yogaGymn/XSS2Shell-CVE-2026-64638)",
+      "description": "no description",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T06:10:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[HackSpeak/CVE-2026-64638](https://github.com/HackSpeak/CVE-2026-64638)",
+      "description": "XSS2Shell (CVE-2026-64638) WordPress pre-auth XSS to RCE PoC mirror — WordSec, MIT; for authorized security testing",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T08:51:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[4minx/CVE-2026-64638](https://github.com/4minx/CVE-2026-64638)",
+      "description": "CVE-2026-64638 (XSS2shell) POC.",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T08:48:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-64600",
+      "repo_info": "[masrikky/CVE-2026-64600-RefluXFS](https://github.com/masrikky/CVE-2026-64600-RefluXFS)",
+      "description": "A Linux kernel local privilege escalation affecting the XFS filesystem copy-on-write (CoW) path.",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T15:18:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-64561",
+      "repo_info": "[HackSpeak/CVE-2026-64561](https://github.com/HackSpeak/CVE-2026-64561)",
+      "description": "Zapscape (CVE-2026-64561) KVM/x86 shadow MMU UAF guest-to-host escape PoC mirror — V4bel/@v4bel, MIT; for authorized security testing",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T02:13:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-64561",
+      "repo_info": "[chuzhongyun/CVE-2026-64561-Kernel-Fix](https://github.com/chuzhongyun/CVE-2026-64561-Kernel-Fix)",
+      "description": "no description",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T15:49:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-63077",
+      "repo_info": "[BoredHackerBlog/teamcity-CVE-2026-63077-pcap](https://github.com/BoredHackerBlog/teamcity-CVE-2026-63077-pcap)",
+      "description": "teamcity teamcity-CVE-2026-63077 exploitation pcap",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T00:10:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-63077",
+      "repo_info": "[AnggaTechI/CVE-2026-63077](https://github.com/AnggaTechI/CVE-2026-63077)",
+      "description": "CVE-2026-63077 — Unauthenticated Remote Code Execution in JetBrains TeamCity via agent polling protocol deserialization. CVSS 9.8 CRITICAL. Mass exploitation tool with interactive shell, multi-threading, and real-time result logging.",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T06:32:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[M4xSec/wp2shell-Exploit-Waf-Bypass](https://github.com/M4xSec/wp2shell-Exploit-Waf-Bypass)",
+      "description": "WordPress Pre-Auth RCE Exploit + Scanner + WAF Bypass - CVE-2026-63030 + CVE-2026-60137 - Go + Python + Metasploit modules + Docker lab",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T17:22:08Z"
+    },
+    {
+      "cve_id": "CVE-2026-60004",
+      "repo_info": "[gagaltotal/CVE-2026-60004-poc-gitea](https://github.com/gagaltotal/CVE-2026-60004-poc-gitea)",
+      "description": "CVE-2026-60004 — Gitea Pre-Auth RCE via diffpatch hook injection",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T13:08:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[wxxsfxyzm/GhostLock-Galaxy](https://github.com/wxxsfxyzm/GhostLock-Galaxy)",
+      "description": "Root your Galaxy using CVE-2026-43499",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T11:41:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-3844",
+      "repo_info": "[AnggaTechI/CVE-2026-3844](https://github.com/AnggaTechI/CVE-2026-3844)",
+      "description": "CVE-2026-3844 — Unauthenticated Arbitrary File Upload to RCE in Breeze Cache (WordPress).  CVSS 9.8 CRITICAL. Mass scanner + auto shell injector with multi-threading.",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T11:43:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-27912",
+      "repo_info": "[mihat2/ResetNightmare-impacket](https://github.com/mihat2/ResetNightmare-impacket)",
+      "description": "CVE-2026-27912 (ResetNightmare) — Linux/impacket port of Semperis Community&#x27;s Invoke-ResetNightmare PoC",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T16:36:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-18953",
+      "repo_info": "[ronamosa/CVE-2026-18953](https://github.com/ronamosa/CVE-2026-18953)",
+      "description": "PoC for CVE-2026-18953 — arbitrary file write (CWE-22) in awslabs.aws-transform-mcp-server&#x27;s get_resource tool via the savePath parameter",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T03:41:26Z"
+    }
+  ],
+  "generated_at": "2026-08-10T01:49:49.272830",
+  "metadata": {
+    "total_cves": 20,
+    "date_range": "2026-08-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

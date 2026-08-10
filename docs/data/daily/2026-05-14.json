@@ -1,6 +1,6 @@
 {
   "date": "2026-05-14",
-  "count": 1,
+  "count": 2,
   "cves": [
     {
       "cve_id": "CVE-2026-46391",
@@ -8,11 +8,18 @@
       "description": "Proof of concept exploit for CVE-2026-46391",
       "date": "2026-05-14",
       "raw_date": "2026-05-14T03:43:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-24055",
+      "repo_info": "[imzanggg/CVE-2026-24055-OAuth-Langfuse](https://github.com/imzanggg/CVE-2026-24055-OAuth-Langfuse)",
+      "description": "Reproduction and patch verification of CVE-2026-24055 (CWE-284) - an unauthenticated OAuth access control vulnerability in Langfuse allowing Slack workspace hijacking. Coursework for Web &amp; Application Security.",
+      "date": "2026-05-14",
+      "raw_date": "2026-05-14T03:59:23Z"
     }
   ],
-  "generated_at": "2026-07-31T02:30:21.134432",
+  "generated_at": "2026-08-10T01:49:49.250612",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-05-14",
     "source": "README.md",
     "script_version": "2.0"

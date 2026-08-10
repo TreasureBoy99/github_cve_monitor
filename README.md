@@ -5,7 +5,7 @@
 
 ## 文档 📖 
 
-访问 [cve-monitor](https://adminlove520.github.io/github_cve_monitor/) 查看演示。 
+访问 [cve-monitor](https://TreasureBoy99.github.io/github_cve_monitor/) 查看演示。 
 
 ### 命令行使用  💻
 
@@ -13,7 +13,7 @@
 
 ### 使用 Github-Action ⚙️
 
-查看 [run.yml](https://github.com/adminlove520/github_cve_monitor/blob/main/.github/workflows/run.yml) 文件
+查看 [run.yml](https://github.com/TreasureBoy99/github_cve_monitor/blob/main/.github/workflows/run.yml) 文件
 
 ## 安装 💿
 

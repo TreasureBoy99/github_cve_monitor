@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-08-10 03:27:08
+- **生成时间**: 2026-08-11 03:06:24
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -376,9 +376,10 @@
 | 🚫 未识别 | [ridhinva/trending-cve-scanners](https://github.com/ridhinva/trending-cve-scanners) | Toolkit: May 2026 trending CVE scanners — PAN-OS, WordPress, BeyondTrust, GHE, ingress-nginx in Python | 2026-05-22T19:34:26Z|
 | 🚫 未识别 | [xiaoqiMikko/log4j-check](https://github.com/xiaoqiMikko/log4j-check) | log4j 2025/2026 年 7 条「配置静默失效」CVE 自查:按 CVE×模块 判定 4 个模块,结构化解析 log4j2 配置做 applicability 降噪,并算出该升到哪个版本才一次到位(6 条写 2.25.4,但有一条要 2.25.5,而它 Dependabot 报不出来) | 2026-08-07T19:09:13Z|
 | 🚫 未识别 | [boxed-dev/vibe-coding-security](https://github.com/boxed-dev/vibe-coding-security) | Before you tweet your launch — run these 47 checks. Same patterns behind the Lovable RLS CVE (170 apps, March 2025) and the Moltbook leak (1.5M API tokens, Feb 2026). | 2026-05-01T22:48:32Z|
+| 🚫 未识别 | [xiaoqiMikko/spring-eol-check](https://github.com/xiaoqiMikko/spring-eol-check) | 扫 pom.xml / jar / fat-jar,判出每个 Spring 构件属于哪条版本线、OSS 支持期有没有结束。2026-06-30 有 46 个 Spring 项目同步断供(Boot 3.5.x / Framework 6.2.x / Security 6.5.x …),而 EOL 不产生 CVE 编号 —— Dependabot / OSV 结构性不告警。判定表由 api.spring.io 官方数据生成,单 jar、零运行时依赖、完全离线 | 2026-08-10T15:03:16Z|
 
 
 ---
 
-**报告生成时间**: 2026-08-10 03:27:35  
-**总记录数**: 365
+**报告生成时间**: 2026-08-11 03:06:49  
+**总记录数**: 366

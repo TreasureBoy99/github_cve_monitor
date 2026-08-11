@@ -1,7 +1,14 @@
 {
   "date": "2026-04-01",
-  "count": 1,
+  "count": 2,
   "cves": [
+    {
+      "cve_id": "CVE-2026-5201",
+      "repo_info": "[kagancapar/CVE-2026-5201](https://github.com/kagancapar/CVE-2026-5201)",
+      "description": "CVE-2026-5201: Heap-based buffer overflow in gdk-pixbuf JPEG loader (CWE-122, CVSS 7.5)",
+      "date": "2026-04-01",
+      "raw_date": "2026-04-01T12:51:19Z"
+    },
     {
       "cve_id": "CVE-2026-48710",
       "repo_info": "[eris-ths/supply-chain-guard](https://github.com/eris-ths/supply-chain-guard)",
@@ -10,9 +17,9 @@
       "raw_date": "2026-04-01T02:12:00Z"
     }
   ],
-  "generated_at": "2026-08-11T01:46:09.128328",
+  "generated_at": "2026-08-11T03:06:50.372930",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 2,
     "date_range": "2026-04-01",
     "source": "README.md",
     "script_version": "2.0"

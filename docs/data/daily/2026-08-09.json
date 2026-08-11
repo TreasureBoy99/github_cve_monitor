@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "count": 17,
+  "count": 19,
   "cves": [
     {
       "cve_id": "CVE-2026-9645",
@@ -36,6 +36,20 @@
       "description": "no description",
       "date": "2026-08-09",
       "raw_date": "2026-08-09T14:38:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[g0d150ne/XSS2Shell](https://github.com/g0d150ne/XSS2Shell)",
+      "description": "XSS2Shell ULTIMATE v3.0 is a powerful exploitation tool that chains Cross-Site Scripting (XSS) vulnerabilities in WordPress to achieve Remote Code Execution (RCE). This tool exploits CVE-2026-64638 to gain full control over vulnerable WordPress installations.",
+      "date": "2026-08-09",
+      "raw_date": "2026-08-09T07:04:45Z"
+    },
+    {
+      "cve_id": "CVE-2026-63030",
+      "repo_info": "[g0d150ne/WP2Shell](https://github.com/g0d150ne/WP2Shell)",
+      "description": "WP2Shell is a powerful and modular exploit framework that combines two critical WordPress vulnerabilities (CVE-2026-63030 and CVE-2026-60137) to achieve complete compromise of a target site without any credentials.",
+      "date": "2026-08-09",
+      "raw_date": "2026-08-09T08:26:51Z"
     },
     {
       "cve_id": "CVE-2026-57827",
@@ -122,9 +136,9 @@
       "raw_date": "2026-08-09T15:19:47Z"
     }
   ],
-  "generated_at": "2026-08-11T01:46:09.141073",
+  "generated_at": "2026-08-11T03:06:50.393911",
   "metadata": {
-    "total_cves": 17,
+    "total_cves": 19,
     "date_range": "2026-08-09",
     "source": "README.md",
     "script_version": "2.0"

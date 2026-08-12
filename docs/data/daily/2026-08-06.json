@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "count": 23,
+  "count": 24,
   "cves": [
     {
       "cve_id": "CVE-2026-70553",
@@ -87,6 +87,13 @@
       "raw_date": "2026-08-06T13:30:07Z"
     },
     {
+      "cve_id": "CVE-2026-55040",
+      "repo_info": "[sfewer-r7/CVE-2026-55040](https://github.com/sfewer-r7/CVE-2026-55040)",
+      "description": "Microsoft SharePoint JWT Authentication Bypass (CVE-2026-55040)",
+      "date": "2026-08-06",
+      "raw_date": "2026-08-06T11:46:34Z"
+    },
+    {
       "cve_id": "CVE-2026-52886",
       "repo_info": "[v3s9er/CVE-2026-52886](https://github.com/v3s9er/CVE-2026-52886)",
       "description": "Notepad++ CVE-2026-52886 — session.xml backupFilePath starts_with() path traversal (GHSA-rqfm-pw34-r7j6)",
@@ -164,9 +171,9 @@
       "raw_date": "2026-08-06T11:40:01Z"
     }
   ],
-  "generated_at": "2026-08-12T01:57:45.504308",
+  "generated_at": "2026-08-12T03:26:10.526645",
   "metadata": {
-    "total_cves": 23,
+    "total_cves": 24,
     "date_range": "2026-08-06",
     "source": "README.md",
     "script_version": "2.0"

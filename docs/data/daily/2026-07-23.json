@@ -1,7 +1,14 @@
 {
   "date": "2026-07-23",
-  "count": 27,
+  "count": 28,
   "cves": [
+    {
+      "cve_id": "CVE-2026-66804",
+      "repo_info": "[DavidCarliez/CVE-2026-66804-CrossDevice-LPE](https://github.com/DavidCarliez/CVE-2026-66804-CrossDevice-LPE)",
+      "description": "no description",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T11:51:53Z"
+    },
     {
       "cve_id": "CVE-2026-66374",
       "repo_info": "[venglin/knot-doq](https://github.com/venglin/knot-doq)",
@@ -192,9 +199,9 @@
       "raw_date": "2026-07-23T09:47:02Z"
     }
   ],
-  "generated_at": "2026-08-12T01:57:45.500868",
+  "generated_at": "2026-08-12T03:26:10.522808",
   "metadata": {
-    "total_cves": 27,
+    "total_cves": 28,
     "date_range": "2026-07-23",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,10 +1,18 @@
 {
   "date": "2026-01-24",
-  "count": 0,
-  "cves": [],
-  "generated_at": "2026-08-10T03:25:41.798556",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-24061",
+      "repo_info": "[0p5cur/CVE-2026-24061-POC](https://github.com/0p5cur/CVE-2026-24061-POC)",
+      "description": "CVE-2026-24061&#x27;s poc : a critical authentication bypass in telnetd leading to RCE as root Affects systems with telnetd versions containing the vulnerability from 2015 onwards.",
+      "date": "2026-01-24",
+      "raw_date": "2026-01-24T17:54:40Z"
+    }
+  ],
+  "generated_at": "2026-08-12T03:26:10.510209",
   "metadata": {
-    "total_cves": 0,
+    "total_cves": 1,
     "date_range": "2026-01-24",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "count": 19,
+  "count": 20,
   "cves": [
     {
       "cve_id": "CVE-2026-9645",
@@ -129,6 +129,13 @@
       "raw_date": "2026-08-09T03:09:24Z"
     },
     {
+      "cve_id": "CVE-2026-17106",
+      "repo_info": "[masasron/CopyEscape-CVE-2026-17106](https://github.com/masasron/CopyEscape-CVE-2026-17106)",
+      "description": "PoC repository for the blog post CopyEscape: Taking Over Docker Hosts with docker cp",
+      "date": "2026-08-09",
+      "raw_date": "2026-08-09T21:02:40Z"
+    },
+    {
       "cve_id": "CVE-2026-15038",
       "repo_info": "[Polosss/By-Poloss..-..CVE-2026-15038-POC](https://github.com/Polosss/By-Poloss..-..CVE-2026-15038-POC)",
       "description": "POC 4 CVE-2026-15038",
@@ -136,9 +143,9 @@
       "raw_date": "2026-08-09T15:19:47Z"
     }
   ],
-  "generated_at": "2026-08-12T01:57:45.504894",
+  "generated_at": "2026-08-12T03:26:10.527304",
   "metadata": {
-    "total_cves": 19,
+    "total_cves": 20,
     "date_range": "2026-08-09",
     "source": "README.md",
     "script_version": "2.0"

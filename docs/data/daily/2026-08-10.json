@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "count": 23,
+  "count": 24,
   "cves": [
     {
       "cve_id": "CVE-2026-9198",
@@ -57,6 +57,13 @@
       "description": "my poc for CVE-2026-53787",
       "date": "2026-08-10",
       "raw_date": "2026-08-10T01:00:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-53361",
+      "repo_info": "[sgkdev/bad_garbage](https://github.com/sgkdev/bad_garbage)",
+      "description": "CVE-2026-53361 AF_UNIX GC vs MSG_PEEK use-after-free container escape",
+      "date": "2026-08-10",
+      "raw_date": "2026-08-10T19:59:45Z"
     },
     {
       "cve_id": "CVE-2026-43499",
@@ -164,9 +171,9 @@
       "raw_date": "2026-08-10T11:08:50Z"
     }
   ],
-  "generated_at": "2026-08-12T01:57:45.505064",
+  "generated_at": "2026-08-12T03:26:10.527461",
   "metadata": {
-    "total_cves": 23,
+    "total_cves": 24,
     "date_range": "2026-08-10",
     "source": "README.md",
     "script_version": "2.0"

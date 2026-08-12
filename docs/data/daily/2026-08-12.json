@@ -1,0 +1,20 @@
+{
+  "date": "2026-08-12",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-67846",
+      "repo_info": "[duan528/CVE-2026-67846-BOOM-NBDTLB](https://github.com/duan528/CVE-2026-67846-BOOM-NBDTLB)",
+      "description": "Public vulnerability advisory and supporting evidence for CVE-2026-67846 affecting the BOOM v3/v4 NBDTLB implementation.",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T01:25:57Z"
+    }
+  ],
+  "generated_at": "2026-08-12T03:26:10.527862",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-08-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

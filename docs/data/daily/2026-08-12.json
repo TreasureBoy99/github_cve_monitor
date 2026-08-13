@@ -1,18 +1,186 @@
 {
   "date": "2026-08-12",
-  "count": 1,
+  "count": 25,
   "cves": [
+    {
+      "cve_id": "CVE-2026-73034",
+      "repo_info": "[Boreas37/CVE-2026-73034-PoC](https://github.com/Boreas37/CVE-2026-73034-PoC)",
+      "description": "CVE-2026-73034 — DB-GPT v0.8.1 unauth path traversal → arbitrary file write as root via user-id header. Verified + fix diff",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T18:35:23Z"
+    },
+    {
+      "cve_id": "CVE-2026-72898",
+      "repo_info": "[0xBlackash/CVE-2026-72898](https://github.com/0xBlackash/CVE-2026-72898)",
+      "description": "CVE-2026-72898",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T13:54:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-70376",
+      "repo_info": "[IlhomjonR/PluckCMS-CSRF-RCE](https://github.com/IlhomjonR/PluckCMS-CSRF-RCE)",
+      "description": "CVE-2026-70376 — Pluck CMS site-wide CSRF (fail-open Referer check) → RCE via double-extension upload. CWE-352/434, CVSS 8.0. Advisory + PoC by @IlhomjonR.",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T11:53:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-69263",
+      "repo_info": "[leoelsolh/CVE-2026-69263](https://github.com/leoelsolh/CVE-2026-69263)",
+      "description": "MCP environment-variable blocklist bypass leads to unauthenticated RCE in Flowise 3.1.1",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T12:20:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-68398",
+      "repo_info": "[aramosf/CVE-2026-68398](https://github.com/aramosf/CVE-2026-68398)",
+      "description": "CVE-2026-68398 Ubuntu PPPoL2TP use-after-free local privilege escalation",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T15:04:01Z"
+    },
     {
       "cve_id": "CVE-2026-67846",
       "repo_info": "[duan528/CVE-2026-67846-BOOM-NBDTLB](https://github.com/duan528/CVE-2026-67846-BOOM-NBDTLB)",
       "description": "Public vulnerability advisory and supporting evidence for CVE-2026-67846 affecting the BOOM v3/v4 NBDTLB implementation.",
       "date": "2026-08-12",
       "raw_date": "2026-08-12T01:25:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[ZildanZ/CVE-2026-64638](https://github.com/ZildanZ/CVE-2026-64638)",
+      "description": "no description",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T11:58:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-64563",
+      "repo_info": "[guard-wait/CVE-2026-64563_EXP](https://github.com/guard-wait/CVE-2026-64563_EXP)",
+      "description": "关于CVE-2026-64563未完全验证的一种利用思路",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T16:35:16Z"
+    },
+    {
+      "cve_id": "CVE-2026-59827",
+      "repo_info": "[Gutierre0x80/CVE-2026-59827](https://github.com/Gutierre0x80/CVE-2026-59827)",
+      "description": "Technical analysis and proof of concept for CVE-2026-59827, a critical unsafe Java deserialization vulnerability in Metabase leading to remote code execution.",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T14:34:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-54984",
+      "repo_info": "[kagancapar/CVE-2026-54984](https://github.com/kagancapar/CVE-2026-54984)",
+      "description": "CVE-2026-54984 / ZDI-26-543: Windows ICC file parsing out-of-bounds write (CWE-122, CVSS 7.8)",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T21:03:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-50656",
+      "repo_info": "[HORKimhab/CVE-2026-50656](https://github.com/HORKimhab/CVE-2026-50656)",
+      "description": "CVE-2026-50656",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T07:36:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-48908",
+      "repo_info": "[yora1928/CVE-2026-48908-by-yora](https://github.com/yora1928/CVE-2026-48908-by-yora)",
+      "description": "Passive security checker for CVE-2026-48908 affecting SP Page Builder.",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T16:12:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-44402",
+      "repo_info": "[Virgula0/CVE-2026-44402](https://github.com/Virgula0/CVE-2026-44402)",
+      "description": "Pre-Authenticated Full Root Remote Command Execution in Voltronic Power SNMP Web Pro 1.1",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T11:35:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[hybLOVE/iqoo-temp-root](https://github.com/hybLOVE/iqoo-temp-root)",
+      "description": "vivo/iQOO 临时 root 工具箱 (免解锁临时root, CVE-2026-43499) - 源码与脚本",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T10:05:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[E-R-Butch/F9360-CVE43499](https://github.com/E-R-Butch/F9360-CVE43499)",
+      "description": "SM-F9360 (Galaxy Z Fold4, q4q) locked-bootloader KernelSU root — CVE-2026-43499 temp root → LD_PRELOAD DEFEX bypass → no-LTO clang-12 kernelsu.ko. Device-verified 2026-08-12.",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T08:10:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-41452",
+      "repo_info": "[Boreas37/CVE-2026-41452-PoC](https://github.com/Boreas37/CVE-2026-41452-PoC)",
+      "description": "CVE-2026-41452 — Krayin CRM unauth installer bypass (X-Requested-With) → admin takeover. Verified: overwrite + login on 2.2.4, blocked on 2.2.5",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T18:35:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-39987",
+      "repo_info": "[matesz44/cve-2026-39987](https://github.com/matesz44/cve-2026-39987)",
+      "description": "CVE-2026-39987 PoC: Marimo&lt;0.23.0 Pre-Auth Remote Code Execution via Terminal WebSocket Authentication Bypass",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T19:12:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-33267",
+      "repo_info": "[Boreas37/CVE-2026-33267-PoC](https://github.com/Boreas37/CVE-2026-33267-PoC)",
+      "description": "CVE-2026-33267 — Apache Traffic Server @ header internal-metadata spoof (CVSS 10.0). Verified: @ headers leak to plugins on 10.1.2, stripped on 10.1.4",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T17:18:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-28956",
+      "repo_info": "[HORKimhab/CVE-2026-28956](https://github.com/HORKimhab/CVE-2026-28956)",
+      "description": "CVE-2026-28956 - Draft or TODO",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T14:23:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-27344",
+      "repo_info": "[AC8999/CVE-2026-27344](https://github.com/AC8999/CVE-2026-27344)",
+      "description": "Missing Authorization in inseriswiss inseri core inseri-core allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects inseri core: from n/a through &lt;= 1.0.5.",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T12:06:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-24031",
+      "repo_info": "[aramosf/CVE-2026-24031](https://github.com/aramosf/CVE-2026-24031)",
+      "description": "CVE-2026-24031 Dovecot 2.4.0/3.1.0 SQL authentication bypass (auth bypass + user enumeration) PoC",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T23:19:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-23111",
+      "repo_info": "[Knz-source/CVE-2026-23111-POC-noddlenpottato](https://github.com/Knz-source/CVE-2026-23111-POC-noddlenpottato)",
+      "description": "CVE-2026-23111 nf_tables catchall UAF — unprivileged LPE for Linux 5.10-6.18. Auto-adaptive exploit with KASLR bypass, arbitrary kernel read, and ROP chain. Supports Debian, Ubuntu, RHEL, Fedora. C/Python/Rust + autopwn.",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T13:23:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-17544",
+      "repo_info": "[Boreas37/CVE-2026-17544-PoC](https://github.com/Boreas37/CVE-2026-17544-PoC)",
+      "description": "CVE-2026-17544 — PHP bcmath bccomp() OOB write (stack smashing). Verified: crash on 8.4.23/8.5.8, fixed in 8.4.24. GHSA-x692-q9x7-8c3f",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T17:17:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-17106",
+      "repo_info": "[686f6c61/POC-CopyEscape-CVE-2026-17106](https://github.com/686f6c61/POC-CopyEscape-CVE-2026-17106)",
+      "description": "PoC funcional de CVE-2026-17106 (CopyEscape): carrera TOCTOU en docker cp que permite escritura arbitraria en el host Docker. Laboratorio Docker + monitor inotify + LD_PRELOAD. Variante macOS inocua y Linux destructiva.",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T16:41:52Z"
+    },
+    {
+      "cve_id": "CVE-2026-0075",
+      "repo_info": "[QM4RS/CVE-2026-0075](https://github.com/QM4RS/CVE-2026-0075)",
+      "description": "CVE-2026-0075 — Android ContactsProvider information disclosure via JSON error side-channel, including PoC, root-cause analysis, and patch details.",
+      "date": "2026-08-12",
+      "raw_date": "2026-08-12T13:09:06Z"
     }
   ],
-  "generated_at": "2026-08-13T02:00:26.188551",
+  "generated_at": "2026-08-13T03:29:48.150123",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 25,
     "date_range": "2026-08-12",
     "source": "README.md",
     "script_version": "2.0"

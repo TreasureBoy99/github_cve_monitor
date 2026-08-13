@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-13",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-68820",
+      "repo_info": "[HORKimhab/CVE-2026-68820](https://github.com/HORKimhab/CVE-2026-68820)",
+      "description": "CVE-2026-68820 - Draft or TODO",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T01:04:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-14840",
+      "repo_info": "[nullwhisper/CVE-2026-14840](https://github.com/nullwhisper/CVE-2026-14840)",
+      "description": "no description",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T00:01:42Z"
+    },
+    {
+      "cve_id": "CVE-2026-14282",
+      "repo_info": "[nullwhisper/CVE-2026-14282](https://github.com/nullwhisper/CVE-2026-14282)",
+      "description": "GoDAM WordPress plugin &lt;= 1.12.2 unauthenticated file upload RCE (CVE-2026-14282)",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T00:27:20Z"
+    }
+  ],
+  "generated_at": "2026-08-13T03:29:48.150286",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2026-08-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "count": 17,
+  "count": 18,
   "cves": [
     {
       "cve_id": "CVE-2026-9198",
@@ -8,6 +8,13 @@
       "description": "CVE-2026-9198利用代码",
       "date": "2026-08-11",
       "raw_date": "2026-08-11T00:55:44Z"
+    },
+    {
+      "cve_id": "CVE-2026-68138",
+      "repo_info": "[aramosf/CVE-2026-68138](https://github.com/aramosf/CVE-2026-68138)",
+      "description": "CVE-2026-68138 Linux qdisc rate-table race local privilege escalation PoC",
+      "date": "2026-08-11",
+      "raw_date": "2026-08-11T22:22:22Z"
     },
     {
       "cve_id": "CVE-2026-64564",
@@ -122,9 +129,9 @@
       "raw_date": "2026-08-11T11:34:39Z"
     }
   ],
-  "generated_at": "2026-08-13T02:00:26.188318",
+  "generated_at": "2026-08-13T03:29:48.149992",
   "metadata": {
-    "total_cves": 17,
+    "total_cves": 18,
     "date_range": "2026-08-11",
     "source": "README.md",
     "script_version": "2.0"

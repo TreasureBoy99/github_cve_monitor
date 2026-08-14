@@ -1,10 +1,18 @@
 {
   "date": "2026-06-09",
-  "count": 0,
-  "cves": [],
-  "generated_at": "2026-08-10T03:25:41.813924",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-52885",
+      "repo_info": "[v3s9er/CVE-2026-52885](https://github.com/v3s9er/CVE-2026-52885)",
+      "description": "no description",
+      "date": "2026-06-09",
+      "raw_date": "2026-06-09T17:37:30Z"
+    }
+  ],
+  "generated_at": "2026-08-14T03:26:46.739930",
   "metadata": {
-    "total_cves": 0,
+    "total_cves": 1,
     "date_range": "2026-06-09",
     "source": "README.md",
     "script_version": "2.0"

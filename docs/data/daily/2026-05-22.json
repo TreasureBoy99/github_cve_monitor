@@ -1,6 +1,6 @@
 {
   "date": "2026-05-22",
-  "count": 9,
+  "count": 10,
   "cves": [
     {
       "cve_id": "CVE-2026-9082",
@@ -52,6 +52,13 @@
       "raw_date": "2026-05-22T23:15:41Z"
     },
     {
+      "cve_id": "CVE-2026-31431",
+      "repo_info": "[1m1ssher/copy-fail-python](https://github.com/1m1ssher/copy-fail-python)",
+      "description": "Zero-dependency Python PoC for CVE-2026-31431, Linux kernel LPE via AF_ALG/splice page-cache corruption.",
+      "date": "2026-05-22",
+      "raw_date": "2026-05-22T18:54:41Z"
+    },
+    {
       "cve_id": "CVE-2026-1731",
       "repo_info": "[ridhinva/beyondtrust-rce-scanner](https://github.com/ridhinva/beyondtrust-rce-scanner)",
       "description": "Scanner: CVE-2026-1731 BeyondTrust Remote Support Pre-auth RCE — Python checker for actively exploited vulnerability (CISA KEV)",
@@ -66,9 +73,9 @@
       "raw_date": "2026-05-22T20:44:11Z"
     }
   ],
-  "generated_at": "2026-08-14T01:57:46.707077",
+  "generated_at": "2026-08-14T03:26:46.737845",
   "metadata": {
-    "total_cves": 9,
+    "total_cves": 10,
     "date_range": "2026-05-22",
     "source": "README.md",
     "script_version": "2.0"

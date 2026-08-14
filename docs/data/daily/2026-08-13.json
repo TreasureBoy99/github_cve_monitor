@@ -1,13 +1,132 @@
 {
   "date": "2026-08-13",
-  "count": 3,
+  "count": 20,
   "cves": [
+    {
+      "cve_id": "CVE-2026-9999",
+      "repo_info": "[josephfarah-ciso/CVE-2026-9999-exploit](https://github.com/josephfarah-ciso/CVE-2026-9999-exploit)",
+      "description": "no description",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T07:50:22Z"
+    },
+    {
+      "cve_id": "CVE-2026-73673",
+      "repo_info": "[ozcanpng/CVE-2026-73673](https://github.com/ozcanpng/CVE-2026-73673)",
+      "description": "Non-destructive PoC and evidence for CVE-2026-73673 affecting Netis NC63 V3.0.0.3327",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T20:50:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-72898",
+      "repo_info": "[codeb0ssx/CVE-2026-72898-PoC](https://github.com/codeb0ssx/CVE-2026-72898-PoC)",
+      "description": "CVE-2026-72898 - Metabase",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T21:08:45Z"
+    },
     {
       "cve_id": "CVE-2026-68820",
       "repo_info": "[HORKimhab/CVE-2026-68820](https://github.com/HORKimhab/CVE-2026-68820)",
       "description": "CVE-2026-68820 - Draft or TODO",
       "date": "2026-08-13",
       "raw_date": "2026-08-13T01:04:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-68749",
+      "repo_info": "[Hunt-Benito/the-sanitizer-is-the-weapon-cve-2026-68749-cve-2026-68750-quadratic-dos-in-elixir-html-sanitize-ex](https://github.com/Hunt-Benito/the-sanitizer-is-the-weapon-cve-2026-68749-cve-2026-68750-quadratic-dos-in-elixir-html-sanitize-ex)",
+      "description": "no description",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T10:03:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-66804",
+      "repo_info": "[Rat5ak/CVE-2026-66804-CrossDevice-Service-EoP](https://github.com/Rat5ak/CVE-2026-66804-CrossDevice-Service-EoP)",
+      "description": "CVE-2026-66804 Windows Cross Device virtual camera EoP - Standard user to SYSTEM",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T01:42:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-65640",
+      "repo_info": "[jobusa755-a11y/CVE-2026-65640-](https://github.com/jobusa755-a11y/CVE-2026-65640-)",
+      "description": "WordPress Core &lt;= 7.0.3 - Authenticated (Author+) Remote Code Execution via Malicious File Upload",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T07:24:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-56292",
+      "repo_info": "[nullwhisper/CVE-2026-56292-AcyMailing-SQLi](https://github.com/nullwhisper/CVE-2026-56292-AcyMailing-SQLi)",
+      "description": "CVE-2026-56292 - AcyMailing for Joomla unauthenticated SQL injection scanner",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T18:40:35Z"
+    },
+    {
+      "cve_id": "CVE-2026-53413",
+      "repo_info": "[HORKimhab/CVE-2026-53413](https://github.com/HORKimhab/CVE-2026-53413)",
+      "description": "CVE-2026-53413 - Draft or TODO",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T14:23:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[pimpamebanihah/cve-2026-43499-app.so](https://github.com/pimpamebanihah/cve-2026-43499-app.so)",
+      "description": "no description",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T22:13:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[pimpamebanihah/cve-2026-43499-app.s0](https://github.com/pimpamebanihah/cve-2026-43499-app.s0)",
+      "description": "no description",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T22:16:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[wzhdgithub/GhostLock](https://github.com/wzhdgithub/GhostLock)",
+      "description": "CVE-2026-43499 futex PI stack UAF ???????? - Android GKI 6.1~6.12 ??????? pselect() + futex PI ????????????,??? root ??? SELinux??? OPPO Find X8?OnePlus ??????",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T11:53:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-42945",
+      "repo_info": "[CynepMyx/nginx-rift-check](https://github.com/CynepMyx/nginx-rift-check)",
+      "description": "Detects the CVE-2026-42945 rewrite pattern in nginx configs: rewrite with ? in the replacement plus an unnamed capture consumed in the same location",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T08:07:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-41940",
+      "repo_info": "[pemarine/cve-2026-41940-PoC](https://github.com/pemarine/cve-2026-41940-PoC)",
+      "description": "A cPanel and WHM authentication bypassing tool",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T16:03:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-41940",
+      "repo_info": "[yanchenyu360/CVE-2026-41940-Security-Patch](https://github.com/yanchenyu360/CVE-2026-41940-Security-Patch)",
+      "description": "针对CVE-2026-41940漏洞的临时缓解措施",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T04:55:41Z"
+    },
+    {
+      "cve_id": "CVE-2026-33017",
+      "repo_info": "[lxxexxbxx/CVE-2026-33017](https://github.com/lxxexxbxx/CVE-2026-33017)",
+      "description": "CVE-2026-33017: Langflow Unauthenticated RCE PoC",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T14:06:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-33017",
+      "repo_info": "[sonnelon/CVE-2026-33017-PoC](https://github.com/sonnelon/CVE-2026-33017-PoC)",
+      "description": "The poc of CVE-2026-33017",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T13:33:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-25938",
+      "repo_info": "[judgedbykira/CVE-2026-25938-FUXA-Unauthenticated-RCE](https://github.com/judgedbykira/CVE-2026-25938-FUXA-Unauthenticated-RCE)",
+      "description": "An explanation and PoC to exploit CVE-2026-25938 Unauthenticated RCE Vulnerability on FUXA",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T13:30:30Z"
     },
     {
       "cve_id": "CVE-2026-14840",
@@ -24,9 +143,9 @@
       "raw_date": "2026-08-13T00:27:20Z"
     }
   ],
-  "generated_at": "2026-08-14T01:57:46.728509",
+  "generated_at": "2026-08-14T03:26:46.757663",
   "metadata": {
-    "total_cves": 3,
+    "total_cves": 20,
     "date_range": "2026-08-13",
     "source": "README.md",
     "script_version": "2.0"

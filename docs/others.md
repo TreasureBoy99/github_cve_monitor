@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-08-14 03:26:19
+- **生成时间**: 2026-08-15 02:15:42
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -379,9 +379,10 @@
 | 🚫 未识别 | [xiaoqiMikko/spring-eol-check](https://github.com/xiaoqiMikko/spring-eol-check) | 扫 pom.xml / jar / fat-jar,判出每个 Spring 构件属于哪条版本线、OSS 支持期有没有结束。2026-06-30 有 46 个 Spring 项目同步断供(Boot 3.5.x / Framework 6.2.x / Security 6.5.x …),而 EOL 不产生 CVE 编号 —— Dependabot / OSV 结构性不告警。判定表由 api.spring.io 官方数据生成,单 jar、零运行时依赖、完全离线 | 2026-08-10T15:03:16Z|
 | 🚫 未识别 | [sophsnow/cve-feedback-tracker](https://github.com/sophsnow/cve-feedback-tracker) | Data source for Sophia&#x27;s #cve-feedback-2026 feedback tracker Canva Sheet (auto-refreshed daily) | 2026-08-12T00:21:47Z|
 | 🚫 未识别 | [handnewb/hermes-cybersec-lab](https://github.com/handnewb/hermes-cybersec-lab) | 🛡️ Turnkey cybersecurity lab for Hermes Agent — 397 CVE-driven skills, 152 tools, 28 frameworks (MITRE ATT&amp;CK, MISP, CVSS, EPSS, OWASP, NIST, Sigma, YARA). Real exploits 2015–2026. | 2026-08-07T15:09:37Z|
+| 🚫 未识别 | [harshal561/CVE-Analysis-Lab](https://github.com/harshal561/CVE-Analysis-Lab) | Vulnerability Research &amp; CVE Analysis Lab — end-to-end research on 3 actively exploited 2026 CVEs, with CVSS scoring, IOCs, and Splunk detection logic | 2026-08-14T10:37:52Z|
 
 
 ---
 
-**报告生成时间**: 2026-08-14 03:26:45  
-**总记录数**: 368
+**报告生成时间**: 2026-08-15 02:16:08  
+**总记录数**: 369

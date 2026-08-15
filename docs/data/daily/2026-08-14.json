@@ -1,0 +1,104 @@
+{
+  "date": "2026-08-14",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-8452",
+      "repo_info": "[watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452](https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452)",
+      "description": "CVE-2026-8452 PreAuth RCE",
+      "date": "2026-08-14",
+      "raw_date": "2026-08-14T15:01:25Z"
+    },
+    {
+      "cve_id": "CVE-2026-72550",
+      "repo_info": "[abdugafforov-bobur/CVE-2026-72550-poc](https://github.com/abdugafforov-bobur/CVE-2026-72550-poc)",
+      "description": "CVE-2026-72550 — Friendica Unauthenticated Stacked-Query SQL Injection PoC (CVSS 9.8 Critical)",
+      "date": "2026-08-14",
+      "raw_date": "2026-08-14T06:58:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-64600",
+      "repo_info": "[0xSec1/CVE-2026-64600-RefluXFS-PoC](https://github.com/0xSec1/CVE-2026-64600-RefluXFS-PoC)",
+      "description": "PoC for RefluXFS",
+      "date": "2026-08-14",
+      "raw_date": "2026-08-14T12:56:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-54433",
+      "repo_info": "[aramosf/CVE-2026-54433](https://github.com/aramosf/CVE-2026-54433)",
+      "description": "CVE-2026-54433 Roundcube plain-text email stored XSS PoC",
+      "date": "2026-08-14",
+      "raw_date": "2026-08-14T13:19:02Z"
+    },
+    {
+      "cve_id": "CVE-2026-54356",
+      "repo_info": "[KovachVL/CVE-2026-54356](https://github.com/KovachVL/CVE-2026-54356)",
+      "description": "no description",
+      "date": "2026-08-14",
+      "raw_date": "2026-08-14T13:35:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-53365",
+      "repo_info": "[HORKimhab/CVE-2026-53365](https://github.com/HORKimhab/CVE-2026-53365)",
+      "description": "CVE-2026-53365",
+      "date": "2026-08-14",
+      "raw_date": "2026-08-14T15:12:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-52715",
+      "repo_info": "[686f6c61/POC-GeoLeak-CVE-2026-52715](https://github.com/686f6c61/POC-GeoLeak-CVE-2026-52715)",
+      "description": "PoC funcional de CVE-2026-52715 (GeoLeak): SQLi no autenticada en GEO my WordPress &lt;= 4.5.5 via swlatlng/nelatlng. Laboratorio Docker + exploit time-based/boolean-based + exfiltracion sin comas en payload.",
+      "date": "2026-08-14",
+      "raw_date": "2026-08-14T18:36:28Z"
+    },
+    {
+      "cve_id": "CVE-2026-46300",
+      "repo_info": "[Kentox493/CVE-2026-46300_Fragnesia](https://github.com/Kentox493/CVE-2026-46300_Fragnesia)",
+      "description": "no description",
+      "date": "2026-08-14",
+      "raw_date": "2026-08-14T15:00:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[hmascs/KSuRoot](https://github.com/hmascs/KSuRoot)",
+      "description": "KSuRoot 2.2.0 — One-click KernelSU rooting based on CVE-2026-43499. Synced from Root-My-Galaxy v0.2.6 with custom payload (.so) import. Mod by hmascs",
+      "date": "2026-08-14",
+      "raw_date": "2026-08-14T10:51:50Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[Bugel/cve-2026-43499-m3q-azf1](https://github.com/Bugel/cve-2026-43499-m3q-azf1)",
+      "description": "This package is not a complete root. It flips SELinux to Permissive and holds reclaim long enough for follow-on work. Host `uid=0` is not achieved here.",
+      "date": "2026-08-14",
+      "raw_date": "2026-08-14T04:40:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-42945",
+      "repo_info": "[Kentox493/CVE-2026-42945_NginxRift](https://github.com/Kentox493/CVE-2026-42945_NginxRift)",
+      "description": "no description",
+      "date": "2026-08-14",
+      "raw_date": "2026-08-14T15:42:21Z"
+    },
+    {
+      "cve_id": "CVE-2026-31816",
+      "repo_info": "[K3ysTr0K3R/CVE-2026-31816](https://github.com/K3ysTr0K3R/CVE-2026-31816)",
+      "description": "CVE-2026-31816 - Budibase Authentication Bypass to RCE",
+      "date": "2026-08-14",
+      "raw_date": "2026-08-14T20:11:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-27912",
+      "repo_info": "[oxstussz-eng/Kerberos-CVE-2026-27912](https://github.com/oxstussz-eng/Kerberos-CVE-2026-27912)",
+      "description": "PoC for CVE-2026-27912 - Windows Kerberos Elevation of Privilege (ResetNightmare). Unauthorized password reset via Kerberos flaw. For security research only.",
+      "date": "2026-08-14",
+      "raw_date": "2026-08-14T14:55:43Z"
+    }
+  ],
+  "generated_at": "2026-08-15T02:16:09.858650",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2026-08-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

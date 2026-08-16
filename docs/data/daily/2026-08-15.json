@@ -1,0 +1,181 @@
+{
+  "date": "2026-08-15",
+  "count": 24,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-9830",
+      "repo_info": "[opaxial/CVE-2026-9830](https://github.com/opaxial/CVE-2026-9830)",
+      "description": "CVE-2026-9830 Proof of Concept",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T20:57:13Z"
+    },
+    {
+      "cve_id": "CVE-2026-9147",
+      "repo_info": "[SaiTeja-Erukude/CVE-2026-9147-uproot-rce](https://github.com/SaiTeja-Erukude/CVE-2026-9147-uproot-rce)",
+      "description": "uproot &lt;= 5.7.4 code injection via unsafe Python source generation from ROOT TStreamerInfo metadata.",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T21:58:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-9090",
+      "repo_info": "[Kimdir01/CVE-2026-9090-poc](https://github.com/Kimdir01/CVE-2026-9090-poc)",
+      "description": "PoC for CVE-2026-9090 — Casdoor SAML signature bypass (CWE-347). Reproduction-only; coordinated via CERT/CC VU#780781.",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T16:41:51Z"
+    },
+    {
+      "cve_id": "CVE-2026-8794",
+      "repo_info": "[H4zaz/CVE-2026-8794](https://github.com/H4zaz/CVE-2026-8794)",
+      "description": "Username Enumeration via Authentication Timing Side-Channel in PaperCut NG",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T11:57:15Z"
+    },
+    {
+      "cve_id": "CVE-2026-8793",
+      "repo_info": "[H4zaz/CVE-2026-8793](https://github.com/H4zaz/CVE-2026-8793)",
+      "description": "esponsible disclosure write-ups for CVE-2026-8793 - PaperCut NG 25.0.11",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T11:28:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-73678",
+      "repo_info": "[Hunt-Benito/bring-your-own-key-cve-2026-73678-unauthenticated-rce-in-mindsdb-cowork](https://github.com/Hunt-Benito/bring-your-own-key-cve-2026-73678-unauthenticated-rce-in-mindsdb-cowork)",
+      "description": "no description",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T10:20:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-73633",
+      "repo_info": "[CuteeCat/S2-072](https://github.com/CuteeCat/S2-072)",
+      "description": "S2-072（CVE-2026-73633）poc",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T07:11:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-72898",
+      "repo_info": "[VuxNx/CVE-2026-72898](https://github.com/VuxNx/CVE-2026-72898)",
+      "description": "PoC for CVE-2026-72898",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T11:59:26Z"
+    },
+    {
+      "cve_id": "CVE-2026-72898",
+      "repo_info": "[ubitquity/Metabase-Setup-Endpoint-SQLi-Fix](https://github.com/ubitquity/Metabase-Setup-Endpoint-SQLi-Fix)",
+      "description": "CVE-2026-72898-Metabase-SQLi-Fix",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T10:44:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-72898",
+      "repo_info": "[4minx/CVE-2026-72898](https://github.com/4minx/CVE-2026-72898)",
+      "description": "CVE-2026-72898 PoC : Metabase Unauthenticated SQL Injection",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T09:06:56Z"
+    },
+    {
+      "cve_id": "CVE-2026-71362",
+      "repo_info": "[dinosn/cve-2026-71362-magento-lab](https://github.com/dinosn/cve-2026-71362-magento-lab)",
+      "description": "One-command Docker lab reproducing CVE-2026-71362 (Adobe Commerce / Magento Open Source customer-session identity-switch account takeover, APSB26-92, CVSS 9.1) with a PoC and an A/B/A official-patch negative control. For authorized security research and education.",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T14:21:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-68820",
+      "repo_info": "[ubitquity/Windows-WinSock-UAF-Mitigation](https://github.com/ubitquity/Windows-WinSock-UAF-Mitigation)",
+      "description": "This repository contains a conceptual patch demonstrating the mitigation for CVE-2026-68820, a critical Use-After-Free (UAF) vulnerability in the Windows Ancillary Function Driver for WinSock (`afd.sys`).",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T10:38:11Z"
+    },
+    {
+      "cve_id": "CVE-2026-64638",
+      "repo_info": "[Alixploit22/CVEX2SHEL](https://github.com/Alixploit22/CVEX2SHEL)",
+      "description": "CVE-2026-64638 adalah kerentanan Pre-Auth Reflected Cross-Site Scripting (XSS) di WordPress yang ditemukan pada tahun 2026. Kerentanan ini memungkinkan penyerang untuk menyisipkan kode JavaScript berbahaya ke halaman login WordPress (/wp-login.php) tanpa perlu autentikasi terlebih dahulu.",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T14:16:04Z"
+    },
+    {
+      "cve_id": "CVE-2026-6440",
+      "repo_info": "[Alixploit22/CVE-2026-6440](https://github.com/Alixploit22/CVE-2026-6440)",
+      "description": "mencari sebuah kerentanan, wodpres dan mengungah shell di kerentanan wodpres tersebut",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T14:24:33Z"
+    },
+    {
+      "cve_id": "CVE-2026-58231",
+      "repo_info": "[HORKimhab/CVE-2026-58231](https://github.com/HORKimhab/CVE-2026-58231)",
+      "description": "CVE-2026-58231 Detection &amp; Confirmation Script",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T11:39:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-53587",
+      "repo_info": "[Alixploit22/CVE-2026-53587](https://github.com/Alixploit22/CVE-2026-53587)",
+      "description": "no description",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T14:09:46Z"
+    },
+    {
+      "cve_id": "CVE-2026-47117",
+      "repo_info": "[SaiTeja-Erukude/CVE-2026-47117-openmed-rce](https://github.com/SaiTeja-Erukude/CVE-2026-47117-openmed-rce)",
+      "description": "OpenMed &lt; 1.5.2 unauthenticated RCE via PII privacy-filter model loading and trust_remote_code=True",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T20:23:48Z"
+    },
+    {
+      "cve_id": "CVE-2026-47103",
+      "repo_info": "[SaiTeja-Erukude/CVE-2026-47103-python-statemachine-rce](https://github.com/SaiTeja-Erukude/CVE-2026-47103-python-statemachine-rce)",
+      "description": "Python StateMachine 3.0.0 &lt; 3.2.0 RCE via unsafe SCXML &lt;data expr&gt; evaluation and Python eval() injection.",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T21:25:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[CamsShaft/IonStack-S22-cve-2026-43499](https://github.com/CamsShaft/IonStack-S22-cve-2026-43499)",
+      "description": "Full root in kernel domain with selinux permissive",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T04:49:27Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[knowlily/cve-2026-43499-honor](https://github.com/knowlily/cve-2026-43499-honor)",
+      "description": "CVE-2026-43499 (GhostLock) rt_mutex stack-UAF privilege escalation research on Honor BVL-AN16 (Magic6 Pro, SM8650, kernel 6.1.128). Includes analysis docs, reverse-engineering scripts, disassembly artifacts, and exploit source with honor-BVL-AN16 target adaptation.",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T15:18:19Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[fusiondrive/CVE-2026-43499-ZFOLD4](https://github.com/fusiondrive/CVE-2026-43499-ZFOLD4)",
+      "description": "CVE-2026-43499 research port for Galaxy Z Fold4 SM-F936W F936WVLU1AVGA (in progress)",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T04:17:57Z"
+    },
+    {
+      "cve_id": "CVE-2026-20896",
+      "repo_info": "[judgedbykira/CVE-2026-20896-Gitea-Authentication-Bypass](https://github.com/judgedbykira/CVE-2026-20896-Gitea-Authentication-Bypass)",
+      "description": "An explanation and PoC to exploit CVE-2026-20896 Authentication Bypass Vulnerability on Gitea. Being able to steal session tokens for valid users in the Gitea instance.",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T19:01:05Z"
+    },
+    {
+      "cve_id": "CVE-2026-17544",
+      "repo_info": "[r2qa/CVE-2026-17544](https://github.com/r2qa/CVE-2026-17544)",
+      "description": "CVE-2026-17544: PHP bcmath OOB write → universal memory-only RCE &amp; disable_functions/open_basedir bypass. Offset-free runtime resolver. Verified on   PHP 8.4.x / 8.5.x.",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T22:15:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-13610",
+      "repo_info": "[ghostpels/CVE-2026-13610](https://github.com/ghostpels/CVE-2026-13610)",
+      "description": "no description",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T02:31:54Z"
+    }
+  ],
+  "generated_at": "2026-08-16T02:23:19.778360",
+  "metadata": {
+    "total_cves": 24,
+    "date_range": "2026-08-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

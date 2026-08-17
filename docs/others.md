@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-08-16 02:22:52
+- **生成时间**: 2026-08-17 02:21:45
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -381,9 +381,10 @@
 | 🚫 未识别 | [handnewb/hermes-cybersec-lab](https://github.com/handnewb/hermes-cybersec-lab) | 🛡️ Turnkey cybersecurity lab for Hermes Agent — 397 CVE-driven skills, 152 tools, 28 frameworks (MITRE ATT&amp;CK, MISP, CVSS, EPSS, OWASP, NIST, Sigma, YARA). Real exploits 2015–2026. | 2026-08-07T15:09:37Z|
 | 🚫 未识别 | [harshal561/CVE-Analysis-Lab](https://github.com/harshal561/CVE-Analysis-Lab) | Vulnerability Research &amp; CVE Analysis Lab — end-to-end research on 3 actively exploited 2026 CVEs, with CVSS scoring, IOCs, and Splunk detection logic | 2026-08-14T10:37:52Z|
 | 🚫 未识别 | [FUNFACTOR1/WALLABAG-FULL-DISCLOSURE-Stored-XSS-SSRF-CVSS-8.5-GHSA-q2g2-](https://github.com/FUNFACTOR1/WALLABAG-FULL-DISCLOSURE-Stored-XSS-SSRF-CVSS-8.5-GHSA-q2g2-) | This is a full disclosure. The vulnerability was reported to the wallabag maintainers via GitHub Private Security Advisory on June 5, 2026. 3 FIX NO 1 MERGE NO CVE | 2026-08-15T23:09:25Z|
+| 🚫 未识别 | [RizkyDaffy/cve-mck-2026](https://github.com/RizkyDaffy/cve-mck-2026) | no description | 2026-08-16T14:07:15Z|
 
 
 ---
 
-**报告生成时间**: 2026-08-16 02:23:18  
-**总记录数**: 370
+**报告生成时间**: 2026-08-17 02:22:11  
+**总记录数**: 371

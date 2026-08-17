@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "count": 24,
+  "count": 25,
   "cves": [
     {
       "cve_id": "CVE-2026-9830",
@@ -150,6 +150,13 @@
       "raw_date": "2026-08-15T04:17:57Z"
     },
     {
+      "cve_id": "CVE-2026-26119",
+      "repo_info": "[abdelaaziz0/WACJack](https://github.com/abdelaaziz0/WACJack)",
+      "description": "Research codebase for reproducing and measuring the CVE-2026-26119 Windows Admin Center auth-reflection chain in lab environments.",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T16:48:15Z"
+    },
+    {
       "cve_id": "CVE-2026-20896",
       "repo_info": "[judgedbykira/CVE-2026-20896-Gitea-Authentication-Bypass](https://github.com/judgedbykira/CVE-2026-20896-Gitea-Authentication-Bypass)",
       "description": "An explanation and PoC to exploit CVE-2026-20896 Authentication Bypass Vulnerability on Gitea. Being able to steal session tokens for valid users in the Gitea instance.",
@@ -171,9 +178,9 @@
       "raw_date": "2026-08-15T02:31:54Z"
     }
   ],
-  "generated_at": "2026-08-17T01:16:15.365925",
+  "generated_at": "2026-08-17T02:22:12.195033",
   "metadata": {
-    "total_cves": 24,
+    "total_cves": 25,
     "date_range": "2026-08-15",
     "source": "README.md",
     "script_version": "2.0"

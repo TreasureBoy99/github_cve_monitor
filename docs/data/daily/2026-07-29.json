@@ -1,7 +1,14 @@
 {
   "date": "2026-07-29",
-  "count": 24,
+  "count": 25,
   "cves": [
+    {
+      "cve_id": "CVE-2026-73292",
+      "repo_info": "[CamilleGR/CVE-2026-73292](https://github.com/CamilleGR/CVE-2026-73292)",
+      "description": "no description",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T07:24:18Z"
+    },
     {
       "cve_id": "CVE-2026-66066",
       "repo_info": "[Zer0SumGam3/CVE-2026-66066-POC](https://github.com/Zer0SumGam3/CVE-2026-66066-POC)",
@@ -171,9 +178,9 @@
       "raw_date": "2026-07-29T10:56:11Z"
     }
   ],
-  "generated_at": "2026-08-19T01:15:05.814861",
+  "generated_at": "2026-08-19T02:21:01.732251",
   "metadata": {
-    "total_cves": 24,
+    "total_cves": 25,
     "date_range": "2026-07-29",
     "source": "README.md",
     "script_version": "2.0"

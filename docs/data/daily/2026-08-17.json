@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "count": 24,
+  "count": 25,
   "cves": [
     {
       "cve_id": "CVE-2026-74970",
@@ -101,6 +101,13 @@
       "raw_date": "2026-08-17T16:57:57Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[mobilehackinglab/ghostlock-a17](https://github.com/mobilehackinglab/ghostlock-a17)",
+      "description": "CVE-2026-43499 port for Samsung Galaxy A17",
+      "date": "2026-08-17",
+      "raw_date": "2026-08-17T21:18:27Z"
+    },
+    {
       "cve_id": "CVE-2026-41042",
       "repo_info": "[Lulztigre/cve-2026-41042](https://github.com/Lulztigre/cve-2026-41042)",
       "description": "POC for CVE-2026-41042",
@@ -171,9 +178,9 @@
       "raw_date": "2026-08-17T15:34:50Z"
     }
   ],
-  "generated_at": "2026-08-20T01:14:44.517118",
+  "generated_at": "2026-08-20T02:19:47.890978",
   "metadata": {
-    "total_cves": 24,
+    "total_cves": 25,
     "date_range": "2026-08-17",
     "source": "README.md",
     "script_version": "2.0"

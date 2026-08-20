@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-08-19 02:20:35
+- **生成时间**: 2026-08-20 02:19:20
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -382,9 +382,10 @@
 | 🚫 未识别 | [harshal561/CVE-Analysis-Lab](https://github.com/harshal561/CVE-Analysis-Lab) | Vulnerability Research &amp; CVE Analysis Lab — end-to-end research on 3 actively exploited 2026 CVEs, with CVSS scoring, IOCs, and Splunk detection logic | 2026-08-14T10:37:52Z|
 | 🚫 未识别 | [FUNFACTOR1/WALLABAG-FULL-DISCLOSURE-Stored-XSS-SSRF-CVSS-8.5-GHSA-q2g2-](https://github.com/FUNFACTOR1/WALLABAG-FULL-DISCLOSURE-Stored-XSS-SSRF-CVSS-8.5-GHSA-q2g2-) | This is a full disclosure. The vulnerability was reported to the wallabag maintainers via GitHub Private Security Advisory on June 5, 2026. 3 FIX NO 1 MERGE NO CVE | 2026-08-15T23:09:25Z|
 | 🚫 未识别 | [RizkyDaffy/cve-mck-2026](https://github.com/RizkyDaffy/cve-mck-2026) | no description | 2026-08-16T14:07:15Z|
+| 🚫 未识别 | [TheVoidThatConsumes/vsac](https://github.com/TheVoidThatConsumes/vsac) | A CVE scanning, SBOM generation and signed threat correlation tool (formerly XBOM) for the Gossamer Suite. Built with Python, 2026. | 2026-08-06T10:22:23Z|
 
 
 ---
 
-**报告生成时间**: 2026-08-19 02:21:00  
-**总记录数**: 371
+**报告生成时间**: 2026-08-20 02:19:47  
+**总记录数**: 372

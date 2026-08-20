@@ -1,10 +1,18 @@
 {
   "date": "2026-04-23",
-  "count": 0,
-  "cves": [],
-  "generated_at": "2026-08-10T03:25:41.807944",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-0603",
+      "repo_info": "[EQSTLab/CVE-2026-0603](https://github.com/EQSTLab/CVE-2026-0603)",
+      "description": "Hibernate ORM Second-Order SQL Injection",
+      "date": "2026-04-23",
+      "raw_date": "2026-04-23T05:01:19Z"
+    }
+  ],
+  "generated_at": "2026-08-20T02:19:47.878738",
   "metadata": {
-    "total_cves": 0,
+    "total_cves": 1,
     "date_range": "2026-04-23",
     "source": "README.md",
     "script_version": "2.0"

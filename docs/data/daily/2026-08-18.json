@@ -1,7 +1,14 @@
 {
   "date": "2026-08-18",
-  "count": 15,
+  "count": 16,
   "cves": [
+    {
+      "cve_id": "CVE-2026-77113",
+      "repo_info": "[0xROI/CVE-2026-77113](https://github.com/0xROI/CVE-2026-77113)",
+      "description": "no description",
+      "date": "2026-08-18",
+      "raw_date": "2026-08-18T20:05:22Z"
+    },
     {
       "cve_id": "CVE-2026-69414",
       "repo_info": "[1neptune/ShieldBreak](https://github.com/1neptune/ShieldBreak)",
@@ -108,9 +115,9 @@
       "raw_date": "2026-08-18T11:37:14Z"
     }
   ],
-  "generated_at": "2026-08-21T01:18:02.149058",
+  "generated_at": "2026-08-21T02:25:55.969482",
   "metadata": {
-    "total_cves": 15,
+    "total_cves": 16,
     "date_range": "2026-08-18",
     "source": "README.md",
     "script_version": "2.0"

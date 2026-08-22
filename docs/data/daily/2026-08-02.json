@@ -1,6 +1,6 @@
 {
   "date": "2026-08-02",
-  "count": 21,
+  "count": 22,
   "cves": [
     {
       "cve_id": "CVE-2026-9811",
@@ -22,6 +22,13 @@
       "description": "CVE-2026-9806 is a Stored Cross-Site Scripting (Stored XSS) vulnerability affecting CTI Transmute versions prior to the patched release.",
       "date": "2026-08-02",
       "raw_date": "2026-08-02T19:43:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-72844",
+      "repo_info": "[endrazine/lean-cve-poc](https://github.com/endrazine/lean-cve-poc)",
+      "description": "CVE-2026-72844 : Example of proving &quot;0 = 1&quot; using a vulnerability in the Lean 4 kernel.",
+      "date": "2026-08-02",
+      "raw_date": "2026-08-02T02:07:10Z"
     },
     {
       "cve_id": "CVE-2026-63030",
@@ -150,9 +157,9 @@
       "raw_date": "2026-08-02T17:21:27Z"
     }
   ],
-  "generated_at": "2026-08-22T01:14:06.550382",
+  "generated_at": "2026-08-22T02:17:36.372905",
   "metadata": {
-    "total_cves": 21,
+    "total_cves": 22,
     "date_range": "2026-08-02",
     "source": "README.md",
     "script_version": "2.0"

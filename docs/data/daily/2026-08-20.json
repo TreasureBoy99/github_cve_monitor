@@ -1,7 +1,14 @@
 {
   "date": "2026-08-20",
-  "count": 15,
+  "count": 16,
   "cves": [
+    {
+      "cve_id": "CVE-2026-8452",
+      "repo_info": "[BishopFox/CVE-2026-8452-check](https://github.com/BishopFox/CVE-2026-8452-check)",
+      "description": "Safely detect Citrix NetScaler CVE-2026-8452",
+      "date": "2026-08-20",
+      "raw_date": "2026-08-20T11:24:44Z"
+    },
     {
       "cve_id": "CVE-2026-8181",
       "repo_info": "[0xTerror/CVE-2026-8181](https://github.com/0xTerror/CVE-2026-8181)",
@@ -108,9 +115,9 @@
       "raw_date": "2026-08-20T17:33:36Z"
     }
   ],
-  "generated_at": "2026-08-22T01:14:06.556477",
+  "generated_at": "2026-08-22T02:17:36.378448",
   "metadata": {
-    "total_cves": 15,
+    "total_cves": 16,
     "date_range": "2026-08-20",
     "source": "README.md",
     "script_version": "2.0"

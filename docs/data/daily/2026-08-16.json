@@ -1,6 +1,6 @@
 {
   "date": "2026-08-16",
-  "count": 17,
+  "count": 18,
   "cves": [
     {
       "cve_id": "CVE-2026-8508",
@@ -8,6 +8,13 @@
       "description": "Public writeup, PoC, and emulation materials for CVE-2026-8508 affecting Zyxel captive-portal social login.",
       "date": "2026-08-16",
       "raw_date": "2026-08-16T16:03:29Z"
+    },
+    {
+      "cve_id": "CVE-2026-76904",
+      "repo_info": "[YonLiud/CVE-2026-76904](https://github.com/YonLiud/CVE-2026-76904)",
+      "description": "GeoServer Unauthenticated SQL injection to complete RCE",
+      "date": "2026-08-16",
+      "raw_date": "2026-08-16T08:11:26Z"
     },
     {
       "cve_id": "CVE-2026-73847",
@@ -122,9 +129,9 @@
       "raw_date": "2026-08-16T20:21:02Z"
     }
   ],
-  "generated_at": "2026-08-23T01:20:35.042730",
+  "generated_at": "2026-08-23T02:26:11.347345",
   "metadata": {
-    "total_cves": 17,
+    "total_cves": 18,
     "date_range": "2026-08-16",
     "source": "README.md",
     "script_version": "2.0"

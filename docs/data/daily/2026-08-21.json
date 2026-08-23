@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "count": 20,
+  "count": 21,
   "cves": [
     {
       "cve_id": "CVE-2026-76565",
@@ -101,6 +101,13 @@
       "raw_date": "2026-08-21T12:56:12Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[snothin/ghostlock-s26](https://github.com/snothin/ghostlock-s26)",
+      "description": "GhostLock (CVE-2026-43499) for the Galaxy S26",
+      "date": "2026-08-21",
+      "raw_date": "2026-08-21T14:29:00Z"
+    },
+    {
       "cve_id": "CVE-2026-41567",
       "repo_info": "[berdav/CVE-2026-41567](https://github.com/berdav/CVE-2026-41567)",
       "description": "CVE-2026-41567 1day",
@@ -143,9 +150,9 @@
       "raw_date": "2026-08-21T16:53:02Z"
     }
   ],
-  "generated_at": "2026-08-23T01:20:35.043542",
+  "generated_at": "2026-08-23T02:26:11.348612",
   "metadata": {
-    "total_cves": 20,
+    "total_cves": 21,
     "date_range": "2026-08-21",
     "source": "README.md",
     "script_version": "2.0"

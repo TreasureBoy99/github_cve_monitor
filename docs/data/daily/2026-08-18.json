@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "count": 16,
+  "count": 17,
   "cves": [
     {
       "cve_id": "CVE-2026-77113",
@@ -101,6 +101,13 @@
       "raw_date": "2026-08-18T07:14:05Z"
     },
     {
+      "cve_id": "CVE-2026-19478",
+      "repo_info": "[dinosn/gitlab-cve-2026-19478-lab](https://github.com/dinosn/gitlab-cve-2026-19478-lab)",
+      "description": "Reproducible A/B lab + safe PoC for GitLab CVE-2026-19478 / CVE-2026-19650 (GraphQL @gl_introduced)",
+      "date": "2026-08-18",
+      "raw_date": "2026-08-18T10:50:03Z"
+    },
+    {
       "cve_id": "CVE-2026-15748",
       "repo_info": "[yora1928/cve-2026-15748](https://github.com/yora1928/cve-2026-15748)",
       "description": "CVE-2026-15748 - Unauthenticated RCE exploit for WordPress Forminator plugin (≤1.56.1). Automated detection, deep crawl, nonce extraction, and safe upload test. For authorized testing only.",
@@ -115,9 +122,9 @@
       "raw_date": "2026-08-18T11:37:14Z"
     }
   ],
-  "generated_at": "2026-08-24T01:18:00.753571",
+  "generated_at": "2026-08-24T02:24:59.790139",
   "metadata": {
-    "total_cves": 16,
+    "total_cves": 17,
     "date_range": "2026-08-18",
     "source": "README.md",
     "script_version": "2.0"

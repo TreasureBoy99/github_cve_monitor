@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-08-23 02:25:46
+- **生成时间**: 2026-08-24 02:24:31
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -385,9 +385,11 @@
 | 🚫 未识别 | [TheVoidThatConsumes/vsac](https://github.com/TheVoidThatConsumes/vsac) | A CVE scanning, SBOM generation and signed threat correlation tool (formerly XBOM) for the Gossamer Suite. Built with Python, 2026. | 2026-08-06T10:22:23Z|
 | 🚫 未识别 | [Sanjay20-AS/dynamo-vuln-triage](https://github.com/Sanjay20-AS/dynamo-vuln-triage) | Personalised vulnerability triage prototype — turns a public CVE/KEV/EPSS feed into an explainable top-5 per organisation, with visible scoring factors and a mandatory negative test. Built for NEXORA 2026. | 2026-08-23T00:59:06Z|
 | 🚫 未识别 | [ejajmahmud/dependency-vulnerability-remediation-bot-fastapi-cve-remediation-agent-v2026-b58](https://github.com/ejajmahmud/dependency-vulnerability-remediation-bot-fastapi-cve-remediation-agent-v2026-b58) | Automated Zero-Day Dependency Vulnerability Remediation Agent enterprise system built with Python 3.12 / FastAPI &amp; Haystack Zero-Day CVE Remediation Agent (Source: Apache Software Foundation (apache.org/fastapi-cve-remediation)) | 2026-08-22T17:09:35Z|
+| 🚫 未识别 | [ejajmahmud/dependency-vulnerability-patch-agent-fastapi-cve-patch-bot-v2026-b60](https://github.com/ejajmahmud/dependency-vulnerability-patch-agent-fastapi-cve-patch-bot-v2026-b60) | Automated Zero-Day Dependency Vulnerability Remediation Agent enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot)) | 2026-08-24T00:53:10Z|
+| 🚫 未识别 | [Mavchris/Agent_Security_Framework](https://github.com/Mavchris/Agent_Security_Framework) | AgentThreatIntel 🔒🤖  Framework open-source d&#x27;intelligence de menaces pour agents IA.  Automatise collecte OSINT (CVE, GitHub, ArXiv), classification 7 attaques critiques (prompt injection, tool abuse...), matrice risque et dashboard temps réel.  Stack : Python • FastAPI • Streamlit • Docker Mémoire MS Cybersecurity - Mars 2026 | 2026-03-14T15:39:39Z|
 
 
 ---
 
-**报告生成时间**: 2026-08-23 02:26:10  
-**总记录数**: 374
+**报告生成时间**: 2026-08-24 02:24:58  
+**总记录数**: 376

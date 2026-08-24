@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "count": 20,
+  "count": 21,
   "cves": [
     {
       "cve_id": "CVE-2026-71557",
@@ -122,6 +122,13 @@
       "raw_date": "2026-08-08T11:41:33Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[sarabpal-dev/IonStack-S22U](https://github.com/sarabpal-dev/IonStack-S22U)",
+      "description": "CVE-2026-43499 full exploit chain for Samsung Galaxy S22 Ultra (Android 5.10 kernel)",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T23:35:25Z"
+    },
+    {
       "cve_id": "CVE-2026-3844",
       "repo_info": "[AnggaTechI/CVE-2026-3844](https://github.com/AnggaTechI/CVE-2026-3844)",
       "description": "CVE-2026-3844 — Unauthenticated Arbitrary File Upload to RCE in Breeze Cache (WordPress).  CVSS 9.8 CRITICAL. Mass scanner + auto shell injector with multi-threading.",
@@ -143,9 +150,9 @@
       "raw_date": "2026-08-08T03:41:26Z"
     }
   ],
-  "generated_at": "2026-08-24T01:18:00.750868",
+  "generated_at": "2026-08-24T02:24:59.787511",
   "metadata": {
-    "total_cves": 20,
+    "total_cves": 21,
     "date_range": "2026-08-08",
     "source": "README.md",
     "script_version": "2.0"

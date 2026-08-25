@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-25",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-32475",
+      "repo_info": "[Boreas37/CVE-2026-32475-PoC](https://github.com/Boreas37/CVE-2026-32475-PoC)",
+      "description": "PoC for CVE-2026-32475: Elementor Pro &lt;=4.2.1 unauthenticated file upload to RCE. Stdlib-only Python.",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T01:20:49Z"
+    },
+    {
+      "cve_id": "CVE-2026-12295",
+      "repo_info": "[SneakyNachos/CVE-2026-12295-UXXS-in-my-wasm](https://github.com/SneakyNachos/CVE-2026-12295-UXXS-in-my-wasm)",
+      "description": "Firefox content-&gt;parent srcdoc forge (N-day, bug 2040160): forged PDocumentChannel with SrcdocData on a non-about:srcdoc URI -&gt; attacker HTML served at victim origin (UXSS), via mojo-port send-path injection from a compromised content process",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T00:27:22Z"
+    }
+  ],
+  "generated_at": "2026-08-25T02:20:54.548741",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-08-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

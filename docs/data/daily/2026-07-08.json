@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "count": 23,
+  "count": 24,
   "cves": [
     {
       "cve_id": "CVE-2026-8206",
@@ -157,6 +157,13 @@
       "raw_date": "2026-07-08T09:51:38Z"
     },
     {
+      "cve_id": "CVE-2026-19874",
+      "repo_info": "[alicealys/mgo3-rce](https://github.com/alicealys/mgo3-rce)",
+      "description": "CVE-2026-19874",
+      "date": "2026-07-08",
+      "raw_date": "2026-07-08T03:03:18Z"
+    },
+    {
       "cve_id": "CVE-2026-0257",
       "repo_info": "[amnsecurity/CVE-2026-0257-GlobalProtect-Bypass](https://github.com/amnsecurity/CVE-2026-0257-GlobalProtect-Bypass)",
       "description": "CVE-2026-0257 - Palo Alto PAN-OS GlobalProtect Auth Override Cookie Forgery - PoC &amp; Analysis - CVSS 9.1 CRITICAL CISA KEV - AMN SECURITY",
@@ -164,9 +171,9 @@
       "raw_date": "2026-07-08T00:18:11Z"
     }
   ],
-  "generated_at": "2026-08-25T01:16:02.982919",
+  "generated_at": "2026-08-25T02:20:54.535833",
   "metadata": {
-    "total_cves": 23,
+    "total_cves": 24,
     "date_range": "2026-07-08",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "count": 17,
+  "count": 18,
   "cves": [
     {
       "cve_id": "CVE-2026-9198",
@@ -80,6 +80,13 @@
       "raw_date": "2026-08-22T19:35:36Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[ankitrawatgit/iQOO-Z9_5G-vivo-T3_5G-Root-GhostLock](https://github.com/ankitrawatgit/iQOO-Z9_5G-vivo-T3_5G-Root-GhostLock)",
+      "description": "An iQOO Z9 5G and vivo T3 5G jailbreak/root CVE-2026-43499 Android application and payloads. Both devices use the MediaTek Dimensity 7200 (MT6886) platform. Kernel version 5.15.178.",
+      "date": "2026-08-22",
+      "raw_date": "2026-08-22T17:22:49Z"
+    },
+    {
       "cve_id": "CVE-2026-41940",
       "repo_info": "[t4xo/CVE-2026-41940](https://github.com/t4xo/CVE-2026-41940)",
       "description": "ts zeroday exp made by nullsec white team",
@@ -122,9 +129,9 @@
       "raw_date": "2026-08-22T02:37:52Z"
     }
   ],
-  "generated_at": "2026-08-25T01:16:02.996932",
+  "generated_at": "2026-08-25T02:20:54.547983",
   "metadata": {
-    "total_cves": 17,
+    "total_cves": 18,
     "date_range": "2026-08-22",
     "source": "README.md",
     "script_version": "2.0"

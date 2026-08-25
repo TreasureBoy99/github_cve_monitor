@@ -1,7 +1,14 @@
 {
   "date": "2026-08-18",
-  "count": 17,
+  "count": 18,
   "cves": [
+    {
+      "cve_id": "CVE-2026-9254",
+      "repo_info": "[Slagzz/CVE-2026-9254](https://github.com/Slagzz/CVE-2026-9254)",
+      "description": "TP-Link Archer BE800 V1 — Parental Control LAN RCE",
+      "date": "2026-08-18",
+      "raw_date": "2026-08-18T00:52:58Z"
+    },
     {
       "cve_id": "CVE-2026-77113",
       "repo_info": "[0xROI/CVE-2026-77113](https://github.com/0xROI/CVE-2026-77113)",
@@ -122,9 +129,9 @@
       "raw_date": "2026-08-18T11:37:14Z"
     }
   ],
-  "generated_at": "2026-08-25T01:16:02.995890",
+  "generated_at": "2026-08-25T02:20:54.547067",
   "metadata": {
-    "total_cves": 17,
+    "total_cves": 18,
     "date_range": "2026-08-18",
     "source": "README.md",
     "script_version": "2.0"

@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-08-24 02:24:31
+- **生成时间**: 2026-08-25 02:20:28
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -387,9 +387,13 @@
 | 🚫 未识别 | [ejajmahmud/dependency-vulnerability-remediation-bot-fastapi-cve-remediation-agent-v2026-b58](https://github.com/ejajmahmud/dependency-vulnerability-remediation-bot-fastapi-cve-remediation-agent-v2026-b58) | Automated Zero-Day Dependency Vulnerability Remediation Agent enterprise system built with Python 3.12 / FastAPI &amp; Haystack Zero-Day CVE Remediation Agent (Source: Apache Software Foundation (apache.org/fastapi-cve-remediation)) | 2026-08-22T17:09:35Z|
 | 🚫 未识别 | [ejajmahmud/dependency-vulnerability-patch-agent-fastapi-cve-patch-bot-v2026-b60](https://github.com/ejajmahmud/dependency-vulnerability-patch-agent-fastapi-cve-patch-bot-v2026-b60) | Automated Zero-Day Dependency Vulnerability Remediation Agent enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot)) | 2026-08-24T00:53:10Z|
 | 🚫 未识别 | [Mavchris/Agent_Security_Framework](https://github.com/Mavchris/Agent_Security_Framework) | AgentThreatIntel 🔒🤖  Framework open-source d&#x27;intelligence de menaces pour agents IA.  Automatise collecte OSINT (CVE, GitHub, ArXiv), classification 7 attaques critiques (prompt injection, tool abuse...), matrice risque et dashboard temps réel.  Stack : Python • FastAPI • Streamlit • Docker Mémoire MS Cybersecurity - Mars 2026 | 2026-03-14T15:39:39Z|
+| 🚫 未识别 | [XiaomingX/awesome-security-benchmark](https://github.com/XiaomingX/awesome-security-benchmark) | Curated security vulnerability benchmarks &amp; vulnerable code samples for evaluating SAST tools and LLMs. Java · Node.js · Go · Next.js · CVE datasets · 2025-2026 research. OWASP Benchmark, NIST Juliet, Vul4J, SecBench.js, SecCodeBench-V2, PrimeVul &amp; more. | 2026-08-24T17:27:16Z|
+| 🚫 未识别 | [CyberWarrior9/dolibarr](https://github.com/CyberWarrior9/dolibarr) | End-to-end PoC exploits (Python + shell) for four patched Dolibarr ERP/CRM CVEs (2026-71504/71505/71506/71510). Authorized lab testing only. | 2026-08-24T16:56:34Z|
+| 🚫 未识别 | [christian-cahig/CVE154_AY-2026-2027-S1](https://github.com/christian-cahig/CVE154_AY-2026-2027-S1) | Various files for the CVE154 classes taught at MSU-IIT during A.Y. 2026-2027 S1 | 2026-08-24T10:22:28Z|
+| 🚫 未识别 | [CVE-security/cve-2026](https://github.com/CVE-security/cve-2026) | no description | 2026-08-20T23:42:15Z|
 
 
 ---
 
-**报告生成时间**: 2026-08-24 02:24:58  
-**总记录数**: 376
+**报告生成时间**: 2026-08-25 02:20:53  
+**总记录数**: 380

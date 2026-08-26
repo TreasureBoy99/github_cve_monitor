@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "count": 25,
+  "count": 26,
   "cves": [
     {
       "cve_id": "CVE-2026-9198",
@@ -15,6 +15,13 @@
       "description": "no description",
       "date": "2026-08-10",
       "raw_date": "2026-08-10T10:06:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-67921",
+      "repo_info": "[unpredictable21/halo-cors-csrf-CVE-2026-67921](https://github.com/unpredictable21/halo-cors-csrf-CVE-2026-67921)",
+      "description": "no description",
+      "date": "2026-08-10",
+      "raw_date": "2026-08-10T08:50:09Z"
     },
     {
       "cve_id": "CVE-2026-65891",
@@ -178,9 +185,9 @@
       "raw_date": "2026-08-10T11:08:50Z"
     }
   ],
-  "generated_at": "2026-08-26T01:18:59.481870",
+  "generated_at": "2026-08-26T02:27:06.542023",
   "metadata": {
-    "total_cves": 25,
+    "total_cves": 26,
     "date_range": "2026-08-10",
     "source": "README.md",
     "script_version": "2.0"

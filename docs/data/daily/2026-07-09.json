@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "count": 25,
+  "count": 26,
   "cves": [
     {
       "cve_id": "CVE-2026-8037",
@@ -8,6 +8,13 @@
       "description": "包括能执行的命令探测和一键getshell（需要服务器部署服务）",
       "date": "2026-07-09",
       "raw_date": "2026-07-09T11:49:43Z"
+    },
+    {
+      "cve_id": "CVE-2026-67919",
+      "repo_info": "[unpredictable21/halo-2.25.4-CVE-2026-67919](https://github.com/unpredictable21/halo-2.25.4-CVE-2026-67919)",
+      "description": "no description",
+      "date": "2026-07-09",
+      "raw_date": "2026-07-09T09:36:09Z"
     },
     {
       "cve_id": "CVE-2026-61343",
@@ -178,9 +185,9 @@
       "raw_date": "2026-07-09T21:10:54Z"
     }
   ],
-  "generated_at": "2026-08-26T01:18:59.471149",
+  "generated_at": "2026-08-26T02:27:06.532087",
   "metadata": {
-    "total_cves": 25,
+    "total_cves": 26,
     "date_range": "2026-07-09",
     "source": "README.md",
     "script_version": "2.0"

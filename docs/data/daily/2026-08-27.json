@@ -1,0 +1,90 @@
+{
+  "date": "2026-08-27",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-8467",
+      "repo_info": "[HORKimhab/CVE-2026-8467](https://github.com/HORKimhab/CVE-2026-8467)",
+      "description": "CVE-2026-8467 - Draft or TODO",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T02:16:55Z"
+    },
+    {
+      "cve_id": "CVE-2026-77542",
+      "repo_info": "[HORKimhab/CVE-Ubiquiti](https://github.com/HORKimhab/CVE-Ubiquiti)",
+      "description": "CVE-2026-77542, CVE-2026-77543, CVE-2026-77545, CVE-2026-77550, CVE-2026-77551, CVE-2026-77552, CVE-2026-77553, CVE-2026-77554, CVE-2026-77557 - Draft or TODO",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T04:04:32Z"
+    },
+    {
+      "cve_id": "CVE-2026-75604",
+      "repo_info": "[e4zyy/Project-CVE-2026-75604](https://github.com/e4zyy/Project-CVE-2026-75604)",
+      "description": "A Python-based exploitation framework for CVE-2026-75604 that enables authorized penetration testers to validate Next.js Windows cache traversal vulnerabilities. Deploys reverse shells and webshells via path traversal, with built-in target verification and proxy support for seamless integration into standard pentest workflows.",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T09:35:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-72898",
+      "repo_info": "[EQSTLab/CVE-2026-72898](https://github.com/EQSTLab/CVE-2026-72898)",
+      "description": "Metabase SQLi",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T06:51:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-55040",
+      "repo_info": "[maxprog-svg/CVE-2026-55040-Mass-Exploit](https://github.com/maxprog-svg/CVE-2026-55040-Mass-Exploit)",
+      "description": "CVE-2026-55040",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T09:53:30Z"
+    },
+    {
+      "cve_id": "CVE-2026-50787",
+      "repo_info": "[brynax/CVE-2026-50787](https://github.com/brynax/CVE-2026-50787)",
+      "description": "Security advisory for CVE-2026-50787: uncontrolled resource consumption in e-SIC Livre CAPTCHA generation leading to remote denial of service.",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T01:55:31Z"
+    },
+    {
+      "cve_id": "CVE-2026-38526",
+      "repo_info": "[DiegoRivas1/htb-labs-nexus](https://github.com/DiegoRivas1/htb-labs-nexus)",
+      "description": "Hack The Box Nexus machine write-up covering reconnaissance, Gitea credential discovery, Krayin CRM exploitation via CVE-2026-38526, initial access, and privilege escalation through a vulnerable Gitea template synchronization service.",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T06:41:17Z"
+    },
+    {
+      "cve_id": "CVE-2026-21962",
+      "repo_info": "[zeetee1235/CVE-2026-21962](https://github.com/zeetee1235/CVE-2026-21962)",
+      "description": "no description",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T02:59:01Z"
+    },
+    {
+      "cve_id": "CVE-2026-20303",
+      "repo_info": "[HORKimhab/Cisco-CVE-2026-20303-More](https://github.com/HORKimhab/Cisco-CVE-2026-20303-More)",
+      "description": "CVE-2026-20303, CVE-2026-20304, CVE-2026-20310, CVE-2026-20312, CVE-2026-20313",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T05:00:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-19478",
+      "repo_info": "[EQSTLab/CVE-2026-19478](https://github.com/EQSTLab/CVE-2026-19478)",
+      "description": "GitLab Code injection",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T06:30:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-18431",
+      "repo_info": "[HORKimhab/CVE-2026-18431](https://github.com/HORKimhab/CVE-2026-18431)",
+      "description": "CVE-2026-18431 - Draft or TODO",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T03:27:45Z"
+    }
+  ],
+  "generated_at": "2026-08-27T11:05:58.947270",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2026-08-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

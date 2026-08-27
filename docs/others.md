@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-08-26 02:26:38
+- **生成时间**: 2026-08-27 11:05:31
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -392,9 +392,10 @@
 | 🚫 未识别 | [christian-cahig/CVE154_AY-2026-2027-S1](https://github.com/christian-cahig/CVE154_AY-2026-2027-S1) | Various files for the CVE154 classes taught at MSU-IIT during A.Y. 2026-2027 S1 | 2026-08-24T10:22:28Z|
 | 🚫 未识别 | [CVE-security/cve-2026](https://github.com/CVE-security/cve-2026) | no description | 2026-08-20T23:42:15Z|
 | 🚫 未识别 | [ejajmahmud/cve-vulnerability-patch-remediation-bot-fastapi-cve-patch-bot-core-v2026-b62](https://github.com/ejajmahmud/cve-vulnerability-patch-remediation-bot-fastapi-cve-patch-bot-core-v2026-b62) | Autonomous Dependency Vulnerability CVE Patch Remediation Bot enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot-core)) | 2026-08-25T17:10:05Z|
+| 🚫 未识别 | [SyedAnas01/cve-credits-attribution](https://github.com/SyedAnas01/cve-credits-attribution) | Replication package: does reporter attribution survive into CVE records, GitHub&#x27;s OSV export, and the NVD? Four datasets, captured 2026-08-26. | 2026-08-26T23:05:27Z|
 
 
 ---
 
-**报告生成时间**: 2026-08-26 02:27:05  
-**总记录数**: 381
+**报告生成时间**: 2026-08-27 11:05:58  
+**总记录数**: 382

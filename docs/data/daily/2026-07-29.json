@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "count": 25,
+  "count": 26,
   "cves": [
     {
       "cve_id": "CVE-2026-73292",
@@ -143,6 +143,13 @@
       "raw_date": "2026-07-29T08:16:43Z"
     },
     {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)",
+      "description": "GhostLock One-Tap Execution App (CVE-2026-43499)",
+      "date": "2026-07-29",
+      "raw_date": "2026-07-29T05:04:25Z"
+    },
+    {
       "cve_id": "CVE-2026-33718",
       "repo_info": "[HORKimhab/CVE-2026-33718](https://github.com/HORKimhab/CVE-2026-33718)",
       "description": "CVE-2026-33718",
@@ -178,9 +185,9 @@
       "raw_date": "2026-07-29T10:56:11Z"
     }
   ],
-  "generated_at": "2026-08-28T09:57:08.001283",
+  "generated_at": "2026-08-28T12:38:49.795164",
   "metadata": {
-    "total_cves": 25,
+    "total_cves": 26,
     "date_range": "2026-07-29",
     "source": "README.md",
     "script_version": "2.0"

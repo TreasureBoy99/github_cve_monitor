@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-29",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-82286",
+      "repo_info": "[BiiTts/CVE-2026-82286-gpt-crawler-Arbitrary-File-Write](https://github.com/BiiTts/CVE-2026-82286-gpt-crawler-Arbitrary-File-Write)",
+      "description": "CVE-2026-82286 — gpt-crawler &lt;=1.5.1 unauthenticated arbitrary file write via outputFileName (POST /crawl). PoC + self-contained Docker lab. CVSS 8.6, CWE-22.",
+      "date": "2026-08-29",
+      "raw_date": "2026-08-29T01:38:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-4001",
+      "repo_info": "[htrxuan/hdwebmobile-formula-pricing](https://github.com/htrxuan/hdwebmobile-formula-pricing)",
+      "description": "WooCommerce plugin: safe formula-based product pricing, closing CVE-2026-4001&#x27;s eval()-based RCE",
+      "date": "2026-08-29",
+      "raw_date": "2026-08-29T03:51:17Z"
+    }
+  ],
+  "generated_at": "2026-08-29T07:47:26.391323",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2026-08-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

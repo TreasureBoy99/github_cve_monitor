@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "count": 16,
+  "count": 17,
   "cves": [
     {
       "cve_id": "CVE-2026-8452",
@@ -36,6 +36,13 @@
       "description": "aarch64 race condition checker",
       "date": "2026-08-20",
       "raw_date": "2026-08-20T01:07:58Z"
+    },
+    {
+      "cve_id": "CVE-2026-45585",
+      "repo_info": "[Neccie/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/Neccie/YellowKey-Bitlocker-CVE-2026-45585)",
+      "description": "Manage BitLocker recovery keys, unlock encrypted drives, and monitor encryption status with this lightweight Windows utility.",
+      "date": "2026-08-20",
+      "raw_date": "2026-08-20T01:21:38Z"
     },
     {
       "cve_id": "CVE-2026-43499",
@@ -115,9 +122,9 @@
       "raw_date": "2026-08-20T17:33:36Z"
     }
   ],
-  "generated_at": "2026-08-31T04:05:42.654427",
+  "generated_at": "2026-08-31T06:53:02.666719",
   "metadata": {
-    "total_cves": 16,
+    "total_cves": 17,
     "date_range": "2026-08-20",
     "source": "README.md",
     "script_version": "2.0"

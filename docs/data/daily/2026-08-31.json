@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-31",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[xiaohj233/ghostlock-x200-app](https://github.com/xiaohj233/ghostlock-x200-app)",
+      "description": "vivo X200 设备端一键 root App（Shizuku 授权 shell 域执行，CVE-2026-43499）",
+      "date": "2026-08-31",
+      "raw_date": "2026-08-31T05:48:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-38192",
+      "repo_info": "[ming1700/CVE-2026-38192](https://github.com/ming1700/CVE-2026-38192)",
+      "description": "pluck-CMS-4.7.20-code-injection-vulnerability",
+      "date": "2026-08-31",
+      "raw_date": "2026-08-31T01:30:09Z"
+    },
+    {
+      "cve_id": "CVE-2026-18963",
+      "repo_info": "[M4xSec/My-Exploits](https://github.com/M4xSec/My-Exploits)",
+      "description": "Metasploit modules, Python PoCs and throwaway Docker labs for four platform CVEs: Keycloak (CVE-2026-18963), Apache NiFi (CVE-2026-39816), HashiCorp Vault (CVE-2026-5006), HashiCorp Nomad (CVE-2026-7474).",
+      "date": "2026-08-31",
+      "raw_date": "2026-08-31T00:59:48Z"
+    }
+  ],
+  "generated_at": "2026-08-31T06:53:02.669110",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2026-08-31",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

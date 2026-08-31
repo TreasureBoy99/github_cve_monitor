@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "count": 25,
+  "count": 26,
   "cves": [
     {
       "cve_id": "CVE-2026-9830",
@@ -36,6 +36,13 @@
       "description": "esponsible disclosure write-ups for CVE-2026-8793 - PaperCut NG 25.0.11",
       "date": "2026-08-15",
       "raw_date": "2026-08-15T11:28:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-78906",
+      "repo_info": "[vxssroott/CVE-2026-78906-ChatGPT-Prompt-Injection](https://github.com/vxssroott/CVE-2026-78906-ChatGPT-Prompt-Injection)",
+      "description": "AI Infrastructure Vulnerability Research. CVE-2026-78906: Prompt injection and memory exfiltration in OpenAI&#x27;s ChatGPT API.",
+      "date": "2026-08-15",
+      "raw_date": "2026-08-15T18:05:55Z"
     },
     {
       "cve_id": "CVE-2026-73678",
@@ -178,9 +185,9 @@
       "raw_date": "2026-08-15T02:31:54Z"
     }
   ],
-  "generated_at": "2026-08-31T04:05:42.653010",
+  "generated_at": "2026-08-31T06:53:02.665421",
   "metadata": {
-    "total_cves": 25,
+    "total_cves": 26,
     "date_range": "2026-08-15",
     "source": "README.md",
     "script_version": "2.0"

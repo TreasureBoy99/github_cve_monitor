@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "count": 21,
+  "count": 22,
   "cves": [
     {
       "cve_id": "CVE-2026-8467",
@@ -43,6 +43,13 @@
       "description": "no description",
       "date": "2026-08-27",
       "raw_date": "2026-08-27T17:11:07Z"
+    },
+    {
+      "cve_id": "CVE-2026-65351",
+      "repo_info": "[e4zyy/Project-CVE-2026-65351](https://github.com/e4zyy/Project-CVE-2026-65351)",
+      "description": "For educational purposes",
+      "date": "2026-08-27",
+      "raw_date": "2026-08-27T12:35:07Z"
     },
     {
       "cve_id": "CVE-2026-55040",
@@ -150,9 +157,9 @@
       "raw_date": "2026-08-27T03:27:45Z"
     }
   ],
-  "generated_at": "2026-08-31T04:05:42.656427",
+  "generated_at": "2026-08-31T06:53:02.668321",
   "metadata": {
-    "total_cves": 21,
+    "total_cves": 22,
     "date_range": "2026-08-27",
     "source": "README.md",
     "script_version": "2.0"

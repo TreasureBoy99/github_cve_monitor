@@ -3,10 +3,10 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-08-31 06:53:01
+- **生成时间**: 2026-09-01 06:10:50
 - **数据来源**: GitHub CVE 数据库
-- **总记录数**: 29845
-- **其他记录数**: 384 (详见 [others.md](./others.md))
+- **总记录数**: 29853
+- **其他记录数**: 385 (详见 [others.md](./others.md))
 
 ## 全量数据报告
 
@@ -90,6 +90,7 @@
 | [CVE-2026-82286](https://www.cve.org/CVERecord?id=CVE-2026-82286) | [BiiTts/CVE-2026-82286-gpt-crawler-Arbitrary-File-Write](https://github.com/BiiTts/CVE-2026-82286-gpt-crawler-Arbitrary-File-Write) | CVE-2026-82286 — gpt-crawler &lt;=1.5.1 unauthenticated arbitrary file write via outputFileName (POST /crawl). PoC + self-contained Docker lab. CVSS 8.6, CWE-22. | 2026-08-29T01:38:38Z|
 | [CVE-2026-82222](https://www.cve.org/CVERecord?id=CVE-2026-82222) | [dinosn/givewp-cve-2026-82222-rce-lab](https://github.com/dinosn/givewp-cve-2026-82222-rce-lab) | Authorized Docker lab and clean PoC for validating CVE-2026-82222 RCE in GiveWP 4.16.5.1 and the 4.16.7.2 fix. | 2026-08-30T05:15:27Z|
 | [CVE-2026-82222](https://www.cve.org/CVERecord?id=CVE-2026-82222) | [UdinChan/cve-2026-82222-poc](https://github.com/UdinChan/cve-2026-82222-poc) | Public PoC for CVE-2026-82222 | 2026-08-30T01:53:59Z|
+| [CVE-2026-82222](https://www.cve.org/CVERecord?id=CVE-2026-82222) | [R0x19/CVE-2026-82222](https://github.com/R0x19/CVE-2026-82222) | GiveWP &lt;= 4.16.7.1 Unauthenticated PHP Object Injection → RCE | 2026-08-31T09:31:23Z|
 | [CVE-2026-8206](https://www.cve.org/CVERecord?id=CVE-2026-8206) | [izxci/CVE-2026-8206](https://github.com/izxci/CVE-2026-8206) | CVE-2026-8206 Kirki Plugin Unauthenticated Account Takeover Exploit | 2026-06-17T09:50:33Z|
 | [CVE-2026-8206](https://www.cve.org/CVERecord?id=CVE-2026-8206) | [amnsecurity/CVE-2026-8206-Kirki-WP](https://github.com/amnsecurity/CVE-2026-8206-Kirki-WP) | CVE-2026-8206 - Kirki WordPress Plugin Unauthenticated Account Takeover - PoC &amp; Analysis - CVSS 9.8 CRITICAL - AMN SECURITY | 2026-07-08T00:14:55Z|
 | [CVE-2026-8206](https://www.cve.org/CVERecord?id=CVE-2026-8206) | [Dungsocool/CVE-2026-8206](https://github.com/Dungsocool/CVE-2026-8206) | CVE-2026-8206: Kirki Customizer Framework - Unauthenticated Account Takeover (CVSS 9.8) | 2026-07-28T04:40:42Z|
@@ -123,6 +124,7 @@
 | [CVE-2026-76639](https://www.cve.org/CVERecord?id=CVE-2026-76639) | [OlivierLaflamme/UniBLEed](https://github.com/OlivierLaflamme/UniBLEed) | Unitree G1 RCE PoC &amp; Scripts (CVE-2026-76639 / CVE-2026-76640) technical details at boschko.ca/g1-ble-rce/ | 2026-08-24T21:18:35Z|
 | [CVE-2026-76581](https://www.cve.org/CVERecord?id=CVE-2026-76581) | [hackersroot/CVE-2026-76581-Detector](https://github.com/hackersroot/CVE-2026-76581-Detector) | Safe passive detector for identifying WPMU DEV Dashboard versions affected by CVE-2026-76581. | 2026-08-30T17:32:26Z|
 | [CVE-2026-76581](https://www.cve.org/CVERecord?id=CVE-2026-76581) | [HORKimhab/CVE-2026-76581](https://github.com/HORKimhab/CVE-2026-76581) | CVE-2026-76581 | 2026-08-30T12:52:47Z|
+| [CVE-2026-76569](https://www.cve.org/CVERecord?id=CVE-2026-76569) | [toanln-cov/CVE-2026-76569](https://github.com/toanln-cov/CVE-2026-76569) | Reflected XSS via search GET Parameter in Phoca Download | 2026-08-31T07:51:07Z|
 | [CVE-2026-76565](https://www.cve.org/CVERecord?id=CVE-2026-76565) | [toanln-cov/CVE-2026-76565](https://github.com/toanln-cov/CVE-2026-76565) | Reflected XSS via price_from &amp; price_to Filter Parameters in PhocaCart | 2026-08-21T17:09:08Z|
 | [CVE-2026-76564](https://www.cve.org/CVERecord?id=CVE-2026-76564) | [toanln-cov/CVE-2026-76564](https://github.com/toanln-cov/CVE-2026-76564) | Stored XSS via User-Agent in Admin Order View in PhocaCart | 2026-08-21T17:13:04Z|
 | [CVE-2026-7654](https://www.cve.org/CVERecord?id=CVE-2026-7654) | [izxci/CVE-2026-7654](https://github.com/izxci/CVE-2026-7654) | CVE-2026-7654 Admin Columns PHP Object Injection RCE Exploit | 2026-06-17T09:49:13Z|
@@ -180,6 +182,7 @@
 | [CVE-2026-72530](https://www.cve.org/CVERecord?id=CVE-2026-72530) | [fevar54/CVE-2026-72530-TrueConf-Sandbox-Escape-](https://github.com/fevar54/CVE-2026-72530-TrueConf-Sandbox-Escape-) | Este repositorio contiene una demostración educativa de la mitigación y detección para **CVE-2026-72530**, una vulnerabilidad crítica de **Code Injection y Sandbox Escape** en TrueConf Server. | 2026-08-25T21:14:20Z|
 | [CVE-2026-7228](https://www.cve.org/CVERecord?id=CVE-2026-7228) | [mikecostanzi/ricerca-tesi](https://github.com/mikecostanzi/ricerca-tesi) | risorse di ricerca per cve-2026-7228 | 2026-07-24T09:03:54Z|
 | [CVE-2026-71960](https://www.cve.org/CVERecord?id=CVE-2026-71960) | [Hunt-Benito/the-same-key-opens-every-box-cve-2026-71960-hard-coded-jwt-secret-in-cudy-wr3000-mesh-mqtt](https://github.com/Hunt-Benito/the-same-key-opens-every-box-cve-2026-71960-hard-coded-jwt-secret-in-cudy-wr3000-mesh-mqtt) | no description | 2026-08-20T15:22:02Z|
+| [CVE-2026-71851](https://www.cve.org/CVERecord?id=CVE-2026-71851) | [brendonlee20042004-sys/weakrng-sweep](https://github.com/brendonlee20042004-sys/weakrng-sweep) | Weak-RNG stream-sweep research (CVE-2026-71851 class): PRNG schemes x seeds -&gt; BIP39 -&gt; victim set membership | 2026-08-31T11:57:29Z|
 | [CVE-2026-71557](https://www.cve.org/CVERecord?id=CVE-2026-71557) | [Saku0512/CVE-2026-71557-poc](https://github.com/Saku0512/CVE-2026-71557-poc) | no description | 2026-08-08T01:52:34Z|
 | [CVE-2026-71554](https://www.cve.org/CVERecord?id=CVE-2026-71554) | [SunandM/poc-h2-CVE-2026-71554](https://github.com/SunandM/poc-h2-CVE-2026-71554) | PoC for CVE-2026-71554 - h2 duplicate Host header request smuggling primitive (fixed in 4.4.1) | 2026-08-07T21:15:48Z|
 | [CVE-2026-71554](https://www.cve.org/CVERecord?id=CVE-2026-71554) | [SunandM/poc-h2-duplicate-host](https://github.com/SunandM/poc-h2-duplicate-host) | PoC for CVE-2026-71554 — h2 duplicate Host header request smuggling primitive (fixed in 4.4.1) | 2026-08-07T21:14:52Z|
@@ -475,6 +478,7 @@
 | [CVE-2026-62737](https://www.cve.org/CVERecord?id=CVE-2026-62737) | [DavidCarliez/cve-2026-62737-lab](https://github.com/DavidCarliez/cve-2026-62737-lab) | no description | 2026-08-11T09:57:15Z|
 | [CVE-2026-62737](https://www.cve.org/CVERecord?id=CVE-2026-62737) | [loanvui/CVE-2026-62737](https://github.com/loanvui/CVE-2026-62737) | no description | 2026-08-17T17:34:31Z|
 | [CVE-2026-62737](https://www.cve.org/CVERecord?id=CVE-2026-62737) | [loanvui/CVE-2026-62737](https://github.com/loanvui/CVE-2026-62737) | CVE-2026-62737 ExecutionContext.sys arbitrary kernel-call PoC | 2026-08-18T20:16:03Z|
+| [CVE-2026-62735](https://www.cve.org/CVERecord?id=CVE-2026-62735) | [nhh9905/CVE-2026-62735](https://github.com/nhh9905/CVE-2026-62735) | CVE 1-day in http.sys | 2026-08-25T04:55:10Z|
 | [CVE-2026-62183](https://www.cve.org/CVERecord?id=CVE-2026-62183) | [NicPWNs/CVE-2026-62183](https://github.com/NicPWNs/CVE-2026-62183) | Apache Syncope: User self-service privilege escalation | 2026-07-20T22:56:04Z|
 | [CVE-2026-61946](https://www.cve.org/CVERecord?id=CVE-2026-61946) | [Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR](https://github.com/Rat5ak/CVE-2026-61946-Easy-Appointments-IDOR) | CVE-2026-61946: Unauthenticated IDOR in Easy Appointments &lt;= 3.12.27 | 2026-07-25T05:39:09Z|
 | [CVE-2026-61511](https://www.cve.org/CVERecord?id=CVE-2026-61511) | [HORKimhab/CVE-2026-61511](https://github.com/HORKimhab/CVE-2026-61511) | CVE-2026-61511 - Draft or Todo | 2026-07-28T01:47:47Z|
@@ -1476,6 +1480,8 @@
 | [CVE-2026-30784](https://www.cve.org/CVERecord?id=CVE-2026-30784) | [malejdj/CVE-2026-30784-rustdesk-poc](https://github.com/malejdj/CVE-2026-30784-rustdesk-poc) | CVE-2026-30784: RustDesk hbbs Traffic Amplification PoC &amp; PCAP Analysis | 2026-07-02T04:42:55Z|
 | [CVE-2026-30623](https://www.cve.org/CVERecord?id=CVE-2026-30623) | [csinexus/mcpshield](https://github.com/csinexus/mcpshield) | Drop-in fix for the unpatched MCP STDIO command-injection flaw (CVE-2026-30623 family) | 2026-07-21T10:57:26Z|
 | [CVE-2026-3030](https://www.cve.org/CVERecord?id=CVE-2026-3030) | [George0Papasotiriou/CVE-2026-3030-Prototype-Pollution-in-JSON-Merge-Patch](https://github.com/George0Papasotiriou/CVE-2026-3030-Prototype-Pollution-in-JSON-Merge-Patch) | no description | 2026-08-03T01:44:30Z|
+| [CVE-2026-30252](https://www.cve.org/CVERecord?id=CVE-2026-30252) | [vEnablee/CVE-2026-30252](https://github.com/vEnablee/CVE-2026-30252) | The ZenShare Suite application is vulnerable by a Reflected Cross-Site Scripting (XSS) vulnerability, affecting web application login and recovery password functionalities. | 2026-08-31T20:06:24Z|
+| [CVE-2026-30251](https://www.cve.org/CVERecord?id=CVE-2026-30251) | [vEnablee/CVE-2026-30251](https://github.com/vEnablee/CVE-2026-30251) | A reflected cross-site scripting (XSS) vulnerability in the login_newpwd.php endpoint of Interzen Consulting S.r.l ZenShare Suite v17.0 allows attackers to execute arbitrary Javascript in the context of the user&#x27;s browser via a crafted URL injected into the codice_azienda parameter. | 2026-08-31T19:48:18Z|
 | [CVE-2026-29519](https://www.cve.org/CVERecord?id=CVE-2026-29519) | [L4V4D0/CVE-2026-29519-Lucee-Reflected-XSS](https://github.com/L4V4D0/CVE-2026-29519-Lucee-Reflected-XSS) | Proof of Concept for Reflected XSS in Lucee CFML (CVE-2026-29519) | 2026-07-09T22:49:57Z|
 | [CVE-2026-29145](https://www.cve.org/CVERecord?id=CVE-2026-29145) | [gkdgkd123/CVE-2026-29145-Everything](https://github.com/gkdgkd123/CVE-2026-29145-Everything) | no description | 2026-07-11T08:39:29Z|
 | [CVE-2026-29116](https://www.cve.org/CVERecord?id=CVE-2026-29116) | [CrimsonfiedOfficial/CVE-2026-29116](https://github.com/CrimsonfiedOfficial/CVE-2026-29116) | Dahua CVE-2026-29116 | 2026-07-11T06:03:27Z|
@@ -1552,6 +1558,7 @@
 | [CVE-2026-25194](https://www.cve.org/CVERecord?id=CVE-2026-25194) | [DexSemon/CVE-2026-25194](https://github.com/DexSemon/CVE-2026-25194) | Proof-of-concept exploit and lab environment for CVE-2026-25194 | 2026-07-02T06:56:42Z|
 | [CVE-2026-25177](https://www.cve.org/CVERecord?id=CVE-2026-25177) | [HORKimhab/CVE-2026-25177](https://github.com/HORKimhab/CVE-2026-25177) | CVE-2026-25177 - Draft | 2026-06-17T06:08:03Z|
 | [CVE-2026-25089](https://www.cve.org/CVERecord?id=CVE-2026-25089) | [0xBlackash/CVE-2026-25089](https://github.com/0xBlackash/CVE-2026-25089) | CVE-2026-25089 | 2026-06-12T19:03:33Z|
+| [CVE-2026-24880](https://www.cve.org/CVERecord?id=CVE-2026-24880) | [xiaoqiMikko/tomcat-line-check](https://github.com/xiaoqiMikko/tomcat-line-check) | CVE-2026-24880: does Apache&#x27;s upgrade advice actually apply to your Tomcat? Detects the fix by class presence, not version comparison. Covers 7.0/8.0/8.5/9.0/10.0/10.1/11.0 lines. | 2026-09-01T05:50:23Z|
 | [CVE-2026-2472](https://www.cve.org/CVERecord?id=CVE-2026-2472) | [megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud](https://github.com/megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud) | Expose and detail an unauthenticated stored XSS vulnerability in the Google Cloud Vertex AI Python SDK affecting versions 1.98.0 to 1.130.9. | 2026-03-10T14:40:04Z|
 | [CVE-2026-24688](https://www.cve.org/CVERecord?id=CVE-2026-24688) | [Fomovet/cve-2026-24688](https://github.com/Fomovet/cve-2026-24688) | POC for CVE-2026-24688 | 2026-06-21T14:31:41Z|
 | [CVE-2026-24418](https://www.cve.org/CVERecord?id=CVE-2026-24418) | [BridgerAlderson/CVE-2026-24418](https://github.com/BridgerAlderson/CVE-2026-24418) | OpenSTAManager v2.9.8 and earlier contain a critical Error-Based SQL Injection vulnerability in the bulk operations handler for the Scadenzario (Payment Schedule) module. | 2026-06-28T21:57:45Z|
@@ -1984,6 +1991,7 @@
 | [CVE-2026-0073](https://www.cve.org/CVERecord?id=CVE-2026-0073) | [xqi1337/poc-CVE-2026-0073](https://github.com/xqi1337/poc-CVE-2026-0073) | CVE-2026-0073 - ADB Wireless Mutual Authentication Bypass PoC | 2026-05-09T15:40:26Z|
 | [CVE-2026-0073](https://www.cve.org/CVERecord?id=CVE-2026-0073) | [tc4dy/CVE-2026-0073-PoC-Exploit](https://github.com/tc4dy/CVE-2026-0073-PoC-Exploit) | 🚀 CVE-2026-0073 - Android ADB Wireless Debugging Exploit (CVSS 8.8) 🔓 Zero-click authentication bypass via TLS type confusion. Gain interactive shell, execute commands, scan networks. Educational red-team tool. 🐚⚡ | 2026-05-13T14:28:00Z|
 | [CVE-2026-0073](https://www.cve.org/CVERecord?id=CVE-2026-0073) | [aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass](https://github.com/aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass) | Research on CVE-2026-0073. An auth bypass allowing any attacker with local network access to connect to an Android device with dev tools and wireless debugging or ADB-over-TCP enabled. Device needs to have been paired before.  This has been tested working on Android 14 in Android Studio. Should work on others as well but exploitability may vary. | 2026-08-21T16:53:02Z|
+| [CVE-2026-0073](https://www.cve.org/CVERecord?id=CVE-2026-0073) | [naheeju/POC-CVE-2026-0073](https://github.com/naheeju/POC-CVE-2026-0073) | Security research PoC for CVE-2026-0073: ADB authentication bypass verification | 2026-08-31T11:39:29Z|
 | [CVE-2026-0059](https://www.cve.org/CVERecord?id=CVE-2026-0059) | [paul-goon/bootlicka-POC](https://github.com/paul-goon/bootlicka-POC) | a shitty poc utilizing CVE-2026-0059. | 2026-07-21T19:44:45Z|
 | [CVE-2026-0049](https://www.cve.org/CVERecord?id=CVE-2026-0049) | [R3n3r0/CVE-2026-0049](https://github.com/R3n3r0/CVE-2026-0049) | no description | 2026-08-07T13:20:19Z|
 | [CVE-2026-0013](https://www.cve.org/CVERecord?id=CVE-2026-0013) | [XiaoBaiLovesStirring/cve-2026-0013-poc](https://github.com/XiaoBaiLovesStirring/cve-2026-0013-poc) | CVE-2026-0013 Android EoP PoC - Compiled artifacts for security research (Derivative of inforcqb/cve-2026-0013-exploit) | 2026-08-23T07:01:16Z|

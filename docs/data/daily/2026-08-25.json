@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "count": 30,
+  "count": 31,
   "cves": [
     {
       "cve_id": "CVE-2026-75604",
@@ -57,6 +57,13 @@
       "description": "CVE-2026-6765, Test only FormAutofill handlers exposed in Firefox",
       "date": "2026-08-25",
       "raw_date": "2026-08-25T10:46:40Z"
+    },
+    {
+      "cve_id": "CVE-2026-62735",
+      "repo_info": "[nhh9905/CVE-2026-62735](https://github.com/nhh9905/CVE-2026-62735)",
+      "description": "CVE 1-day in http.sys",
+      "date": "2026-08-25",
+      "raw_date": "2026-08-25T04:55:10Z"
     },
     {
       "cve_id": "CVE-2026-60004",
@@ -213,9 +220,9 @@
       "raw_date": "2026-08-25T00:27:22Z"
     }
   ],
-  "generated_at": "2026-09-01T03:54:55.043408",
+  "generated_at": "2026-09-01T06:10:51.780414",
   "metadata": {
-    "total_cves": 30,
+    "total_cves": 31,
     "date_range": "2026-08-25",
     "source": "README.md",
     "script_version": "2.0"

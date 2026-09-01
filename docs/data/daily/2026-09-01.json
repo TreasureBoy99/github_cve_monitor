@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-01",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-24880",
+      "repo_info": "[xiaoqiMikko/tomcat-line-check](https://github.com/xiaoqiMikko/tomcat-line-check)",
+      "description": "CVE-2026-24880: does Apache&#x27;s upgrade advice actually apply to your Tomcat? Detects the fix by class presence, not version comparison. Covers 7.0/8.0/8.5/9.0/10.0/10.1/11.0 lines.",
+      "date": "2026-09-01",
+      "raw_date": "2026-09-01T05:50:23Z"
+    }
+  ],
+  "generated_at": "2026-09-01T06:10:51.781411",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2026-09-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

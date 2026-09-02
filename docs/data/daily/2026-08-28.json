@@ -1,6 +1,6 @@
 {
   "date": "2026-08-28",
-  "count": 16,
+  "count": 17,
   "cves": [
     {
       "cve_id": "CVE-2026-73570",
@@ -50,6 +50,13 @@
       "description": "A specialized Python framework that executes unauthenticated remote code execution via the 9Router Model Context Protocol (MCP) bridge by deploying a 33-layer temporal phase cascade, Riemann-Hadamard dispersion, and an 11 ns wedge filter to bypass traditional proxy and process-monitoring defenses.",
       "date": "2026-08-28",
       "raw_date": "2026-08-28T10:58:38Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[abdgalaxy36-code/rmgp-complete-handoff](https://github.com/abdgalaxy36-code/rmgp-complete-handoff)",
+      "description": "Complete RMGP (CVE-2026-43499) workspace + experiment-state handoff for SM-A376B/A376BXXU1AZB7",
+      "date": "2026-08-28",
+      "raw_date": "2026-08-28T19:08:06Z"
     },
     {
       "cve_id": "CVE-2026-33057",
@@ -115,9 +122,9 @@
       "raw_date": "2026-08-28T12:32:50Z"
     }
   ],
-  "generated_at": "2026-09-02T03:14:34.931400",
+  "generated_at": "2026-09-02T05:37:33.666847",
   "metadata": {
-    "total_cves": 16,
+    "total_cves": 17,
     "date_range": "2026-08-28",
     "source": "README.md",
     "script_version": "2.0"

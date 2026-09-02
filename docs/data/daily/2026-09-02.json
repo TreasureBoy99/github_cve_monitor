@@ -1,0 +1,34 @@
+{
+  "date": "2026-09-02",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-84361",
+      "repo_info": "[Saku0512/CVE-2026-84361-poc](https://github.com/Saku0512/CVE-2026-84361-poc)",
+      "description": "no description",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T05:07:54Z"
+    },
+    {
+      "cve_id": "CVE-2026-78838",
+      "repo_info": "[nabeelmkhan/CVE-2026-78838](https://github.com/nabeelmkhan/CVE-2026-78838)",
+      "description": "no description",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T05:25:03Z"
+    },
+    {
+      "cve_id": "CVE-2026-78837",
+      "repo_info": "[nabeelmkhan/CVE-2026-78837](https://github.com/nabeelmkhan/CVE-2026-78837)",
+      "description": "no description",
+      "date": "2026-09-02",
+      "raw_date": "2026-09-02T03:36:45Z"
+    }
+  ],
+  "generated_at": "2026-09-02T05:37:33.667422",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2026-09-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

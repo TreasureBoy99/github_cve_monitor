@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "count": 43,
+  "count": 44,
   "cves": [
     {
       "cve_id": "CVE-2026-78329",
@@ -127,6 +127,13 @@
       "description": "GhostLock (CVE-2026-43499) adapter for 4.19.152-perf+ Android kernel",
       "date": "2026-08-24",
       "raw_date": "2026-08-24T10:30:12Z"
+    },
+    {
+      "cve_id": "CVE-2026-43499",
+      "repo_info": "[slapah/ghostlock-h8q](https://github.com/slapah/ghostlock-h8q)",
+      "description": "GhostLock CVE-2026-43499 port for Galaxy Z Fold 8 (h8q)",
+      "date": "2026-08-24",
+      "raw_date": "2026-08-24T06:55:48Z"
     },
     {
       "cve_id": "CVE-2026-31337",
@@ -304,9 +311,9 @@
       "raw_date": "2026-08-24T03:03:31Z"
     }
   ],
-  "generated_at": "2026-09-02T03:14:34.930023",
+  "generated_at": "2026-09-02T05:37:33.666153",
   "metadata": {
-    "total_cves": 43,
+    "total_cves": 44,
     "date_range": "2026-08-24",
     "source": "README.md",
     "script_version": "2.0"

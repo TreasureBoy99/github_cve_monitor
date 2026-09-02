@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-09-01 06:10:23
+- **生成时间**: 2026-09-02 05:36:52
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -396,9 +396,10 @@
 | 🚫 未识别 | [Clara-M-Grossl/Exploit-Marimo](https://github.com/Clara-M-Grossl/Exploit-Marimo) | Marimo Pre-Auth RCE (CVE-2026–39987) | 2026-08-27T12:43:32Z|
 | 🚫 未识别 | [xiaoqiMikko/spring-cvss-check](https://github.com/xiaoqiMikko/spring-cvss-check) | 2026-08-20 Spring 7 个 CVE + Tomcat 2 个：你的扫描器报 CRITICAL 9.8，官方评的是 LOW/MEDIUM。这个工具告诉你中了哪几条、官方到底评多少分、你是否真的满足触发条件，以及官方叫你升的版本 Maven Central 上有没有。 | 2026-08-29T13:54:58Z|
 | 🚫 未识别 | [nawalacheker1/new-cve-2026](https://github.com/nawalacheker1/new-cve-2026) | no description | 2026-08-31T10:43:35Z|
+| 🚫 未识别 | [HORKimhab/CVE-2026-PSA-2026-00043-1](https://github.com/HORKimhab/CVE-2026-PSA-2026-00043-1) | CVE-2026-PSA-2026-00043-1 - Proxmox VE 7.0–8.0.3: unauthenticated, single-request root auth bypass - Draft or TODO | 2026-09-02T01:20:52Z|
 
 
 ---
 
-**报告生成时间**: 2026-09-01 06:10:51  
-**总记录数**: 385
+**报告生成时间**: 2026-09-02 05:37:32  
+**总记录数**: 386

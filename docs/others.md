@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-09-02 05:36:52
+- **生成时间**: 2026-09-03 05:36:47
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -397,9 +397,11 @@
 | 🚫 未识别 | [xiaoqiMikko/spring-cvss-check](https://github.com/xiaoqiMikko/spring-cvss-check) | 2026-08-20 Spring 7 个 CVE + Tomcat 2 个：你的扫描器报 CRITICAL 9.8，官方评的是 LOW/MEDIUM。这个工具告诉你中了哪几条、官方到底评多少分、你是否真的满足触发条件，以及官方叫你升的版本 Maven Central 上有没有。 | 2026-08-29T13:54:58Z|
 | 🚫 未识别 | [nawalacheker1/new-cve-2026](https://github.com/nawalacheker1/new-cve-2026) | no description | 2026-08-31T10:43:35Z|
 | 🚫 未识别 | [HORKimhab/CVE-2026-PSA-2026-00043-1](https://github.com/HORKimhab/CVE-2026-PSA-2026-00043-1) | CVE-2026-PSA-2026-00043-1 - Proxmox VE 7.0–8.0.3: unauthenticated, single-request root auth bypass - Draft or TODO | 2026-09-02T01:20:52Z|
+| 🚫 未识别 | [ejajmahmud/regtech-aml-compliance-auditor-fastapi-cve-patch-bot-v2026-b63](https://github.com/ejajmahmud/regtech-aml-compliance-auditor-fastapi-cve-patch-bot-v2026-b63) | RegTech Regulatory Compliance &amp; Anti-Money Laundering Auditor enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot-core)) | 2026-09-03T03:14:50Z|
+| 🚫 未识别 | [ejajmahmud/employee-pulse-survey-enps-engine-fastapi-cve-patch-bot-v2026-b63](https://github.com/ejajmahmud/employee-pulse-survey-enps-engine-fastapi-cve-patch-bot-v2026-b63) | Employee Engagement Pulse Survey &amp; ENPS Engine enterprise system built with Python 3.12 / LangChain &amp; FastAPI Autonomous Enterprise CVE Patch Bot (Source: Apache Software Foundation (apache.org/cve-patch-bot-core)) | 2026-09-03T03:13:18Z|
 
 
 ---
 
-**报告生成时间**: 2026-09-02 05:37:32  
-**总记录数**: 386
+**报告生成时间**: 2026-09-03 05:37:12  
+**总记录数**: 388

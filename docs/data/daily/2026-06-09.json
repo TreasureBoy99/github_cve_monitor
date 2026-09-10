@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "count": 2,
+  "count": 3,
   "cves": [
     {
       "cve_id": "CVE-2026-79617",
@@ -10,6 +10,13 @@
       "raw_date": "2026-06-09T13:39:00Z"
     },
     {
+      "cve_id": "CVE-2026-79303",
+      "repo_info": "[4ybrick/CVE-2026-79303](https://github.com/4ybrick/CVE-2026-79303)",
+      "description": "kaiten cve",
+      "date": "2026-06-09",
+      "raw_date": "2026-06-09T13:19:09Z"
+    },
+    {
       "cve_id": "CVE-2026-52885",
       "repo_info": "[v3s9er/CVE-2026-52885](https://github.com/v3s9er/CVE-2026-52885)",
       "description": "no description",
@@ -17,9 +24,9 @@
       "raw_date": "2026-06-09T17:37:30Z"
     }
   ],
-  "generated_at": "2026-09-10T03:25:14.395619",
+  "generated_at": "2026-09-10T05:45:58.349304",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 3,
     "date_range": "2026-06-09",
     "source": "README.md",
     "script_version": "2.0"

@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-09-13 05:52:56
+- **生成时间**: 2026-09-14 05:59:39
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -417,9 +417,10 @@
 | 🚫 未识别 | [sentnelops/mcp-security-index](https://github.com/sentnelops/mcp-security-index) | MCP Security Index 2026: security posture of the 50 most widely used public MCP servers — per-call authorization, audit logging, caller auth, destructive capability, documented CVEs. Dataset CC BY 4.0. | 2026-09-07T13:45:04Z|
 | 🚫 未识别 | [Aizhouym/PatchHolmes](https://github.com/Aizhouym/PatchHolmes) | CVE→fix-commit tracing via hybrid retrieval and an agentic loop. AACL-IJCNLP 2026 (Main). | 2026-05-24T07:31:10Z|
 | 🚫 未识别 | [Mr-Butterfly-cybersec/SIH_2026_Team_Cogito_Ergo_Sum](https://github.com/Mr-Butterfly-cybersec/SIH_2026_Team_Cogito_Ergo_Sum) | Cyber risk quantification and security-investment optimization — from CVE to ₹ impact to optimal security spend. SIH 2026, problem SIH26105. | 2026-09-10T22:26:13Z|
+| 🚫 未识别 | [testinhottt-ux/mellin-residue-zip](https://github.com/testinhottt-ux/mellin-residue-zip) | MRZ: Mellin-Residue Zip — lossless compression for software supply chain metadata (PURL, SBOM/SPDX/CycloneDX, OSV/CVE, VEX) + cache-blocked parallel Quadratic Sieve engine. NLnet CodeSupply proposal 2026-11-0bb. | 2026-09-13T12:17:06Z|
 
 
 ---
 
-**报告生成时间**: 2026-09-13 05:53:21  
-**总记录数**: 406
+**报告生成时间**: 2026-09-14 06:00:18  
+**总记录数**: 407

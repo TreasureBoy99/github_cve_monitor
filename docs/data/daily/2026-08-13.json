@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "count": 21,
+  "count": 22,
   "cves": [
     {
       "cve_id": "CVE-2026-9999",
@@ -64,6 +64,13 @@
       "description": "CVE-2026-53413 - Draft or TODO",
       "date": "2026-08-13",
       "raw_date": "2026-08-13T14:23:00Z"
+    },
+    {
+      "cve_id": "CVE-2026-43783",
+      "repo_info": "[andrd3v/CVE-2026-43783](https://github.com/andrd3v/CVE-2026-43783)",
+      "description": "macOS 26.5.2&lt; LPE PoC",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T08:02:00Z"
     },
     {
       "cve_id": "CVE-2026-43499",
@@ -150,9 +157,9 @@
       "raw_date": "2026-08-13T00:27:20Z"
     }
   ],
-  "generated_at": "2026-09-15T03:44:09.354845",
+  "generated_at": "2026-09-15T06:00:39.466119",
   "metadata": {
-    "total_cves": 21,
+    "total_cves": 22,
     "date_range": "2026-08-13",
     "source": "README.md",
     "script_version": "2.0"

@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-09-15 06:00:09
+- **生成时间**: 2026-09-16 05:50:54
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -419,9 +419,10 @@
 | 🚫 未识别 | [Mr-Butterfly-cybersec/SIH_2026_Team_Cogito_Ergo_Sum](https://github.com/Mr-Butterfly-cybersec/SIH_2026_Team_Cogito_Ergo_Sum) | Cyber risk quantification and security-investment optimization — from CVE to ₹ impact to optimal security spend. SIH 2026, problem SIH26105. | 2026-09-10T22:26:13Z|
 | 🚫 未识别 | [testinhottt-ux/mellin-residue-zip](https://github.com/testinhottt-ux/mellin-residue-zip) | MRZ: Mellin-Residue Zip — lossless compression for software supply chain metadata (PURL, SBOM/SPDX/CycloneDX, OSV/CVE, VEX) + cache-blocked parallel Quadratic Sieve engine. NLnet CodeSupply proposal 2026-11-0bb. | 2026-09-13T12:17:06Z|
 | 🚫 未识别 | [a670493528/msft-cve-series](https://github.com/a670493528/msft-cve-series) | Monthly Microsoft-CNA CVE series (2025-09..2026-08) from cvelistV5 at a pinned commit - 1F916 listing 41 deliverable | 2026-09-14T16:21:37Z|
+| 🚫 未识别 | [Manav250305/vulnintel](https://github.com/Manav250305/vulnintel) | Vulnerability intelligence over 391k+ CVEs (1988-2026): trend analysis, vendor archetypes, CWE co-occurrence network, and a locally-run LLM assistant grounded in computed figures. | 2026-09-15T16:56:55Z|
 
 
 ---
 
-**报告生成时间**: 2026-09-15 06:00:38  
-**总记录数**: 408
+**报告生成时间**: 2026-09-16 05:51:21  
+**总记录数**: 409

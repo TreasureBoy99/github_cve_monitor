@@ -1,7 +1,14 @@
 {
   "date": "2026-08-17",
-  "count": 26,
+  "count": 27,
   "cves": [
+    {
+      "cve_id": "CVE-2026-92247",
+      "repo_info": "[d1n3sh-0x3/CVE-2026-92247](https://github.com/d1n3sh-0x3/CVE-2026-92247)",
+      "description": "Rce In synaptikcms",
+      "date": "2026-08-17",
+      "raw_date": "2026-08-17T15:12:52Z"
+    },
     {
       "cve_id": "CVE-2026-74970",
       "repo_info": "[defineid/Trespasser](https://github.com/defineid/Trespasser)",
@@ -185,9 +192,9 @@
       "raw_date": "2026-08-17T15:34:50Z"
     }
   ],
-  "generated_at": "2026-09-17T03:45:56.419514",
+  "generated_at": "2026-09-17T05:58:29.729213",
   "metadata": {
-    "total_cves": 26,
+    "total_cves": 27,
     "date_range": "2026-08-17",
     "source": "README.md",
     "script_version": "2.0"

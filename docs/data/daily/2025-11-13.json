@@ -1,10 +1,18 @@
 {
   "date": "2025-11-13",
-  "count": 0,
-  "cves": [],
-  "generated_at": "2026-08-10T03:25:41.786669",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-20260",
+      "repo_info": "[keyuraghao/CVE-2025-20260](https://github.com/keyuraghao/CVE-2025-20260)",
+      "description": "First public PoC for CVE-2025-20260 (CVSS 9.8) - a ClamAV PDF-scanning buffer overflow, with core-dump analysis.",
+      "date": "2025-11-13",
+      "raw_date": "2025-11-13T00:24:05Z"
+    }
+  ],
+  "generated_at": "2026-09-19T05:40:21.333735",
   "metadata": {
-    "total_cves": 0,
+    "total_cves": 1,
     "date_range": "2025-11-13",
     "source": "README.md",
     "script_version": "2.0"

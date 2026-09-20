@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-09-19 05:39:41
+- **生成时间**: 2026-09-20 05:58:10
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -421,9 +421,10 @@
 | 🚫 未识别 | [a670493528/msft-cve-series](https://github.com/a670493528/msft-cve-series) | Monthly Microsoft-CNA CVE series (2025-09..2026-08) from cvelistV5 at a pinned commit - 1F916 listing 41 deliverable | 2026-09-14T16:21:37Z|
 | 🚫 未识别 | [Manav250305/vulnintel](https://github.com/Manav250305/vulnintel) | Vulnerability intelligence over 391k+ CVEs (1988-2026): trend analysis, vendor archetypes, CWE co-occurrence network, and a locally-run LLM assistant grounded in computed figures. | 2026-09-15T16:56:55Z|
 | 🚫 未识别 | [Ishanoshada/Ollama-Hunter](https://github.com/Ishanoshada/Ollama-Hunter) | 🦙 Mass vulnerability scanner &amp; multi-CVE test harness for Ollama instances. 3 tools: cve_sweep.py (single-target), mass_scan.py (threaded mass scan), ollama-toolkit.py (read-only audit + chat). 30 checks, 26 CVEs (2024-2026). Python. | 2026-09-16T13:45:59Z|
+| 🚫 未识别 | [JinzoU-MwM/CVE-Lib](https://github.com/JinzoU-MwM/CVE-Lib) | CVE-Lib 2026 — 70,261 CVE records with offline-searchable PoC corpus, pinned versions, and local PoC source linkage (library/, exploitdb, metasploit, nuclei) | 2026-09-19T23:27:32Z|
 
 
 ---
 
-**报告生成时间**: 2026-09-19 05:40:20  
-**总记录数**: 410
+**报告生成时间**: 2026-09-20 05:58:35  
+**总记录数**: 411

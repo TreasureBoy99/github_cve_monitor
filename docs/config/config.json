@@ -1,7 +1,7 @@
 {
-  "github_token": "ghs_15368_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhdXRobmQiLCJjdHgiOiJfTVNHLUszbUZKSFowNU8ybWttMkJhdjZIbmg3blRfcGxaUFNRczZ0cmd0dkMwWHhqVmQyUHZzIiwiZXhwIjoxNzg5OTc0MjY0LCJpYXQiOjE3ODk5NzA2NjQsImlzcyI6ImdpdGh1YiIsImp0aSI6ImVkZWUwMWFmLWU2OWQtNGQ4OS04M2NlLWJhMTYwMjE2ZmNmNSIsInZlciI6M30.29vUnyELEgkVYlqwTWWxoxc6lRZWu6IxuM2MoiD0CFA0dNOF0jTwqlxbxgg5bxcINd1a7cWkDkZmNAPfPdgByw",
+  "github_token": "ghs_15368_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhdXRobmQiLCJjdHgiOiJlX0lKQlhFQXZ5S2N4UmlpUlYyVFFMWGZpYVk2TWcyWkYxUFVHSWdtbWsyZ0hTalRJcDVQTDhnIiwiZXhwIjoxNzkwMDYwMzM3LCJpYXQiOjE3OTAwNTY3MzcsImlzcyI6ImdpdGh1YiIsImp0aSI6IjhjNDQ1ZDY4LWEwYmMtNGVhMC1hNmZmLTM5MmRkYzRhZjY4NiIsInZlciI6M30.jMFmAP210IzMsYNpb-w40nAjIuwxyJ9bC1lY4aS6FeH6o0lUZZvIYri5a7CB7Ckq21oCk4wL2ylURXcS-Q102Q",
   "api_base_url": "https://api.github.com",
   "repository": "TreasureBoy99/github_cve_monitor",
-  "generated_at": "2026-09-21T06:04:28Z",
+  "generated_at": "2026-09-22T05:59:01Z",
   "token_note": "GitHub Actions内置Token"
 }

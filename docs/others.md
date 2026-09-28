@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2026-09-27 06:27:50
+- **生成时间**: 2026-09-28 06:35:56
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -428,9 +428,10 @@
 | 🚫 未识别 | [NGSecure/cve_tasks20260925B](https://github.com/NGSecure/cve_tasks20260925B) | no description | 2026-09-25T21:52:51Z|
 | 🚫 未识别 | [NGSecure/cve_tasks20260925A](https://github.com/NGSecure/cve_tasks20260925A) | no description | 2026-09-25T21:52:26Z|
 | 🚫 未识别 | [huasheng505/TGSEC-Qtzuu](https://github.com/huasheng505/TGSEC-Qtzuu) | TGSEC社区渗透套件 · 2026-09-23：cvebird最优9 harness + CVE独立仓差分 + 锁面。按攻击面组织，可喂给AI | 2026-09-26T08:12:18Z|
+| 🚫 未识别 | [zZD4rkN1gh7Xx/M-Y1-S1-TPAS-26-27](https://github.com/zZD4rkN1gh7Xx/M-Y1-S1-TPAS-26-27) | Apresentaçao da CVE, Labs e projeto da cadeira de Teoria e Pratica de Staques de Segurança nos anos 2026/27 | 2026-09-27T14:45:48Z|
 
 
 ---
 
-**报告生成时间**: 2026-09-27 06:28:16  
-**总记录数**: 417
+**报告生成时间**: 2026-09-28 06:36:24  
+**总记录数**: 418

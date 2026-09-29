@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "count": 22,
+  "count": 23,
   "cves": [
     {
       "cve_id": "CVE-2026-9999",
@@ -155,11 +155,18 @@
       "description": "GoDAM WordPress plugin &lt;= 1.12.2 unauthenticated file upload RCE (CVE-2026-14282)",
       "date": "2026-08-13",
       "raw_date": "2026-08-13T00:27:20Z"
+    },
+    {
+      "cve_id": "CVE-2026-101053",
+      "repo_info": "[turretsec/u3000py](https://github.com/turretsec/u3000py)",
+      "description": "Python client for the Thinkware U3000 dashcam&#x27;s local WiFi control protocol, reverse-engineered from the official Android app. PoC tooling behind CVE-2026-101053, CVE-2026-101054, and CVE-2026-101055.",
+      "date": "2026-08-13",
+      "raw_date": "2026-08-13T15:26:23Z"
     }
   ],
-  "generated_at": "2026-09-29T04:36:51.772830",
+  "generated_at": "2026-09-29T06:44:16.915167",
   "metadata": {
-    "total_cves": 22,
+    "total_cves": 23,
     "date_range": "2026-08-13",
     "source": "README.md",
     "script_version": "2.0"

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "count": 32,
+  "count": 33,
   "cves": [
     {
       "cve_id": "CVE-2026-71554",
@@ -150,6 +150,13 @@
       "raw_date": "2026-08-07T10:05:56Z"
     },
     {
+      "cve_id": "CVE-2026-64561",
+      "repo_info": "[suominen/zapscape](https://github.com/suominen/zapscape)",
+      "description": "Tracking Zapscape (CVE-2026-64561), the KVM/x86 shadow-MMU guest-to-host escape",
+      "date": "2026-08-07",
+      "raw_date": "2026-08-07T09:36:44Z"
+    },
+    {
       "cve_id": "CVE-2026-63077",
       "repo_info": "[sfewer-r7/CVE-2026-63077](https://github.com/sfewer-r7/CVE-2026-63077)",
       "description": "Unauthenticated Remote Code Execution in JetBrains TeamCity (CVE-2026-63077)",
@@ -227,9 +234,9 @@
       "raw_date": "2026-08-07T13:20:19Z"
     }
   ],
-  "generated_at": "2026-09-29T04:36:51.770500",
+  "generated_at": "2026-09-29T06:44:16.912787",
   "metadata": {
-    "total_cves": 32,
+    "total_cves": 33,
     "date_range": "2026-08-07",
     "source": "README.md",
     "script_version": "2.0"

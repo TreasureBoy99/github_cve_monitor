@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "count": 29,
+  "count": 30,
   "cves": [
     {
       "cve_id": "CVE-2026-66804",
@@ -29,6 +29,13 @@
       "description": "CVE-2026-64600 - Draft - Check todo",
       "date": "2026-07-23",
       "raw_date": "2026-07-23T09:29:14Z"
+    },
+    {
+      "cve_id": "CVE-2026-64560",
+      "repo_info": "[imkidz0/CVE-2026-64560-exploit](https://github.com/imkidz0/CVE-2026-64560-exploit)",
+      "description": "Exploit of CVE-2026-64560 for kernelCTF, LTS-6.12.95",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T09:35:07Z"
     },
     {
       "cve_id": "CVE-2026-63766",
@@ -206,9 +213,9 @@
       "raw_date": "2026-07-23T09:47:02Z"
     }
   ],
-  "generated_at": "2026-10-04T04:39:46.154350",
+  "generated_at": "2026-10-04T06:43:18.607712",
   "metadata": {
-    "total_cves": 29,
+    "total_cves": 30,
     "date_range": "2026-07-23",
     "source": "README.md",
     "script_version": "2.0"

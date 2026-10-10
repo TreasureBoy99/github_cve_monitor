@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "count": 19,
+  "count": 20,
   "cves": [
     {
       "cve_id": "CVE-2026-8347",
@@ -57,6 +57,13 @@
       "description": "A Metasploit auxiliary module that escalates from any low-privileged domain user to full domain compromise by abusing the AD CS enrollment &quot;chase&quot; fallback.  The CA can be coerced into authenticating back to attacker-controlled infrastructure and then issuing a certificate that impersonates a Domain Controller.",
       "date": "2026-07-31",
       "raw_date": "2026-07-31T07:17:36Z"
+    },
+    {
+      "cve_id": "CVE-2026-51994",
+      "repo_info": "[playb0t/mcp-remote-oauth-security](https://github.com/playb0t/mcp-remote-oauth-security)",
+      "description": "Forensic audit of mcp-remote: seven OAuth trust-boundary advisories, five CVE records (CVE-2026-51994/51995/51996/51997/52001). Server-selected request path (CWE-918) run against loopback canaries in 58 stable releases, 0.1.32 to the current 0.14.3; selected code and namespace signatures under 12 other npm names; search blind spots above 350 KiB.",
+      "date": "2026-07-31",
+      "raw_date": "2026-07-31T10:36:20Z"
     },
     {
       "cve_id": "CVE-2026-47668",
@@ -136,9 +143,9 @@
       "raw_date": "2026-07-31T19:05:11Z"
     }
   ],
-  "generated_at": "2026-10-10T04:40:31.045988",
+  "generated_at": "2026-10-10T06:54:17.898696",
   "metadata": {
-    "total_cves": 19,
+    "total_cves": 20,
     "date_range": "2026-07-31",
     "source": "README.md",
     "script_version": "2.0"

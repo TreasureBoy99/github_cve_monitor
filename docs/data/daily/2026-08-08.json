@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "count": 21,
+  "count": 22,
   "cves": [
     {
       "cve_id": "CVE-2026-71557",
@@ -143,6 +143,13 @@
       "raw_date": "2026-08-08T16:36:35Z"
     },
     {
+      "cve_id": "CVE-2026-19607",
+      "repo_info": "[7Ragnarok7/CVE-2026-19607](https://github.com/7Ragnarok7/CVE-2026-19607)",
+      "description": "Vulnerability Details and Exploit for CVE-2026-19607",
+      "date": "2026-08-08",
+      "raw_date": "2026-08-08T15:56:05Z"
+    },
+    {
       "cve_id": "CVE-2026-18953",
       "repo_info": "[ronamosa/CVE-2026-18953](https://github.com/ronamosa/CVE-2026-18953)",
       "description": "PoC for CVE-2026-18953 — arbitrary file write (CWE-22) in awslabs.aws-transform-mcp-server&#x27;s get_resource tool via the savePath parameter",
@@ -150,9 +157,9 @@
       "raw_date": "2026-08-08T03:41:26Z"
     }
   ],
-  "generated_at": "2026-10-17T03:17:32.748238",
+  "generated_at": "2026-10-17T05:27:59.655272",
   "metadata": {
-    "total_cves": 21,
+    "total_cves": 22,
     "date_range": "2026-08-08",
     "source": "README.md",
     "script_version": "2.0"

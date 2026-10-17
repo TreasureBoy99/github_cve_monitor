@@ -1,10 +1,18 @@
 {
   "date": "2026-01-25",
-  "count": 0,
-  "cves": [],
-  "generated_at": "2026-08-10T03:25:41.798661",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2026-24061",
+      "repo_info": "[infat0x/CVE-2026-24061](https://github.com/infat0x/CVE-2026-24061)",
+      "description": "CVE-2026-24061 PoC",
+      "date": "2026-01-25",
+      "raw_date": "2026-01-25T10:40:00Z"
+    }
+  ],
+  "generated_at": "2026-10-17T05:27:59.620880",
   "metadata": {
-    "total_cves": 0,
+    "total_cves": 1,
     "date_range": "2026-01-25",
     "source": "README.md",
     "script_version": "2.0"

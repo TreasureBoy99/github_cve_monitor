@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "count": 73,
+  "count": 75,
   "cves": [
     {
       "cve_id": "CVE-2026-98260",
@@ -248,6 +248,13 @@
       "raw_date": "2026-10-26T10:03:58Z"
     },
     {
+      "cve_id": "CVE-2026-111497",
+      "repo_info": "[amier-ge/Node2Shell](https://github.com/amier-ge/Node2Shell)",
+      "description": "A local Docker environment and proof of concept for Node2Shell (CVE-2026-111497)",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T15:46:23Z"
+    },
+    {
       "cve_id": "CVE-2026-109619",
       "repo_info": "[franckferman/CVE-2026-109619](https://github.com/franckferman/CVE-2026-109619)",
       "description": "CVE-2026-109619 - PHP session.upload_progress File Poisoning + LFI RCE (CVSS 9.2)",
@@ -479,6 +486,13 @@
       "raw_date": "2026-10-26T06:29:17Z"
     },
     {
+      "cve_id": "CVE-2026-109618",
+      "repo_info": "[rayaar/php2shellPoc](https://github.com/rayaar/php2shellPoc)",
+      "description": "CVE-2026-109618 / 109619 research &amp; exploit tooling (mod_php + FPM Chain-E)",
+      "date": "2026-10-26",
+      "raw_date": "2026-10-26T19:29:28Z"
+    },
+    {
       "cve_id": "CVE-2026-106686",
       "repo_info": "[zfzhou0202/CVE-2026-106686](https://github.com/zfzhou0202/CVE-2026-106686)",
       "description": "no description",
@@ -514,9 +528,9 @@
       "raw_date": "2026-10-26T14:47:26Z"
     }
   ],
-  "generated_at": "2026-10-27T06:09:24.045172",
+  "generated_at": "2026-10-28T06:46:00.832592",
   "metadata": {
-    "total_cves": 73,
+    "total_cves": 75,
     "date_range": "2026-10-26",
     "source": "README.md",
     "script_version": "2.0"

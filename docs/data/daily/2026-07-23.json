@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "count": 30,
+  "count": 31,
   "cves": [
     {
       "cve_id": "CVE-2026-66804",
@@ -43,6 +43,13 @@
       "description": "no description",
       "date": "2026-07-23",
       "raw_date": "2026-07-23T11:27:34Z"
+    },
+    {
+      "cve_id": "CVE-2026-63286",
+      "repo_info": "[ricardojoserf/CVE-2026-63286](https://github.com/ricardojoserf/CVE-2026-63286)",
+      "description": "Exploit for CVE-2026-63286: Offline decryptor for AXIS Camera Station (ACS) credentials",
+      "date": "2026-07-23",
+      "raw_date": "2026-07-23T15:28:45Z"
     },
     {
       "cve_id": "CVE-2026-63030",
@@ -213,9 +220,9 @@
       "raw_date": "2026-07-23T09:47:02Z"
     }
   ],
-  "generated_at": "2026-10-28T06:46:00.801621",
+  "generated_at": "2026-10-29T06:54:00.059860",
   "metadata": {
-    "total_cves": 30,
+    "total_cves": 31,
     "date_range": "2026-07-23",
     "source": "README.md",
     "script_version": "2.0"

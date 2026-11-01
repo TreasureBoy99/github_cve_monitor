@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-31T06:51:50.475905",
+  "generated_at": "2026-11-01T07:18:33.793841",
   "script_version": "2.0",
-  "total_files": 3379,
-  "total_cves": 32580,
+  "total_files": 3380,
+  "total_cves": 32624,
   "date_range": {
     "start": "2009-06-08",
-    "end": "2026-10-31"
+    "end": "2026-11-01"
   },
   "statistics": {
-    "avg_daily_cves": 9.64,
+    "avg_daily_cves": 9.65,
     "max_daily_cves": 811,
     "min_daily_cves": 1,
     "empty_days": 0,
-    "active_days": 3379
+    "active_days": 3380
   },
   "growth_analysis": [
     {
@@ -20285,18 +20285,18 @@
     },
     {
       "date": "2026-10-31",
-      "daily_count": 8,
-      "cumulative_total": 32580,
-      "growth_rate": -88.24
+      "daily_count": 43,
+      "cumulative_total": 32615,
+      "growth_rate": -36.76
+    },
+    {
+      "date": "2026-11-01",
+      "daily_count": 9,
+      "cumulative_total": 32624,
+      "growth_rate": -79.07
     }
   ],
   "recent_7_days": [
-    {
-      "date": "2026-10-25",
-      "daily_count": 81,
-      "cumulative_total": 32230,
-      "growth_rate": -1.22
-    },
     {
       "date": "2026-10-26",
       "daily_count": 75,
@@ -20329,18 +20329,18 @@
     },
     {
       "date": "2026-10-31",
-      "daily_count": 8,
-      "cumulative_total": 32580,
-      "growth_rate": -88.24
+      "daily_count": 43,
+      "cumulative_total": 32615,
+      "growth_rate": -36.76
+    },
+    {
+      "date": "2026-11-01",
+      "daily_count": 9,
+      "cumulative_total": 32624,
+      "growth_rate": -79.07
     }
   ],
   "recent_30_days": [
-    {
-      "date": "2026-10-02",
-      "daily_count": 32,
-      "cumulative_total": 30812,
-      "growth_rate": 6.67
-    },
     {
       "date": "2026-10-03",
       "daily_count": 17,
@@ -20511,9 +20511,15 @@
     },
     {
       "date": "2026-10-31",
-      "daily_count": 8,
-      "cumulative_total": 32580,
-      "growth_rate": -88.24
+      "daily_count": 43,
+      "cumulative_total": 32615,
+      "growth_rate": -36.76
+    },
+    {
+      "date": "2026-11-01",
+      "daily_count": 9,
+      "cumulative_total": 32624,
+      "growth_rate": -79.07
     }
   ],
   "daily_stats": [
@@ -40788,8 +40794,14 @@
     {
       "file": "2026-10-31.json",
       "date": "2026-10-31",
-      "count": 8,
+      "count": 43,
       "path": "/home/runner/work/github_cve_monitor/github_cve_monitor/docs/data/daily/2026-10-31.json"
+    },
+    {
+      "file": "2026-11-01.json",
+      "date": "2026-11-01",
+      "count": 9,
+      "path": "/home/runner/work/github_cve_monitor/github_cve_monitor/docs/data/daily/2026-11-01.json"
     }
   ]
 }
